@@ -29,3 +29,6 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
 - Veselí n. L.: rejstřík N 1700–1914 (kniha 8240), písmeno C = snímky 27–37 (1850–1870 na sn. 36–37). Cikánek Jan 1856 → kniha X (8226), fol. 34 = snímek 35.
   Zápis: * 24. 12. 1856 Veselí 56, otec Matěj Cikánek, podruh, nemanž. syn Marie Cikánkové; matka Dorota, dc. Jana Dvořáka a Anny (Kouba?).
   Další Cikánkové v rejstříku: Jakub 1840 (fol. 108), Mateg(?) 1838 (fol. 101?), Kateřina 1858, dvojčata Anna a Marie 1859.
+- Rejstřík C 1819–1827 (8240, sn. 34): Cikánek Mathias, Wesely 1823, 23 Febr, kn. 9 fol. 39, illeg. → kniha 8225 snímek 40. Ověřeno.
+  Pozor: „Mateg 1838 fol. 101“ je Charvát, ne Cikánek. Další: Cikánek Jakub 1820 Mezimostí (illeg.), Marie 1834 Mezimostí, Jan 1835 Veselí.
+- Sňatek Matěj × Dorota: Veselí O 1848–1896 (8233), snímky 36–41 (4/1855–4/1857) – nenalezen. Hledat ve farnosti nevěsty (Vlkov?) nebo jinde.
