@@ -1,19 +1,42 @@
 {
- "nazev": "",
- "popis": "",
- "zapati": "Dohledáno v digitalizovaných matrikách státních oblastních archivů",
- "kontakt": {"jmeno": "", "email": ""},
+ "nazev": "Rodokmen Eismannových",
+ "popis": "Rodokmen rodiny Eismannových a jejích předků z Prahy, Českých Budějovic a Veselí nad Lužnicí.",
+ "zapati": "Dohledáno v digitalizovaných matrikách SOA Třeboň a v pražských policejních přihláškách (Národní archiv)",
+ "kontakt": {
+  "jmeno": "",
+  "email": ""
+ },
  "prihlaseni": {
   "uvod": "Tenhle web je jen pro rodinu a příbuzné.",
   "otazka": "",
   "odpoved": ""
  },
  "uvod": {
-  "nadpis": "",
-  "odstavce": [],
-  "foto": "",
-  "foto_popis": ""
+  "nadpis": "Od podruhů z Veselí po bankovního úředníka v Praze",
+  "odstavce": [
+   "Babička Vlasta se narodila v roce 1912 v Českých Budějovicích. Její předci byli podruzi a nádeníci z Veselí nad Lužnicí a od Budějovic, topič v tabákové továrně a pozlacovač, který přišel z Horního Rakouska.",
+   "Tahle první verze webu ukazuje, co jsme zatím dohledali v matrikách – u každého údaje je výřez původního zápisu s přepisem."
+  ],
+  "foto": "cb_snatek_stanislav_novy_marie_cikankova_1911",
+  "foto_popis": "Sňatek Stanislava Nového a Marie Cikánkové, České Budějovice 1911"
  },
- "pribeh": {"menu": "", "rod": 8, "tlacitko": ""},
- "zajimavosti_na_uvodu": []
+ "pribeh": {
+  "menu": "",
+  "rod": 10,
+  "tlacitko": ""
+ },
+ "zajimavosti_na_uvodu": [
+  {
+   "nadpis": "Nejstarší doložený předek",
+   "text": "Matěj Cikánek, narozený 23. února 1823 ve Veselí nad Lužnicí jako nemanželský syn podruhyně Marie."
+  },
+  {
+   "nadpis": "Z Rakouska do Budějovic",
+   "text": "Pradědeček Stanislav Nový, pozlacovač, se narodil v roce 1886 v Heinrichsbrunnu u Mauthausenu v Horním Rakousku."
+  },
+  {
+   "nadpis": "Bez vyznání",
+   "text": "Prababička Marie vystoupila z církve v roce 1921, babička Vlasta o rok později – v deseti letech."
+  }
+ ]
 }

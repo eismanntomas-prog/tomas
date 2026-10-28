@@ -1,1 +1,37 @@
-{}
+{
+ "Praha": {
+  "re": "Prah",
+  "dotaz": "Praha, Česko",
+  "lat": 50.0875,
+  "lon": 14.4213,
+  "osm": "Praha, Česko"
+ },
+ "České Budějovice": {
+  "re": "Budějov",
+  "dotaz": "České Budějovice, Česko",
+  "lat": 48.9747,
+  "lon": 14.4743,
+  "osm": "České Budějovice, okres České Budějovice, Jihočeský kraj, Jihozápad, Česko"
+ },
+ "Veselí nad Lužnicí": {
+  "re": "Veselí",
+  "dotaz": "Veselí nad Lužnicí, Česko",
+  "lat": 49.1853,
+  "lon": 14.7077,
+  "osm": "Veselí nad Lužnicí, okres Tábor, Jihočeský kraj, Jihozápad, 391 81, Česko"
+ },
+ "Čtyři Dvory": {
+  "re": "Čtyř",
+  "dotaz": "Čtyři Dvory, Česko",
+  "lat": 48.9816,
+  "lon": 14.4505,
+  "osm": "Čtyři Dvory, Územní skupina 2, České Budějovice 2, České Budějovice, okres České Budějovice, Jihočeský kraj, Jihozápad, 370 12, Česko"
+ },
+ "Heinrichsbrunn": {
+  "re": "Heinrichsbrunn",
+  "dotaz": "Perg, Rakousko",
+  "lat": 48.2501,
+  "lon": 14.6338,
+  "osm": "Perg, Bezirk Perg, Oberösterreich, Österreich"
+ }
+}
