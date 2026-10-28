@@ -26,3 +26,6 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
 - Narození Marie Cikánkové: kniha 32 (id 2742), str. 571 = snímek 572. Otec Jan Cikánek z Veselí 56 (rodiče Matěj, podruh, a Dorota Dvořák z Vlkova);
   matka Marie ze Čtyř Dvorů 1, dcera Veroniky Semmelbauer (rodiče Ondřej, nádeník, a Marie Čížek).
 - Matricula, Mauthausen Taufbuch 13 (1870–1891, s indexem): stránky se načtou, obrázky vrací 403 – z této relace nestáhnu. Otevřené.
+- Veselí n. L.: rejstřík N 1700–1914 (kniha 8240), písmeno C = snímky 27–37 (1850–1870 na sn. 36–37). Cikánek Jan 1856 → kniha X (8226), fol. 34 = snímek 35.
+  Zápis: * 24. 12. 1856 Veselí 56, otec Matěj Cikánek, podruh, nemanž. syn Marie Cikánkové; matka Dorota, dc. Jana Dvořáka a Anny (Kouba?).
+  Další Cikánkové v rejstříku: Jakub 1840 (fol. 108), Mateg(?) 1838 (fol. 101?), Kateřina 1858, dvojčata Anna a Marie 1859.
