@@ -35,3 +35,5 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
 - Čtyři Dvory: N 1852–1882 = kniha 43 (id 2753), vlastní rejstřík na konci (S = snímek 136; snímek = folio).
   Semmelbauer Maria fol. 20 → * 25. 6. 1858 Vierhöf 1, nemanž. dc. Veroniky (dc. Andrease S., nádeníka, a Marie Čížek). Ověřeno.
   Další v rejstříku: Semmelbauer Maria fol. 42 (~1862), Anna fol. 64, Mathias fol. 69 – možná Veroničini další děti/příbuzní.
+- Veronika Semmelbauerová: rejstřík S knihy 42 (Čtyři Dvory N 1785–1852, id 2752, snímek 136) – Semmelbauer nenalezen
+  („Veronica 55“ je Steinhäusler). Rodina nejspíš přišla odjinud; v zápisu 1858 „nach …(?) zuständig“ – domovská obec jinde. Otevřené.
