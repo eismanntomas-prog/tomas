@@ -36,7 +36,7 @@ def get(url, data=None):
 
 def karta(session, poradi, out):
     h = get(f"{BASE}?session={session}&action=image&record={poradi}")
-    m = re.search(r'src="images/((\d+)-(\d+)\.jpg)"', h)
+    m = re.search(r'src="images/((\d+)-(\d+)\.jpg)"', h, re.I)
     if not m:
         sys.exit(f"karta č. {poradi} nenalezena (je pořadí z tohoto hledání?)")
     for i in range(5):
