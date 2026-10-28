@@ -5,3 +5,6 @@ Co víme z vyprávění a rodinných dokumentů – kdo to řekl / odkud to je a
 ## 2026-10-28 – Tomáš Eismann (výchozí osoba)
 - Tomáš Eismann, * 1985 Praha.
 - Otec: Zdeněk Eismann, * 1945 Praha.
+- Dědeček (otec Zdeňka): František Eismann, bankovní úředník.
+- Babička: Vlasta Eismannová, narozena v Českých Budějovicích. Rodné příjmení zatím neznámé.
+- Prarodiče bydleli na Vinohradech.
