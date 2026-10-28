@@ -29,7 +29,7 @@ P = {
     20: dict(n="Jan Nový", y="* ?", st="doc", f=["strojní zámečník v Českých Budějovicích"], r=["cb_snatek_stanislav_novy_marie_cikankova_1911"]),
     21: dict(n="Rozálie Praschek (?)", y="* ?", st="doc", f=["z Urtinovic (?), okres Budějovice"], r=["cb_snatek_stanislav_novy_marie_cikankova_1911"], note="Příjmení i obec čteny nejistě (Raschek/Praschek; Urtinovice?)."),
     22: dict(n="Jan Cikánek", y="* 1856", st="doc", f=["* 24. 12. 1856 Veselí nad Lužnicí č. 56", "topič v tabákové továrně v Českých Budějovicích"], r=["ves_krest_jan_cikanek_1856","cb_krest_marie_cikankova_1887","cb_snatek_stanislav_novy_marie_cikankova_1911"]),
-    23: dict(n="Marie Semmelbauerová", y="* ?", st="doc", f=["* Čtyři Dvory č. 1"], r=["cb_krest_marie_cikankova_1887"], note="Podle křtu dcery byla dcerou Veroniky Semmelbauerové; otec neuveden (asi nemanželská)."),
+    23: dict(n="Marie Semmelbauerová", y="* 1858", st="doc", f=["* 25. 6. 1858 Čtyři Dvory č. 1"], r=["cd_krest_marie_semmelbauerova_1858","cb_krest_marie_cikankova_1887"], note="Nemanželská dcera Veroniky Semmelbauerové."),
     44: dict(n="Matěj Cikánek", y="* 1823", st="doc", f=["* 23. 2. 1823 Veselí nad Lužnicí č. 65", "podruh ve Veselí nad Lužnicí č. 56"], r=["ves_krest_matej_cikanek_1823","ves_krest_jan_cikanek_1856","cb_krest_marie_cikankova_1887"], note="Nemanželský syn Marie Cikánkové. Sňatek s Dorotou Dvořákovou kolem 1855 (výpis z matriky 10. 11. 1855) – ve Veselí 9/1855–4/1856 nenalezen."),
     45: dict(n="Dorota Dvořáková", y="* ?", st="doc", f=["z Vlkova"], r=["ves_krest_jan_cikanek_1856","cb_krest_marie_cikankova_1887"], note="Dcera Jana Dvořáka a Anny (roz. Kouba?) – čteno nejistě."),
     88: dict(n="otec neuveden", st="unk", f=[], note="Matěj Cikánek nese příjmení matky."),
@@ -39,9 +39,9 @@ P = {
     90: dict(n="Jan Dvořák", y="* ?", st="doc", f=["z Vlkova (?)"], r=["ves_krest_jan_cikanek_1856"]),
     91: dict(n="Anna Koubová (?)", y="* ?", st="doc", f=[], r=["ves_krest_jan_cikanek_1856"], note="Rodné příjmení čteno nejistě."),
     46: dict(n="otec neuveden", st="unk", f=[], note="Marie Semmelbauerová byla podle zápisu dcerou Veroniky; otec neuveden."),
-    47: dict(n="Veronika Semmelbauerová", y="* ?", st="doc", f=["Čtyři Dvory"], r=["cb_krest_marie_cikankova_1887"]),
-    94: dict(n="Ondřej Semmelbauer", y="* ?", st="doc", f=["nádeník ve Čtyřech Dvořích"], r=["cb_krest_marie_cikankova_1887"]),
-    95: dict(n="Marie Čížková", y="* ?", st="doc", f=[], r=["cb_krest_marie_cikankova_1887"]),
+    47: dict(n="Veronika Semmelbauerová", y="* ?", st="doc", f=["Čtyři Dvory"], r=["cd_krest_marie_semmelbauerova_1858","cb_krest_marie_cikankova_1887"]),
+    94: dict(n="Ondřej Semmelbauer", y="* ?", st="doc", f=["nádeník ve Čtyřech Dvorech"], r=["cd_krest_marie_semmelbauerova_1858","cb_krest_marie_cikankova_1887"]),
+    95: dict(n="Marie Čížková", y="* ?", st="doc", f=[], r=["cd_krest_marie_semmelbauerova_1858","cb_krest_marie_cikankova_1887"]),
 }
 
 # Rody = osm větví podle pradědečků a prababiček (čísla 8–15). Doplňte, jakmile je znáte:

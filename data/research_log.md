@@ -32,3 +32,6 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
 - Rejstřík C 1819–1827 (8240, sn. 34): Cikánek Mathias, Wesely 1823, 23 Febr, kn. 9 fol. 39, illeg. → kniha 8225 snímek 40. Ověřeno.
   Pozor: „Mateg 1838 fol. 101“ je Charvát, ne Cikánek. Další: Cikánek Jakub 1820 Mezimostí (illeg.), Marie 1834 Mezimostí, Jan 1835 Veselí.
 - Sňatek Matěj × Dorota: Veselí O 1848–1896 (8233), snímky 36–41 (4/1855–4/1857) – nenalezen. Hledat ve farnosti nevěsty (Vlkov?) nebo jinde.
+- Čtyři Dvory: N 1852–1882 = kniha 43 (id 2753), vlastní rejstřík na konci (S = snímek 136; snímek = folio).
+  Semmelbauer Maria fol. 20 → * 25. 6. 1858 Vierhöf 1, nemanž. dc. Veroniky (dc. Andrease S., nádeníka, a Marie Čížek). Ověřeno.
+  Další v rejstříku: Semmelbauer Maria fol. 42 (~1862), Anna fol. 64, Mathias fol. 69 – možná Veroničini další děti/příbuzní.
