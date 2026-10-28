@@ -37,3 +37,6 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
   Další v rejstříku: Semmelbauer Maria fol. 42 (~1862), Anna fol. 64, Mathias fol. 69 – možná Veroničini další děti/příbuzní.
 - Veronika Semmelbauerová: rejstřík S knihy 42 (Čtyři Dvory N 1785–1852, id 2752, snímek 136) – Semmelbauer nenalezen
   („Veronica 55“ je Steinhäusler). Rodina nejspíš přišla odjinud; v zápisu 1858 „nach …(?) zuständig“ – domovská obec jinde. Otevřené.
+- Sňatek Matěj Cikánek × Dorota Dvořáková – fara Vlkov (u Veselí; id místa 409379, knihy 3484–3494):
+  rejstřík O 1685–1875 (3493), písmeno C (sn. 7) – Cikánek nenalezen; rejstřík N 1685–1875 (3492), D (sn. 16–18) – Dorota Dvořáková
+  narozená 1815–1840 nenalezena. „z Vlkova“ v křtu Jana 1856 je čteno nejistě – možná jiná obec. Otevřené.
