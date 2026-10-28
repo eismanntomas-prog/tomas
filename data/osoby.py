@@ -22,8 +22,14 @@ P = {
     2: dict(n="Zdeněk Eismann", y="* 1945", st="fam", f=["* 1945 Praha"], r=[], note="Údaje jen základní (narozen 1945, matrika zatím není veřejná)."),
     4: dict(n="František Eismann", y="* ?", st="fam", f=["bankovní úředník", "bydliště Praha-Vinohrady"], r=[],
             note="Od rodiny. Hypotéza: totožný s Františkem Eismannem * 1905 z policejní přihlášky 1907 (karton 3, obraz 781) – ověřit."),
-    5: dict(n="Vlasta ?", y="* ?", st="fam", f=["* České Budějovice", "bydliště Praha-Vinohrady"], r=[],
-            note="Od rodiny. Rodné příjmení zatím neznámé."),
+    5: dict(n="Vlasta Nová", y="* 1912", st="doc", f=["* 26. 1. 1912 České Budějovice, Haasova ul. č. 42", "1922 vystoupila z církve (bez vyznání)", "bydliště Praha-Vinohrady"], r=["cb_krest_vlasta_nova_1912"],
+            note="Rodina: Vlasta Nová, * asi 1912 v Č. Budějovicích. Jediná Vlasta Nová v rejstříku sv. Mikuláše 1910–1914. Spojení se sňatkem s Františkem Eismannem zatím nedoloženo."),
+    10: dict(n="Stanislav Nový", y="* ?", st="doc", f=["pozlacovač v Českých Budějovicích", "* Heinrichsbrunn(?) č. 15"], r=["cb_krest_vlasta_nova_1912"], note="Místo narození čteno nejistě."),
+    11: dict(n="Marie Šikánková (?)", y="* ?", st="doc", f=["* České Budějovice"], r=["cb_krest_vlasta_nova_1912"], note="Příjmení otce čteno nejistě (Šikánek?)."),
+    20: dict(n="Jan Nový", y="* ?", st="doc", f=["strojní zámečník v Českých Budějovicích"], r=["cb_krest_vlasta_nova_1912"]),
+    21: dict(n="Rozalie Raschek (?)", y="* ?", st="doc", f=["z Urtinovic(?)"], r=["cb_krest_vlasta_nova_1912"], note="Příjmení i místo čteno nejistě."),
+    22: dict(n="Jan Šikánek (?)", y="* ?", st="doc", f=["topič v tabákové továrně v Č. Budějovicích"], r=["cb_krest_vlasta_nova_1912"]),
+    23: dict(n="Marie Semmelbauerová", y="* ?", st="doc", f=["ze Čtyř Dvorů č. 1"], r=["cb_krest_vlasta_nova_1912"]),
 }
 
 # Rody = osm větví podle pradědečků a prababiček (čísla 8–15). Doplňte, jakmile je znáte:

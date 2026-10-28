@@ -17,3 +17,6 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
 - Prohlédnuty další karty (obraz 786, 799, 782): Gottlieb * 1882 (Vinohrady 1911); rodina Eismann * 1849 se syny
   Jaroslavem 1878, Wenzelem 1880, Gottliebem 1882 (1886); Franz * 1873 z Rokycan s Annou roz. Růžkovou, Vinohrady 1902.
   Spojení s Boženou zatím neurčeno (manžel hasič může být jeden z těchto mužů).
+- Hudlice u Berouna (od rodiny) → SOA Praha (eBadatelna), odsud nedostupné. Božena z přihlášky 1907 má domovskou obec Těnovice u Plzně – s Hudlicemi zatím nesedí.
+- SOA Třeboň, Č. Budějovice sv. Mikuláš 40D (1910–1914, kniha 9495): dobrovolnický rejstřík N → Nová Vlasta Veronika 1912, snímek 29.
+  Zápis č. 68: * 26. 1. 1912, Haasova ul. 42; otec Stanislav Nový, pozlacovač; matka Marie (Šikánek?); poznámka 1922 bez vyznání. Viz prepisy.json.
