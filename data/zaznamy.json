@@ -6,7 +6,27 @@
   "druh": "N",
   "datum": "26. 1. 1912",
   "nazev": "Křest Vlasty Veroniky Nové",
-  "shrnuti": "Vlasta Veronika, dcera Stanislava Nového, pozlacovače v Českých Budějovicích, a Marie roz. Šikánkové (?), Haasova ul. č. 42. Poznámka: 1922 přestoupila k bezvěrcům.",
+  "shrnuti": "Vlasta Veronika, dcera Stanislava Nového, pozlacovače v Českých Budějovicích, a Marie roz. Cikánkové, Haasova ul. č. 42. Poznámka: 1922 přestoupila k bezvěrcům.",
   "odkaz": "https://digi.ceskearchivy.cz/9495/29"
+ },
+ {
+  "klic": "cb_snatek_stanislav_novy_marie_cikankova_1911",
+  "svazek": "trebon_2782",
+  "snimek": 290,
+  "druh": "O",
+  "datum": "25. 2. 1911",
+  "nazev": "Sňatek Stanislava Nového a Marie Cikánkové",
+  "shrnuti": "Stanislav Nový (24 l., * 28. 4. 1886 Heinrichsbrunn č. 15, okr. Perg, Horní Rakousy), pozlacovač, a Marie Cikánková (23 l., * 25. 8. 1887 Č. Budějovice), Haasova ul. 42.",
+  "odkaz": "https://digi.ceskearchivy.cz/2782/290"
+ },
+ {
+  "klic": "cb_krest_marie_cikankova_1887",
+  "svazek": "trebon_2742",
+  "snimek": 572,
+  "druh": "N",
+  "datum": "25. 8. 1887",
+  "nazev": "Křest Marie Cikánkové",
+  "shrnuti": "Marie, dcera Jana Cikánka z Veselí č. 56 a Marie ze Čtyř Dvorů č. 1 (dcery Veroniky Semmelbauerové), Nová ulice č. 29.",
+  "odkaz": "https://digi.ceskearchivy.cz/2742/572"
  }
 ]

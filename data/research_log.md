@@ -20,3 +20,9 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
 - Hudlice u Berouna (od rodiny) → SOA Praha (eBadatelna), odsud nedostupné. Božena z přihlášky 1907 má domovskou obec Těnovice u Plzně – s Hudlicemi zatím nesedí.
 - SOA Třeboň, Č. Budějovice sv. Mikuláš 40D (1910–1914, kniha 9495): dobrovolnický rejstřík N → Nová Vlasta Veronika 1912, snímek 29.
   Zápis č. 68: * 26. 1. 1912, Haasova ul. 42; otec Stanislav Nový, pozlacovač; matka Marie (Šikánek?); poznámka 1922 bez vyznání. Viz prepisy.json.
+- Oddací knihy sv. Mikuláše: řada 61–77 (id 2771–2787), knihy mají rejstřík ženichů na konci (kniha 72: snímek 420 = N).
+  Rejstřík 72/1911 „Nový Stanislav 288“ → snímek 290: sňatek 25. 2. 1911 Stanislav Nový (* 28. 4. 1886 Heinrichsbrunn 15, Perg; křt. list Mauthausen)
+  × Marie Cikánková (* 25. 8. 1887). Oprava čtení: Cikánek, ne Šikánek.
+- Narození Marie Cikánkové: kniha 32 (id 2742), str. 571 = snímek 572. Otec Jan Cikánek z Veselí 56 (rodiče Matěj, podruh, a Dorota Dvořák z Vlkova);
+  matka Marie ze Čtyř Dvorů 1, dcera Veroniky Semmelbauer (rodiče Ondřej, nádeník, a Marie Čížek).
+- Matricula, Mauthausen Taufbuch 13 (1870–1891, s indexem): stránky se načtou, obrázky vrací 403 – z této relace nestáhnu. Otevřené.
