@@ -11,3 +11,7 @@ zapracuje do skillu, aby je měli i ostatní. Děkujeme!
 - 2026-10-28: trebon.py misto "Ceske Budejovice" vrací synagogu; katolické knihy sv. Mikuláše jsou dohledatelné přes předměstí
   (misto "Nemanice" → svazky) nebo přímo id knih: N 2711–2750 + 9492–9504, O 2771–2787 + 9505–9510, Z 2801–2821 + 9511–9513.
   Oddací knihy nemají dobrovolnický rejstřík, ale mají vlastní rejstřík ženichů na konci knihy.
+- 2026-10-29: Netlify web eclectic-pudding-ca9d03 je napojený na GitHub repozitář (auto-build při každém pushi z kořene repozitáře → „Page not found“,
+  protože kořen nemá index.html). Řešení: nasazení z web/dist přes `netlify deploy --prod --dir=dist` (v cloudu s NODE_USE_ENV_PROXY=1) a zamčení nasazení
+  (`netlify api lockDeploy`), aby ho push nepřepsal. Odemknout: Netlify → Deploys → „Start auto publishing“.
+  Skill by měl před nasazením zkontrolovat, jestli není web napojený na git (listSiteDeploys → branch/commit_ref).
