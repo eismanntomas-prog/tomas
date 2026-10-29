@@ -84,3 +84,7 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
 - AHMP (katalog.ahmp.cz) dostupný. Smíchov sv. Václav: N32 1903–1906 (XID 724F9627B0A748819E8AA95A84689CC3, 511 sn.), Z18 1899–1907 (64581C0F3DEA45BEBC562EB6D5FB7A51, 405 sn.),
   O16 1899–1903 (E7DBD556D03748E597303EEF20CD9982) – BEZ rejstříků. Přihláška Boženy neuvádí místa narození dětí.
   Procházet N32 (rok 1905 ≈ sn. 230–390) stránku po stránce = drahé; nejdřív zjistit od rodiny přesné datum/místo narození Františka (úmrtní list 1988, rodný list).
+- Sňatek František × Vlasta (asi 1935–1945, Vlasta bez vyznání → spíš civilní): AHMP MAG O (Magistrát, civilní sňatky) – O33–O135 pro 1926–1946, ~4–10 svazků/rok × 300 sn., BEZ rejstříků;
+  církevní Vinohrady: VIN (sv. Ludmila) O23–O27, SPVIN (Nejsv. Srdce Páně) O4–O8. Bez data svatby nehledatelné.
+- Hledání hrobů Správy pražských hřbitovů (http://212.47.2.130:8080/mpo_sphw/) z této relace nedostupné (timeout) – uživatel to může zkusit sám.
+- Narození dětí (1940s) nejsou veřejná (<100 let).
