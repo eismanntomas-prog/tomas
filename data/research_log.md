@@ -62,3 +62,7 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
   Rejstřík N 1899–1917 (kniha 14348): žádné E (záložka E chybí) → František (nar. 1905/06) se v Hudlicích nenarodil.
   Další krok: zápisy Anny a Marie (str. ~177–188, snímek ≈ 95–100 knihy 5802 – kalibrovat podle čísel stran) → rodiče; sňatek Josefa Eismanna (kniha 5804/5803 O 1852–1882/1856–1878? spíš O 1882–1903 = 5810);
   úmrtí/sourozenci. Hledat také Eismanna v Praze 1905/06 (křest) – kniha podle farnosti (Vinohrady?).
+- Hudlice N 1877–1899 (kniha 5802): strana = snímek − 3 (str. 177 = sn. 180; rejstřík strany: sn. 300 = E). Rejstříkové roky „1894/1892“ jsou ve skutečnosti 1891 (čtení!).
+  Zápis (sn. 180, 3. řádek, rok 1891): Marie, nemanž. dcera Anny Eismannové ze Zdic (hejtm. Hořovice), dcery Václava Eismanna, ŘÍDÍCÍHO UČITELE ve Zvíkovci (č. ?), a Barbory Matesové z Lohovic č. 42.
+  Nález = stopa, NE doklad spojení s Františkem. Další: Václav Eismann (řídící učitel, Zvíkovec/Zdice) – jeho děti a vnuci; křty ve Zdicích (fara Zdice); sňatek V. Eismanna a Barbory Matesové (Lohovice);
+  druhý řádek rejstříku „Eismannová Anna, d. Josefa a Marie, 1892?, dům 16, str. 188?“ – jiný Eismann (Josef) – přečíst; Eisenhammer 1878/1879 – asi jiné příjmení.

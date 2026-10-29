@@ -62,6 +62,7 @@ SIDE = [
 # „Vyřešeno: …“ (na webu se skryje), „Hypotéza: …“ nebo „Otevřené: …“. Jde na web – nic citlivého.
 # ("Kdy se narodil Jan Novák?", "Otevřené: rodina říká 1850, v Holicích 1848–1852 nenalezen.")
 ISSUES = [
+    ("Souvisí dědeček František Eismann s Eismanny z Hudlic a Zvíkovce?", "Hypotéza: rodina vypráví o Hudlicích u Berouna; v matrice (1891) je Anna Eismannová, dcera Václava Eismanna, řídícího učitele ve Zvíkovci (okr. Hořovice). Spojení s Františkem * kolem 1905/06 zatím nedoloženo."),
     ("Kde se brali Matěj Cikánek a Dorota Dvořáková (kolem 1855)?", "Otevřené: ve Veselí n. L. (1855–1857) ani ve Vlkově nenalezeno; Dorotino rodiště je v zápisu čteno nejistě."),
     ("Odkud přišli Semmelbauerovi do Čtyř Dvorů?", "Otevřené: Veronika se ve Čtyřech Dvorech (1785–1852) nenarodila; domovská obec Ondřeje Semmelbauera zatím nepřečtena."),
     ("Kde byl pokřtěn Stanislav Nový (* 1886)?", "Otevřené: fara Mauthausen (Horní Rakousy), matriky na portálu Matricula – zatím neověřeno."),
