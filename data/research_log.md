@@ -48,3 +48,9 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
 - Sňatek Matěj Cikánek × Dorota Dvořáková: Vlkov, rejstřík O 1685–1875 (3493, sn. 6 = C/Č) – Cikánek není; Veselí O 1848–1896 (kniha 8233),
   sn. 38–39 (11/1855–1/1856) přečteno – nenalezen. Matějův křestní list vydán 10. 11. 1855 (poznámka u jeho křtu). Hledat 1856 po sn. 40,
   jinde ve Veselí, nebo v jiné farnosti. Otevřené.
+- Od rodiny: František zemřel 1989 ve věku asi 82 let → nar. 1906–1907. Kandidát z přihlášek (František * 1905, Božena roz. Hamel, Těnovice) tedy nesedí přesně
+  (rozdíl 1–2 roky, domovská obec jinde než Hudlice). V přihláškách 1850–1914 žádný František Eis(s)mann * 1906–1907 není → rodina v Praze nejspíš nebydlela.
+  Další krok: Hudlice u Berouna (SOA Praha, eBadatelna) – odsud nedostupné; zkusit znovu / z počítače uživatele.
+- eBadatelna SOA Praha je od 29. 10. dostupná (dříve ne). Hudlice u Berouna: fara Hudlice, knihy N: 14348 (1899–1917, rejstřík na konci, sn. 262–275), 5802 (1877–1899), 5801 (1858–1876), 5793 (1849–1858).
+  Rejstřík N 1899–1917 (kniha 14348): A, B, C/Č, D, F – písmeno E (Eismann/Eisman/Ejsman) NENÍ → František se v Hudlicích 1899–1917 nenarodil.
+  Další krok: rejstříky N 1858–1899 (knihy 5801, 5802) – Eismann jako možný otec/děd z Hudlic; server byl při pokusu pomalý.

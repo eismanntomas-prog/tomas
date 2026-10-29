@@ -20,8 +20,8 @@
 P = {
     1: dict(n="Tomáš Eismann", y="* 1985", st="fam", sex="M", f=["* 1985 Praha"], r=[], note="Žijící – údaje jen základní."),
     2: dict(n="Zdeněk Eismann", y="* 1945", st="fam", f=["* 1945 Praha"], r=[], note="Údaje jen základní (narozen 1945, matrika zatím není veřejná)."),
-    4: dict(n="František Eismann", y="* ?", st="fam", f=["bankovní úředník", "bydliště Praha-Vinohrady"], r=[],
-            note="Od rodiny. Hypotéza: totožný s Františkem Eismannem * 1905 z policejní přihlášky 1907 (karton 3, obraz 781) – ověřit."),
+    4: dict(n="František Eismann", y="asi 1906/07 – 1989", st="fam", f=["bankovní úředník", "bydliště Praha-Vinohrady", "† 1989 (ve věku asi 82 let)"], r=[],
+            note="Od rodiny: zemřel 1989, nejspíš ve věku 82 let → nar. asi 1906–1907. Rodina říká, že jeho větev pochází z Hudlic u Berouna. Kandidát z policejní přihlášky 1907 (František Eismann * 1905, syn Boženy roz. Hamelové z Těnovic u Plzně) je o 1–2 roky starší a domovskou obec má jinde – slabá hypotéza, ověřit."),
     5: dict(n="Vlasta Nová", y="* 1912", st="doc", f=["* 26. 1. 1912 České Budějovice, Haasova ul. č. 42", "1922 vystoupila z církve (bez vyznání)", "bydliště Praha-Vinohrady"], r=["cb_krest_vlasta_nova_1912"],
             note="Rodina: Vlasta Nová, * asi 1912 v Č. Budějovicích, měla bratra Slávka. Jediná Vlasta Nová v rejstříku sv. Mikuláše 1910–1914; bratr Stanislav * 1913 nalezen u stejných rodičů. Sňatek s Františkem Eismannem zatím nedoložen."),
     10: dict(n="Stanislav Nový", y="* 1886", st="doc", f=["* 28. 4. 1886 Heinrichsbrunn č. 15, okr. Perg (Horní Rakousy)", "pozlacovač v Českých Budějovicích", "× 25. 2. 1911 České Budějovice Marie Cikánková"], r=["cb_snatek_stanislav_novy_marie_cikankova_1911","cb_krest_vlasta_nova_1912"], note="Datum a místo narození z oddacího zápisu (křestní list fary Mauthausen). Vlastní křest na Matricule zatím neověřen."),
@@ -65,7 +65,7 @@ ISSUES = [
     ("Kde se brali Matěj Cikánek a Dorota Dvořáková (kolem 1855)?", "Otevřené: ve Veselí n. L. (1855–1857) ani ve Vlkově nenalezeno; Dorotino rodiště je v zápisu čteno nejistě."),
     ("Odkud přišli Semmelbauerovi do Čtyř Dvorů?", "Otevřené: Veronika se ve Čtyřech Dvorech (1785–1852) nenarodila; domovská obec Ondřeje Semmelbauera zatím nepřečtena."),
     ("Kde byl pokřtěn Stanislav Nový (* 1886)?", "Otevřené: fara Mauthausen (Horní Rakousy), matriky na portálu Matricula – zatím neověřeno."),
-    ("Je dědeček František Eismann totožný s Františkem * 1905, synem Boženy roz. Hamelové?", "Hypotéza: policejní přihláška 1907 uvádí Boženu Eismannovou roz. Hamel (* 1878), vdovu po hasiči, s dětmi Marií (* 1903) a Františkem (* 1905); domovská obec Těnovice, okres Plzeň. Potvrdit sňatkem Františka a Vlasty."),
+    ("Je dědeček František Eismann totožný s Františkem * 1905, synem Boženy roz. Hamelové?", "Slabá hypotéza (dědeček zemřel 1989 ve věku asi 82 let, tj. nar. asi 1906–1907, přihláška uvádí 1905; rodina zmiňuje Hudlice u Berouna, přihláška Těnovice u Plzně): policejní přihláška 1907 uvádí Boženu Eismannovou roz. Hamel (* 1878), vdovu po hasiči, s dětmi Marií (* 1903) a Františkem (* 1905); domovská obec Těnovice, okres Plzeň. Potvrdit sňatkem Františka a Vlasty."),
 ]
 
 # Hypotézy o původu rodu nad rámec doložené linie (zobrazí se na stránce rodu):
