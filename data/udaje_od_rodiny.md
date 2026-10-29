@@ -10,3 +10,4 @@ Co víme z vyprávění a rodinných dokumentů – kdo to řekl / odkud to je a
 - Prarodiče bydleli na Vinohradech.
 - Babička Vlasta, rozená Nová, narozena asi 1912.
 - Dědova větev (Eismann) pochází z Hudlic u Berouna.
+- Babička Vlasta měla bratra Slávka.

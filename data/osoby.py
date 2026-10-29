@@ -23,7 +23,7 @@ P = {
     4: dict(n="František Eismann", y="* ?", st="fam", f=["bankovní úředník", "bydliště Praha-Vinohrady"], r=[],
             note="Od rodiny. Hypotéza: totožný s Františkem Eismannem * 1905 z policejní přihlášky 1907 (karton 3, obraz 781) – ověřit."),
     5: dict(n="Vlasta Nová", y="* 1912", st="doc", f=["* 26. 1. 1912 České Budějovice, Haasova ul. č. 42", "1922 vystoupila z církve (bez vyznání)", "bydliště Praha-Vinohrady"], r=["cb_krest_vlasta_nova_1912"],
-            note="Rodina: Vlasta Nová, * asi 1912 v Č. Budějovicích. Jediná Vlasta Nová v rejstříku sv. Mikuláše 1910–1914. Spojení se sňatkem s Františkem Eismannem zatím nedoloženo."),
+            note="Rodina: Vlasta Nová, * asi 1912 v Č. Budějovicích, měla bratra Slávka. Jediná Vlasta Nová v rejstříku sv. Mikuláše 1910–1914; bratr Stanislav * 1913 nalezen u stejných rodičů. Sňatek s Františkem Eismannem zatím nedoložen."),
     10: dict(n="Stanislav Nový", y="* 1886", st="doc", f=["* 28. 4. 1886 Heinrichsbrunn č. 15, okr. Perg (Horní Rakousy)", "pozlacovač v Českých Budějovicích", "× 25. 2. 1911 České Budějovice Marie Cikánková"], r=["cb_snatek_stanislav_novy_marie_cikankova_1911","cb_krest_vlasta_nova_1912"], note="Datum a místo narození z oddacího zápisu (křestní list fary Mauthausen). Vlastní křest na Matricule zatím neověřen."),
     11: dict(n="Marie Cikánková", y="* 1887", st="doc", f=["* 25. 8. 1887 České Budějovice, Nová ulice č. 29", "× 25. 2. 1911 České Budějovice Stanislav Nový", "1921 vystoupila z církve"], r=["cb_krest_marie_cikankova_1887","cb_snatek_stanislav_novy_marie_cikankova_1911","cb_krest_vlasta_nova_1912"]),
     20: dict(n="Jan Nový", y="* ?", st="doc", f=["strojní zámečník v Českých Budějovicích"], r=["cb_snatek_stanislav_novy_marie_cikankova_1911"]),
@@ -55,6 +55,7 @@ LINES = {
 # Příbuzní mimo přímou linii (sourozenci, strýcové…): k = číslo předka, ke kterému patří.
 # dict(k=16, n="Josef Novák (1865–1920)", t="Bratr Jana. Kovář v …", r=["klic_zapisu"])
 SIDE = [
+    dict(k=5, n="Stanislav (Slávek) Nový (* 1913)", t="Mladší bratr babičky Vlasty, * 1. 9. 1913 v Českých Budějovicích, Haasova ul. 42. Podle rodiny „Slávek“.", r=["cb_krest_stanislav_novy_1913"]),
 ]
 
 # Rozpory a otevřené otázky (na web do „Co hledáme“) jako dvojice (otázka, odpověď). Odpověď začněte

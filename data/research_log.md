@@ -40,3 +40,4 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
 - Sňatek Matěj Cikánek × Dorota Dvořáková – fara Vlkov (u Veselí; id místa 409379, knihy 3484–3494):
   rejstřík O 1685–1875 (3493), písmeno C (sn. 7) – Cikánek nenalezen; rejstřík N 1685–1875 (3492), D (sn. 16–18) – Dorota Dvořáková
   narozená 1815–1840 nenalezena. „z Vlkova“ v křtu Jana 1856 je čteno nejistě – možná jiná obec. Otevřené.
+- Bratr Slávek: rejstřík 40D → Nový Stanislav 1913, snímek 352: * 1. 9. 1913 Haasova 42, stejní rodiče jako Vlasta. Potvrzuje identitu babičky.
