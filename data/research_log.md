@@ -73,3 +73,11 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
   → Eismannové se v Hudlicích před 1850 NEVYSKYTUJÍ; v matrikách až od 90. let 19. st. (Marie 1891, rodina Václava Eismanna ze Zvíkovce/Zdic – přistěhovalí). Rodinná tradice
   „předek učil Jungmanna“ (Jungmann * 1773) tedy v hudlických rejstřících nenalezena; učitel v 80. letech 18. st. mohl mít jiné příjmení, nebo tradice míří jinam (např. Václav Eismann, učitel ve Zvíkovci).
   Další možnosti: zápisy o úmrtí Z 1784–1858 (5798/5799, rejstříky Zi), školní/učitelské zdroje (Chalupný: Jungmannovy učitele), nebo Zvíkovec/Zdice.
+- Zdice (fara Zdice, SOA Praha): N 1905–1915 (14462) rejstřík E (sn. 286) – jen Elgrové, Eismann NENÍ → František se ve Zdicích nenarodil.
+  N 1869–1883 (9107), rejstřík E (sn. 249): Eismannová Paulina 1869 (str. 4), Eismann Václav 1871 (str. 43). Strana = snímek − 3.
+  Sn. 46: Václav * 18. 10. 1871 Zdice 37; otec Václav Eismann, PROVIZOR ŠKOLY ve Zdicích, syn Václava E., UČITELE ve Zdicích, a Anny roz. Praizler(?) ze Žebráku;
+  matka Barbora, dcera Jana MALESE, UČITELE v Hudlicích č. 45, a Barbory roz. Tomek(?) z Vranovic(?). Bába Johanna Eismannová.
+  → učitelský rod; Anna Eismannová (matka Marie * 1891 v Hudlicích) = dcera Václava a Barbory (Matesová = správně Malesová).
+  Rodinná tradice „učitel v Hudlicích“ → Males (ne Eismann). Jungmann (* 1773) – ověřit, zda Malesové učili v Hudlicích už v 1780. letech.
+  O 1890–1903 (9112) rejstřík E (sn. 136): Eismann není.
+  Přihláška Boženy 1907 přečtena znovu: „Sm. 243“ (Smíchov), domovská obec Těnovice okr. Plzeň.
