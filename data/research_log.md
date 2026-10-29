@@ -93,3 +93,7 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
 - VIN Z5 (sv. Ludmila, Z od 10. 10. 1905): přečteny sn. 5–35 (10/1905 – 2/1906) – Eismann nenalezen. ~9 sn./měsíc, pokračovat od sn. 36.
   Zastaveno: hasič mohl zemřít kdekoli (Božena 1907 bydlela na Smíchově), čtení stovek stran je drahé. Lepší: dotaz na Správu pražských hřbitovů
   (Hřbitovní správa Vinohrady) – evidence hrobu 48/219 uvádí jména a data pohřbů všech uložených.
+- Maminčina větev: Olbramovice patřily k faře Votice (SOA Praha). Rejstříky N: Votice 32 (7492, Ni 1871–1948, jen město Votice; S = sn. 24–25: Spálenkové Votice č. 167 a 93, žádný Václav 1871–1948),
+  Votice 41 (15287, Ni 1903–1933, vesnice farnosti; S = sn. 10 vpravo/11 vlevo): Spálenka Karel 1904 Jestřebice, Vojtěch 1907 Jestřebice, Karel 1908, ? 1920, Karel 1922 – žádný Václav.
+  → Václav Spálenka se v obvodu fary Votice 1903–1933 nenarodil (nebo jinde/před 1903). Potřeba rok narození.
+  „Městečko u Benešova“ je nejednoznačné: Městečko (obec Nespeky, fara Poříčí n. S.), Městečko (obec Chotýšany), Olbramovice Městečko.

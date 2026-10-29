@@ -15,3 +15,6 @@ Co víme z vyprávění a rodinných dokumentů – kdo to řekl / odkud to je a
 - Rodinná tradice: nějaký předek byl učitel a učil Josefa Jungmanna (* 1773 Hudlice). Zatím neověřeno; Jungmannovi učitelé v Hudlicích v dostupných zdrojích nenalezeni.
 - Děti Františka a Vlasty: Zdeněk (* 1945), Miroslav a Jana – všichni narozeni v Praze na Vinohradech, rodina bydlela v Mánesově ulici.
 - Hledání hrobů Správy pražských hřbitovů (Tomáš, 2026-10-29): Eismann František – 2× – Vinohradský hřbitov, oddělení 48, hrob č. 219 (Hřbitovní správa Vinohrady). Data narození/úmrtí výsledek neuvádí.
+
+## Maminčina větev (Tomáš, 2026-10-30)
+- Babička Antonie Spálenková (roz. ?), pocházela z „Městečka u Benešova“. Dědeček Václav Spálenka z Olbramovic. Bydleli v Počernicích (Praha).
