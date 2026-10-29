@@ -41,3 +41,10 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
   rejstřík O 1685–1875 (3493), písmeno C (sn. 7) – Cikánek nenalezen; rejstřík N 1685–1875 (3492), D (sn. 16–18) – Dorota Dvořáková
   narozená 1815–1840 nenalezena. „z Vlkova“ v křtu Jana 1856 je čteno nejistě – možná jiná obec. Otevřené.
 - Bratr Slávek: rejstřík 40D → Nový Stanislav 1913, snímek 352: * 1. 9. 1913 Haasova 42, stejní rodiče jako Vlasta. Potvrzuje identitu babičky.
+- Sňatek Jan Cikánek × Marie Semmelbauerová: oddací kniha 67 (id 2777), rejstřík ženichů na konci (sn. 436: „Cikánek Jan 368“, 1886).
+  Strana = snímek − 3 → snímek 371: 24. 5. 1886, Jan 29 l. (* Veselí 56, syn Matěje a Doroty roz. Dvořák z Vlkova), Marie 27 l. (* Čtyři Dvory 1, dc. Veroniky, dc. Ondřeje S. a Marie roz. Čížek).
+  POTVRZUJE celou Cikánkovu větev: Jan ↔ Matěj+Dorota (Veselí 56) i Marie ↔ Veronika+Ondřej+Marie Čížek; doklad Marie = křestní list z knihy Čtyř Dvorů str. 20 (náš snímek 20).
+  Dorotino „z Vlkova“ potvrzeno (čitelné v zápisu). Matěj je jmenován jako „podruh ve Veselí č. 56“.
+- Sňatek Matěj Cikánek × Dorota Dvořáková: Vlkov, rejstřík O 1685–1875 (3493, sn. 6 = C/Č) – Cikánek není; Veselí O 1848–1896 (kniha 8233),
+  sn. 38–39 (11/1855–1/1856) přečteno – nenalezen. Matějův křestní list vydán 10. 11. 1855 (poznámka u jeho křtu). Hledat 1856 po sn. 40,
+  jinde ve Veselí, nebo v jiné farnosti. Otevřené.
