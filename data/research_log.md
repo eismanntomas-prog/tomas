@@ -81,3 +81,6 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
   Rodinná tradice „učitel v Hudlicích“ → Males (ne Eismann). Jungmann (* 1773) – ověřit, zda Malesové učili v Hudlicích už v 1780. letech.
   O 1890–1903 (9112) rejstřík E (sn. 136): Eismann není.
   Přihláška Boženy 1907 přečtena znovu: „Sm. 243“ (Smíchov), domovská obec Těnovice okr. Plzeň.
+- AHMP (katalog.ahmp.cz) dostupný. Smíchov sv. Václav: N32 1903–1906 (XID 724F9627B0A748819E8AA95A84689CC3, 511 sn.), Z18 1899–1907 (64581C0F3DEA45BEBC562EB6D5FB7A51, 405 sn.),
+  O16 1899–1903 (E7DBD556D03748E597303EEF20CD9982) – BEZ rejstříků. Přihláška Boženy neuvádí místa narození dětí.
+  Procházet N32 (rok 1905 ≈ sn. 230–390) stránku po stránce = drahé; nejdřív zjistit od rodiny přesné datum/místo narození Františka (úmrtní list 1988, rodný list).
