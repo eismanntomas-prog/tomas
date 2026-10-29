@@ -14,3 +14,4 @@ Co víme z vyprávění a rodinných dokumentů – kdo to řekl / odkud to je a
 - Dědeček František Eismann zemřel v roce 1988 (původně uvedeno 1989 – opraveno), nejspíše ve věku 82 let (→ nar. asi 1905–1906). Údaj od Tomáše, přibližný.
 - Rodinná tradice: nějaký předek byl učitel a učil Josefa Jungmanna (* 1773 Hudlice). Zatím neověřeno; Jungmannovi učitelé v Hudlicích v dostupných zdrojích nenalezeni.
 - Děti Františka a Vlasty: Zdeněk (* 1945), Miroslav a Jana – všichni narozeni v Praze na Vinohradech, rodina bydlela v Mánesově ulici.
+- Hledání hrobů Správy pražských hřbitovů (Tomáš, 2026-10-29): Eismann František – 2× – Vinohradský hřbitov, oddělení 48, hrob č. 219 (Hřbitovní správa Vinohrady). Data narození/úmrtí výsledek neuvádí.

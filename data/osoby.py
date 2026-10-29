@@ -20,7 +20,7 @@
 P = {
     1: dict(n="Tomáš Eismann", y="* 1985", st="fam", sex="M", f=["* 1985 Praha"], r=[], note="Žijící – údaje jen základní."),
     2: dict(n="Zdeněk Eismann", y="* 1945", st="fam", f=["* 1945 Praha"], r=[], note="Údaje jen základní (narozen 1945, matrika zatím není veřejná)."),
-    4: dict(n="František Eismann", y="asi 1905/06 – 1988", st="fam", f=["bankovní úředník", "bydliště Praha-Vinohrady", "† 1988 (ve věku asi 82 let)"], r=[],
+    4: dict(n="František Eismann", y="asi 1905/06 – 1988", st="fam", f=["bankovní úředník", "bydliště Praha-Vinohrady", "† 1988 (ve věku asi 82 let)", "pohřben Vinohradský hřbitov, odd. 48, hrob 219"], r=[],
             note="Od rodiny: zemřel 1988, nejspíš ve věku 82 let → nar. asi 1905–1906. Rodina říká, že jeho větev pochází z Hudlic u Berouna. Kandidát z policejní přihlášky 1907 (František Eismann * 1905, syn Boženy roz. Hamelové, vdovy po hasiči, domovská obec Těnovice u Plzně) teď věkem sedí; rozpor je jen v domovské obci (Těnovice × Hudlice) – ověřit."),
     5: dict(n="Vlasta Nová", y="* 1912", st="doc", f=["* 26. 1. 1912 České Budějovice, Haasova ul. č. 42", "1922 vystoupila z církve (bez vyznání)", "bydliště Praha-Vinohrady"], r=["cb_krest_vlasta_nova_1912"],
             note="Rodina: Vlasta Nová, * asi 1912 v Č. Budějovicích, měla bratra Slávka. Jediná Vlasta Nová v rejstříku sv. Mikuláše 1910–1914; bratr Stanislav * 1913 nalezen u stejných rodičů. Sňatek s Františkem Eismannem zatím nedoložen."),

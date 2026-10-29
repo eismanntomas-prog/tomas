@@ -88,3 +88,5 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
   církevní Vinohrady: VIN (sv. Ludmila) O23–O27, SPVIN (Nejsv. Srdce Páně) O4–O8. Bez data svatby nehledatelné.
 - Hledání hrobů Správy pražských hřbitovů (http://212.47.2.130:8080/mpo_sphw/) z této relace nedostupné (timeout) – uživatel to může zkusit sám.
 - Narození dětí (1940s) nejsou veřejná (<100 let).
+- Hrob: Vinohradský hřbitov 48/219 – dva záznamy „Eismann František“ (asi dědeček † 1988 a jeho otec?). Hypotéza: otec František, hasič, † 1905–1907 (vdova Božena).
+  Kramerius: „Eismann“ + hasič 1904–08 → 0. Procházím VIN Z5 (sv. Ludmila, Z 1905–1910, XID 25502C895A664674A528F5FBC7BB5BF6), sn. 90 = září 1906.
