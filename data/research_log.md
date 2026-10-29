@@ -90,3 +90,6 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
 - Narození dětí (1940s) nejsou veřejná (<100 let).
 - Hrob: Vinohradský hřbitov 48/219 – dva záznamy „Eismann František“ (asi dědeček † 1988 a jeho otec?). Hypotéza: otec František, hasič, † 1905–1907 (vdova Božena).
   Kramerius: „Eismann“ + hasič 1904–08 → 0. Procházím VIN Z5 (sv. Ludmila, Z 1905–1910, XID 25502C895A664674A528F5FBC7BB5BF6), sn. 90 = září 1906.
+- VIN Z5 (sv. Ludmila, Z od 10. 10. 1905): přečteny sn. 5–35 (10/1905 – 2/1906) – Eismann nenalezen. ~9 sn./měsíc, pokračovat od sn. 36.
+  Zastaveno: hasič mohl zemřít kdekoli (Božena 1907 bydlela na Smíchově), čtení stovek stran je drahé. Lepší: dotaz na Správu pražských hřbitovů
+  (Hřbitovní správa Vinohrady) – evidence hrobu 48/219 uvádí jména a data pohřbů všech uložených.
