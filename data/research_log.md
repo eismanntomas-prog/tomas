@@ -68,3 +68,8 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
   druhý řádek rejstříku „Eismannová Anna, d. Josefa a Marie, 1892?, dům 16, str. 188?“ – jiný Eismann (Josef) – přečíst; Eisenhammer 1878/1879 – asi jiné příjmení.
 - Rodinná tradice „předek učil Jungmanna“ (Jungmann * 16. 7. 1773 Hudlice, škola kolem 1780–1788) → hledat učitele Eismanna v Hudlicích/Berouně v 18. stol.:
   Hudlice matriky od 1784 (N 5787/5789, jmenné rejstříky Ni 5800 1784–1848, Oi 5807, Zi), starší záznamy pod farou Beroun (knihy 3903–3911). Webové hledání učitele Jungmanna nic nenašlo.
+- Hudlice, rejstříky 1784–1856 (eBadatelna): N rejstřík Ni 1784–1848 (kniha 5800, abecední, sn. 6 = Ch–E…, 7 = F): žádný Eismann.
+  O rejstřík Oi 1785–1856 (kniha 5807, ručně, sn. 3 = D/E): pod E jediný řádek („Eisenbeiß/Eisenbös? Franz, str. 33“) – žádný Eismann.
+  → Eismannové se v Hudlicích před 1850 NEVYSKYTUJÍ; v matrikách až od 90. let 19. st. (Marie 1891, rodina Václava Eismanna ze Zvíkovce/Zdic – přistěhovalí). Rodinná tradice
+  „předek učil Jungmanna“ (Jungmann * 1773) tedy v hudlických rejstřících nenalezena; učitel v 80. letech 18. st. mohl mít jiné příjmení, nebo tradice míří jinam (např. Václav Eismann, učitel ve Zvíkovci).
+  Další možnosti: zápisy o úmrtí Z 1784–1858 (5798/5799, rejstříky Zi), školní/učitelské zdroje (Chalupný: Jungmannovy učitele), nebo Zvíkovec/Zdice.
