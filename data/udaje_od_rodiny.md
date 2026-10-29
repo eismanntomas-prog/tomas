@@ -11,4 +11,4 @@ Co víme z vyprávění a rodinných dokumentů – kdo to řekl / odkud to je a
 - Babička Vlasta, rozená Nová, narozena asi 1912.
 - Dědova větev (Eismann) pochází z Hudlic u Berouna.
 - Babička Vlasta měla bratra Slávka.
-- Dědeček František Eismann zemřel v roce 1989, nejspíše ve věku 82 let (→ nar. asi 1906–1907). Údaj od Tomáše, přibližný.
+- Dědeček František Eismann zemřel v roce 1988 (původně uvedeno 1989 – opraveno), nejspíše ve věku 82 let (→ nar. asi 1905–1906). Údaj od Tomáše, přibližný.

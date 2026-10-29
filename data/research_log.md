@@ -54,3 +54,11 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
 - eBadatelna SOA Praha je od 29. 10. dostupná (dříve ne). Hudlice u Berouna: fara Hudlice, knihy N: 14348 (1899–1917, rejstřík na konci, sn. 262–275), 5802 (1877–1899), 5801 (1858–1876), 5793 (1849–1858).
   Rejstřík N 1899–1917 (kniha 14348): A, B, C/Č, D, F – písmeno E (Eismann/Eisman/Ejsman) NENÍ → František se v Hudlicích 1899–1917 nenarodil.
   Další krok: rejstříky N 1858–1899 (knihy 5801, 5802) – Eismann jako možný otec/děd z Hudlic; server byl při pokusu pomalý.
+- OPRAVA: František zemřel 1988 (ne 1989) ve věku asi 82 → nar. asi 1905–1906. Kandidát z přihlášek (František * 1905, Božena roz. Hamel, Těnovice) tedy věkem SEDÍ
+  (dřívější závěr „nesedí přesně“ platil jen pro rok 1989). Zůstává rozpor Těnovice × Hudlice – Božena mohla pocházet z jiného místa než rodina Eismannů; ověřit hasiče/otce.
+- Hudlice, kniha N 1877–1899 (id 5802 v eBadatelně), tištěný rejstřík s abecedními záložkami: písmeno E = snímek 300 (Č = 297, D = 299).
+  Nalezeno (rejstřík, čtení nejisté): Eisenhammer Božena 1878 (str. 39?), Eisenhammer František 1879; Eismannová Marie, dcera Ant…, 1894?, dům č. 179, str. 177;
+  Eismannová Anna, dcera Josefa a Marie, 1892?, dům č. 16, str. 188?. Obě holky – ne František; ale Eismannové v Hudlicích v 90. letech 19. st. žili.
+  Rejstřík N 1899–1917 (kniha 14348): žádné E (záložka E chybí) → František (nar. 1905/06) se v Hudlicích nenarodil.
+  Další krok: zápisy Anny a Marie (str. ~177–188, snímek ≈ 95–100 knihy 5802 – kalibrovat podle čísel stran) → rodiče; sňatek Josefa Eismanna (kniha 5804/5803 O 1852–1882/1856–1878? spíš O 1882–1903 = 5810);
+  úmrtí/sourozenci. Hledat také Eismanna v Praze 1905/06 (křest) – kniha podle farnosti (Vinohrady?).
