@@ -66,3 +66,5 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
   Zápis (sn. 180, 3. řádek, rok 1891): Marie, nemanž. dcera Anny Eismannové ze Zdic (hejtm. Hořovice), dcery Václava Eismanna, ŘÍDÍCÍHO UČITELE ve Zvíkovci (č. ?), a Barbory Matesové z Lohovic č. 42.
   Nález = stopa, NE doklad spojení s Františkem. Další: Václav Eismann (řídící učitel, Zvíkovec/Zdice) – jeho děti a vnuci; křty ve Zdicích (fara Zdice); sňatek V. Eismanna a Barbory Matesové (Lohovice);
   druhý řádek rejstříku „Eismannová Anna, d. Josefa a Marie, 1892?, dům 16, str. 188?“ – jiný Eismann (Josef) – přečíst; Eisenhammer 1878/1879 – asi jiné příjmení.
+- Rodinná tradice „předek učil Jungmanna“ (Jungmann * 16. 7. 1773 Hudlice, škola kolem 1780–1788) → hledat učitele Eismanna v Hudlicích/Berouně v 18. stol.:
+  Hudlice matriky od 1784 (N 5787/5789, jmenné rejstříky Ni 5800 1784–1848, Oi 5807, Zi), starší záznamy pod farou Beroun (knihy 3903–3911). Webové hledání učitele Jungmanna nic nenašlo.
