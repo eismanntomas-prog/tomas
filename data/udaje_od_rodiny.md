@@ -20,3 +20,5 @@ Co víme z vyprávění a rodinných dokumentů – kdo to řekl / odkud to je a
 - Babička Antonie Spálenková (roz. ?), pocházela z „Městečka u Benešova“. Dědeček Václav Spálenka z Olbramovic. Bydleli v Počernicích (Praha).
 - Maminka: Hana Eismannová, roz. Spálenková, * 28. 11. 1948 (přesné datum jen zde, na web jde jen rok – žijící).
 - OPRAVA: dědeček Václav Spálenka nebyl z Olbramovic, ale z Ouběnic.
+- Bratr Tomáše: Petr Eismann.
+- Bratr maminky Hany: Jiří Spálenka.

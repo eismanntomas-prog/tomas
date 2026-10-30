@@ -58,6 +58,8 @@ LINES = {
 # Příbuzní mimo přímou linii (sourozenci, strýcové…): k = číslo předka, ke kterému patří.
 # dict(k=16, n="Josef Novák (1865–1920)", t="Bratr Jana. Kovář v …", r=["klic_zapisu"])
 SIDE = [
+    dict(k=1, n="Petr Eismann", t="Bratr Tomáše. Žijící – údaje jen základní.", r=[]),
+    dict(k=3, n="Jiří Spálenka", t="Bratr maminky Hany, syn Václava a Antonie Spálenkových. Žijící / údaje jen základní.", r=[]),
     dict(k=5, n="Stanislav (Slávek) Nový (* 1913)", t="Mladší bratr babičky Vlasty, * 1. 9. 1913 v Českých Budějovicích, Haasova ul. 42. Podle rodiny „Slávek“.", r=["cb_krest_stanislav_novy_1913"]),
 ]
 
