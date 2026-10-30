@@ -118,3 +118,6 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
   Svědek Antonín Vrzal, strojník ve Vídni. ROZPOR: Tomáš narozen 24. 12. 1874 dle křtu (Votice 28, sn. 130) × 24. 4. 1874 dle oddacího i úmrtního zápisu. (Dřívější „oprava“ úmrtí na 24/12 byla chybná – vráceno.)
 - Ouběnice N 1865–1881 (10784), řazeno po vsích (Střížovec 1876–77 + 1878 = str. 174 = sn. 165). Jan Spálenka * 27. 2. (3.?) 1878 Střížovec 2: otec Josef, domkář, syn † Josefa Spálenky, domkáře Střížovec 2, a Josefy roz. Kocoura? z Nadějkova? č. 5;
   matka Marie, dc. Jana Medala, kováře Tožice 9, a Anny roz. Tišové z Obrouhlice 7. Kmotr Josef Medal, domkář Ouběnice 25 (pozdější dům Spálenků!).
+- Bystřice O 1866–1892 (4543), rejstřík Oi 1866–1919 na konci (S = sn. 303 vpravo), kniha řazena po vsích; list 266 = sn. 259.
+  „Spálenka Josef s Marií Medal, Tožice, 30. 5. 1871“: Josef, domkář Střížovec 2, syn Josefa S. z Nadějkova? 3 a Josefy roz. Kocoura? (dc. Matěje, chalupníka);
+  Marie (19 l.), dc. Jana Medala, kováře Tožice 9, a Anny, dc. Matěje Tiše, kováře Obrouhlice 7. Otec svolil podpisem. Čtení kurzívy místy nejisté.
