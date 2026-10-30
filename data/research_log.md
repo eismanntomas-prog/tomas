@@ -134,3 +134,7 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
   matka Josefa, dc. † Josefa Dvořáka, rolníka Kobylí 9, a Marie roz. Vosátkové? z Hlohova 12. Kobylí = svobodnická ves.
 - Vrchotovy Janovice N 1879–1887 (7864), fol. 93 = sn. 96: Antonie Dalihodová * 28. 3. 1884 Radotín 10; otec František D., rolník, syn † Františka D., rolníka Radotín 10, a Kateřiny roz. Červenkové z Průhonic;
   matka Marie, dc. Jana Hluchovského, sedláka Slavkov 1, a Kateřiny roz. Votrubové ze Slavkova 1.
+- Josef Spálenka (ženich 1871, * asi 1847, otec Josef, matka Josefa roz. Kocoura?, „z Nadějkova/Nazdic? č. 3/5“):
+  Ouběnice Ni 1819–1850 (10783, S = sn. 24): Spálenka Josef nenalezen. Votice Ni 1843–1855 (7482, S = sn. 23 vpravo): Spálenka Josef 1845 Jestřebice, str. 98
+  → Votice 12 (7457) sn. 44: syn Vojtěcha Spálenky, sedláka Jestřebice 2, a Magdaleny roz. Skalové – NENÍ náš (rodiče nesedí). Další Spálenkové v Jestřebicích 1843–48 (Marie, Anna, František, Jan).
+  Hypotéza: „Nadějkov“ = spíš Nezdice (fara Votice) nebo Nadějkov (fara Nadějkov, okr. Tábor – SOA Třeboň). Votice 23 (7481, Ni 1789–1842) je hustý latinský rejstřík, neprojden. Otevřené.
