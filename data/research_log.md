@@ -141,3 +141,5 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
 - Votice Oi 1827–1862 (7483), W = sn. 19–20: „Wrzal Wáclaw a Rosalia Macháčkowa z welk. Semtina, 14. Nov. 1837, pag. 11“; Votice 16 (7474) str. 11 = sn. 9.
   Václav Vrzal (25 l. → * ~1812), syn Václava V., sedláka Městečko 3, a Anny Rybkové? z Kaliště 6; Rosalie (23 l.), dc. Vojtěcha Macháčka, sedláka Velký Semtín 11, a Kateřiny Lupáčové z Mokřan 2.
   Rejstřík W dále: Wrzal Wáclaw a Anna Zarbowa? z ... 4. 2. 1828 (str. 43) – možná jiný Václav; další Vrzalové 1828–1842.
+- Votice 07 (7397, N 1788–1813, po vsích; obsah na posl. snímku: Městečko = fol. 88 → snímky 172–197). Sn. 196: Václav Vrzal * 2. 6. 1812 Městečko 3; otec Václav V., sedlák; matka Anna, dc. Matěje R…? z Kaliště.
+  Sourozenci (dům 3): Veronika 1805, František Xaver 1807, František 1808… Další krok: sňatek Václava st. × Anny (asi 1795–1805, Votice O 1788–1827 = 7473 s rejstříkem).
