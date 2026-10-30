@@ -97,3 +97,8 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
   Votice 41 (15287, Ni 1903–1933, vesnice farnosti; S = sn. 10 vpravo/11 vlevo): Spálenka Karel 1904 Jestřebice, Vojtěch 1907 Jestřebice, Karel 1908, ? 1920, Karel 1922 – žádný Václav.
   → Václav Spálenka se v obvodu fary Votice 1903–1933 nenarodil (nebo jinde/před 1903). Potřeba rok narození.
   „Městečko u Benešova“ je nejednoznačné: Městečko (obec Nespeky, fara Poříčí n. S.), Městečko (obec Chotýšany), Olbramovice Městečko.
+- Ouběnice (fara Ouběnice u Bystřice, okr. Benešov; SOA Praha): N online do 1907 (10785 N 1882–1907), rejstřík 10787 (Ni 1882–1913, S = sn. 24–25; zápisy jen do 1907).
+  Spálenkové ve farnosti: rodina Josef × Marie (Střížovec č. 2): František 1882, VÁCLAV 24. 8. 1885 (str. 186), Josefa 1889, Bohumil 1891;
+  Vincenc × Marie (Antonínov? č. 4 / Ouběnice č. 2, 11): Josef 1885, Antonín 1886, Anežka 1889, Karel 1891, Anna 1896;
+  Jan × Alžběta (Kaliště č. 13): Antonie 1887, Alžběta 1890, Barbora 1894;  Jan × Marie (Kaliště č. 13): VÁCLAV 2. 9. 1899 (str. 149), Štěpán 1900, Anastazie 1904.
+  Kandidáti na dědečka Václava: * 1885 Střížovec nebo * 1899 Kaliště (oba spíš staří na otce dítěte * 1948; možná je to dědečkův otec). Potřeba rok narození.
