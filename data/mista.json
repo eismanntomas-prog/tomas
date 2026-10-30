@@ -33,5 +33,89 @@
   "lat": 48.2501,
   "lon": 14.6338,
   "osm": "Perg, Bezirk Perg, Oberösterreich, Österreich"
+ },
+ "Ouběnice": {
+  "re": "Ouběnic",
+  "dotaz": "Ouběnice, Bystřice, Česko",
+  "lat": 49.6938,
+  "lon": 14.6867,
+  "osm": "Ouběnice, Bystřice, okres Benešov, Středočeský kraj, 257 51, Česko"
+ },
+ "Střížovec": {
+  "re": "Střížov",
+  "dotaz": "Střížovec, Bystřice, Česko",
+  "lat": 49.7016,
+  "lon": 14.6745,
+  "osm": "ručně (přibližně)"
+ },
+ "Votice": {
+  "re": "Votic",
+  "dotaz": "Votice, Česko",
+  "lat": 49.6404,
+  "lon": 14.638,
+  "osm": "Votice, okres Benešov, Středočeský kraj, 259 01, Česko"
+ },
+ "Semtín": {
+  "re": "Semtín",
+  "dotaz": "Semtín, Olbramovice, Česko",
+  "lat": 49.6685,
+  "lon": 14.6579,
+  "osm": "Semtín, Olbramovice, okres Benešov, Středočeský kraj, 257 52, Česko"
+ },
+ "Radotín": {
+  "re": "Radotín",
+  "dotaz": "Radotín, Olbramovice, Česko",
+  "lat": 49.6542,
+  "lon": 14.5933,
+  "osm": "Radotín, Křešice, Olbramovice, okres Benešov, Středočeský kraj, 257 53, Česko"
+ },
+ "Slavkov": {
+  "re": "Slavkov",
+  "dotaz": "Slavkov, Vrchotovy Janovice, Česko",
+  "lat": 49.677,
+  "lon": 14.6012,
+  "osm": "Slavkov, 00331, Slavkov, Olbramovice, okres Benešov, Středočeský kraj, 257 53, Česko"
+ },
+ "Kobylí": {
+  "re": "Kobylí",
+  "dotaz": "Kobylí, Bystřice, Česko",
+  "lat": 49.6898,
+  "lon": 14.7186,
+  "osm": "Kobylí, Kobylí a Plchov, Bystřice, okres Benešov, Středočeský kraj, Česko"
+ },
+ "Vrchotovy Janovice": {
+  "re": "Janovic",
+  "dotaz": "Vrchotovy Janovice, Česko",
+  "lat": 49.6668,
+  "lon": 14.5778,
+  "osm": "Vrchotovy Janovice, okres Benešov, Středočeský kraj, 257 53, Česko"
+ },
+ "Obrouhlice": {
+  "re": "Obrouhl",
+  "dotaz": "Obrouhlice, Česko",
+  "lat": 49.7076,
+  "lon": 14.8214,
+  "osm": "ručně (přibližně)"
+ },
+ "Křešice": {
+  "re": "Křešic",
+  "dotaz": "Křešice, Olbramovice, Česko",
+  "lat": 49.6593,
+  "lon": 14.6108,
+  "osm": "Křešice, Olbramovice, okres Benešov, Středočeský kraj, 259 01, Česko"
+ },
+ "Městečko": {
+  "re": "Městeč",
+  "dotaz": "Městečko, Česko",
+  "lat": 49.6655,
+  "lon": 14.6386,
+  "osm": "ručně (přibližně)"
+ },
+ "Tožice": {
+  "re": "Tožic",
+  "dotaz": "Tožice, Česko",
+  "lat": 49.6962,
+  "lon": 14.7095,
+  "osm": "ručně (přibližně)"
  }
 }

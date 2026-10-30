@@ -12,10 +12,11 @@
   "odpoved": "Vlasta"
  },
  "uvod": {
-  "nadpis": "Od podruhů z Veselí po bankovního úředníka v Praze",
+  "nadpis": "Od podruhů, sedláků a kovářů k Praze",
   "odstavce": [
-   "Babička Vlasta se narodila v roce 1912 v Českých Budějovicích. Její předci byli podruzi a nádeníci z Veselí nad Lužnicí a od Budějovic, topič v tabákové továrně a pozlacovač, který přišel z Horního Rakouska.",
-   "Tahle první verze webu ukazuje, co jsme zatím dohledali v matrikách – u každého údaje je výřez původního zápisu s přepisem."
+   "Tátova strana: babička Vlasta se narodila v roce 1912 v Českých Budějovicích; její předci byli podruzi z Veselí nad Lužnicí, nádeníci od Budějovic, topič v tabákové továrně a pozlacovač z Horního Rakouska. Dědeček František Eismann byl bankovním úředníkem na Vinohradech.",
+   "Mámina strana: dědeček Václav Spálenka pocházel z domkářů v Ouběnicích u Bystřice, babička Antonie Vrzalová ze sedláckého statku č. 3 v Městečku u Olbramovic, který Vrzalové drželi nejméně čtyři generace.",
+   "U každého údaje je výřez původního zápisu z matriky s přepisem."
   ],
   "foto": "cb_snatek_stanislav_novy_marie_cikankova_1911",
   "foto_popis": "Sňatek Stanislava Nového a Marie Cikánkové, České Budějovice 1911"
@@ -29,6 +30,14 @@
   {
    "nadpis": "Nejstarší doložený předek",
    "text": "Matěj Cikánek, narozený 23. února 1823 ve Veselí nad Lužnicí jako nemanželský syn podruhyně Marie."
+  },
+  {
+   "nadpis": "Svatba ve Voticích 1942",
+   "text": "Dědeček Václav Spálenka, obchodní příručí z Vinohrad, a babička Antonie Vrzalová se vzali 17. října 1942 ve Voticích."
+  },
+  {
+   "nadpis": "Statek č. 3 v Městečku",
+   "text": "Vrzalové hospodařili na stejném statku v Městečku u Olbramovic nejméně od poloviny 19. století – Václav, Vojtěch, Tomáš."
   },
   {
    "nadpis": "Bratr Slávek",
