@@ -146,3 +146,6 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
 - Votice O 1788–1827 (7473), rejstřík na konci (sn. ~113–114, W): „Wrzal Wenceslaus ex oppido Olbramovitz N. 3, die 7. Maji, pag. 32“ → sn. 33.
   7. 5. 1811: Václav Vrzal, sedlák Městečko 3 (29 l. → * ~1782) × Anna (20 l.), dc. Matěje Laštovky?, sedláka Kaliště 13?; svědek František Vrzal, sedlák Městečko.
   Další krok: křest Václava Vrzala ~1782 (Votice N 1749–1788 = 7393, rejstřík).
+- Křest Václava Vrzala st. (* ~1782): Votice 03 (7393) je pro Votice a blízké vsi (Městečko tam není; rejstřík jen 1749–53, 1787–88).
+  Městečko je ve Votice 06 (7396, N 1771–1786 pro Budy, Městečko Olbramovice; sn. 4–31). Přečteno sn. 16–31 (1777–1786): Václav Vrzal × Dorota roz. Marvanová, Městečko –
+  děti Josef 8. 10. 1777, Veronika 17. 12. 1780, Josef? 1783; kmotr Jakub Vrzal z Městečka (1781). Syn Václav 1781–1786 NENALEZEN (možná * před 1777 → ověřit Votice 06 sn. 4–15, 1771–1776, nebo zápis chybí).
