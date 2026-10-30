@@ -29,14 +29,16 @@ P = {
     25: dict(n="Marie Medalová", y="* ?", st="doc", f=["z Tožice č. 9"], r=["oub_snatek_jan_spalenka_katerina_hovorkova_1908"]),
     26: dict(n="Jan Hovorka", y="* ?", st="doc", f=["rolník v Kobylí č. 8"], r=["oub_snatek_jan_spalenka_katerina_hovorkova_1908"]),
     27: dict(n="Josefa Dvořáková", y="* ?", st="doc", f=["z Kobylí č. 9"], r=["oub_snatek_jan_spalenka_katerina_hovorkova_1908"]),
-    14: dict(n="Tomáš Vrzal", y="1874–1936", st="doc", f=["* 24. 12. 1874 Městečko č. 3 (Olbramovice)", "rolník v Městečku č. 3", "× 26. 1. 1909 Vrchotovy Janovice Antonie Dalihodová", "† 12. 8. 1936 na cestě u Tábora, pohřben v Olbramovicích"], r=["vot_krest_tomas_vrzal_1874","vot_umrti_tomas_vrzal_1936","vot_snatek_vaclav_spalenka_antonie_vrzalova_1942"]),
+    14: dict(n="Tomáš Vrzal", y="1874–1936", st="doc", f=["* 24. 12. 1874 Městečko č. 3 (Olbramovice)", "rolník v Městečku č. 3", "× 26. 1. 1909 Vrchotovy Janovice Antonie Dalihodová", "† 12. 8. 1936 na cestě u Tábora, pohřben v Olbramovicích"], r=["vot_krest_tomas_vrzal_1874","vj_snatek_tomas_vrzal_antonie_dalihodova_1909","vot_umrti_tomas_vrzal_1936","vot_snatek_vaclav_spalenka_antonie_vrzalova_1942"], note="Datum narození: křestní matrika 24. 12. 1874, oddací (1909) i úmrtní (1936) zápis 24. 4. 1874."),
     28: dict(n="Vojtěch Vrzal", y="* ?", st="doc", f=["rolník v Městečku č. 3"], r=["vot_krest_tomas_vrzal_1874"]),
     29: dict(n="Františka Lupáčová (?)", y="* ?", st="doc", f=["ze Semtína č. 6"], r=["vot_krest_tomas_vrzal_1874"], note="Příjmení čteno nejistě (Lupáč?)."),
     56: dict(n="Václav Vrzal", y="* ?", st="doc", f=["rolník na výminku v Městečku č. 3 (1874)"], r=["vot_krest_tomas_vrzal_1874"]),
     57: dict(n="Rosalie Macháčková (?)", y="* ?", st="doc", f=["z Velkého Semtína"], r=["vot_krest_tomas_vrzal_1874"]),
     58: dict(n="Josef Lupáč (?)", y="* ?", st="doc", f=["gruntovník ze Semtína č. 6"], r=["vot_krest_tomas_vrzal_1874"]),
     59: dict(n="Kateřina Zoulová", y="* ?", st="doc", f=["z Křešic"], r=["vot_krest_tomas_vrzal_1874"]),
-    15: dict(n="Antonie Dalihodová", y="* ?", st="doc", f=["z Radotína č. 10 (okr. Votice)"], r=["vot_snatek_vaclav_spalenka_antonie_vrzalova_1942"]),
+    15: dict(n="Antonie Dalihodová", y="* 1884", st="doc", f=["* 28. 3. 1884 Radotín č. 10 (Olbramovice)", "× 26. 1. 1909 Vrchotovy Janovice Tomáš Vrzal"], r=["vj_snatek_tomas_vrzal_antonie_dalihodova_1909","vot_snatek_vaclav_spalenka_antonie_vrzalova_1942"]),
+    30: dict(n="František Dalihod", y="* ?", st="doc", f=["rolník ve Slavkově č. 1"], r=["vj_snatek_tomas_vrzal_antonie_dalihodova_1909"]),
+    31: dict(n="Marie Hluchovská", y="* ?", st="doc", f=["ze Slavkova č. 1"], r=["vj_snatek_tomas_vrzal_antonie_dalihodova_1909"]),
     4: dict(n="František Eismann", y="asi 1905/06 – 1988", st="fam", f=["bankovní úředník", "bydliště Praha-Vinohrady", "† 1988 (ve věku asi 82 let)", "pohřben Vinohradský hřbitov, odd. 48, hrob 219"], r=[],
             note="Od rodiny: zemřel 1988, nejspíš ve věku 82 let → nar. asi 1905–1906. Rodina říká, že jeho větev pochází z Hudlic u Berouna. Kandidát z policejní přihlášky 1907 (František Eismann * 1905, syn Boženy roz. Hamelové, vdovy po hasiči, domovská obec Těnovice u Plzně) teď věkem sedí; rozpor je jen v domovské obci (Těnovice × Hudlice) – ověřit."),
     5: dict(n="Vlasta Nová", y="* 1912", st="doc", f=["* 26. 1. 1912 České Budějovice, Haasova ul. č. 42", "1922 vystoupila z církve (bez vyznání)", "bydliště Praha-Vinohrady"], r=["cb_krest_vlasta_nova_1912"],
@@ -74,6 +76,7 @@ LINES = {
 # Příbuzní mimo přímou linii (sourozenci, strýcové…): k = číslo předka, ke kterému patří.
 # dict(k=16, n="Josef Novák (1865–1920)", t="Bratr Jana. Kovář v …", r=["klic_zapisu"])
 SIDE = [
+    dict(k=14, n="Antonín Vrzal (* asi 1870–1885)", t="Svědek na svatbě Tomáše Vrzala 1909, strojník ve Vídni III – nejspíš Tomášův bratr.", r=["vj_snatek_tomas_vrzal_antonie_dalihodova_1909"]),
     dict(k=1, n="Petr Eismann", t="Bratr Tomáše. Žijící – údaje jen základní.", r=[]),
     dict(k=3, n="Jiří Spálenka", t="Bratr maminky Hany, syn Václava a Antonie Spálenkových. Žijící / údaje jen základní.", r=[]),
     dict(k=5, n="Stanislav (Slávek) Nový (* 1913)", t="Mladší bratr babičky Vlasty, * 1. 9. 1913 v Českých Budějovicích, Haasova ul. 42. Podle rodiny „Slávek“.", r=["cb_krest_stanislav_novy_1913"]),

@@ -114,3 +114,5 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
   Sňatek Tomáš × Antonie: ve Voticích (Oi 1898–1948) není; Radotín patří k faře Vrchotovy Janovice (O 1883–1920 = 7867; rejstřík 7868 jen do 1906, řazen po vsích – nepřehledný).
 - Votice N 1868–1883 (7486), sn. 130: Tomáš Vrzal * 24. 12. 1874 Městečko 3 (OPRAVA: v úmrtí 24/12, ne 24/4). Otec Vojtěch V., rolník Městečko 3 (syn Václava V., výminkáře, a Rosalie roz. Macháčkové? z Velkého Semtína);
   matka Františka, dc. Josefa Lupáče?, gruntovníka Semtín 6, a Kateřiny roz. Zoulové z Křešic. Poznámka: oddán 26. 1. 1909 v Janovicích s Antonií Dalihodovou → Vrchotovy Janovice O 1883–1920 (7867).
+- Vrchotovy Janovice O 1883–1920 (7867), sn. 117, č. 3: 26. 1. 1909 Tomáš Vrzal (nar. 24/4 1874, 34 7/12) × Antonie Dalihodová * 28. 3. 1884 Radotín 10, dc. Františka Dalihoda, rolníka Slavkov 1, a Marie Hluchovské ze Slavkova 1.
+  Svědek Antonín Vrzal, strojník ve Vídni. ROZPOR: Tomáš narozen 24. 12. 1874 dle křtu (Votice 28, sn. 130) × 24. 4. 1874 dle oddacího i úmrtního zápisu. (Dřívější „oprava“ úmrtí na 24/12 byla chybná – vráceno.)

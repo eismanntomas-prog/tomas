@@ -126,7 +126,7 @@
   "druh": "Z",
   "datum": "12. 8. 1936",
   "nazev": "Úmrtí Tomáše Vrzala",
-  "shrnuti": "Tomáš Vrzal, rolník v Městečku č. 3, manžel Antonie roz. Dalihodové, * 24. 12. 1874 Městečko č. 3, zemřel 12. 8. 1936 na cestě za Táborem ve věku 62 let, pohřben 15. 8. na hřbitově v Olbramovicích.",
+  "shrnuti": "Tomáš Vrzal, rolník v Městečku č. 3, manžel Antonie roz. Dalihodové, * 24. 4. 1874 (dle úmrtí; křest uvádí 24. 12.) Městečko č. 3, zemřel 12. 8. 1936 na cestě za Táborem ve věku 62 let, pohřben 15. 8. na hřbitově v Olbramovicích.",
   "odkaz": "https://ebadatelna.soapraha.cz/d/14770/248"
  },
  {
@@ -138,5 +138,15 @@
   "nazev": "Křest Tomáše Vrzala",
   "shrnuti": "Tomáš, syn Vojtěcha Vrzala, rolníka v Městečku č. 3 (syna Václava Vrzala, výminkáře tamtéž, a Rosalie roz. Macháčkové z Velkého Semtína), a Františky, dcery Josefa Lupáče(?), gruntovníka ze Semtína č. 6, a Kateřiny roz. Zoulové z Křešic. Poznámka: oddán 26. 1. 1909 v Janovicích s Antonií Dalihodovou.",
   "odkaz": "https://ebadatelna.soapraha.cz/d/7486/130"
+ },
+ {
+  "klic": "vj_snatek_tomas_vrzal_antonie_dalihodova_1909",
+  "svazek": "ebad_7867",
+  "snimek": 117,
+  "druh": "O",
+  "datum": "26. 1. 1909",
+  "nazev": "Sňatek Tomáše Vrzala a Antonie Dalihodové",
+  "shrnuti": "Vrchotovy Janovice: Tomáš Vrzal, rolník v Olbramovicích-Městečku č. 3, syn Vojtěcha Vrzala a Františky Lupáčové ze Semtína 6, 34 let; Antonie Dalihodová (* 28. 3. 1884 Radotín 10), dcera Františka Dalihoda, rolníka ve Slavkově 1, a Marie Hluchovské ze Slavkova 1, 24 let.",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/7867/117"
  }
 ]
