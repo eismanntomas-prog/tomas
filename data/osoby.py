@@ -21,8 +21,12 @@ P = {
     1: dict(n="Tomáš Eismann", y="* 1985", st="fam", sex="M", f=["* 1985 Praha"], r=[], note="Žijící – údaje jen základní."),
     2: dict(n="Zdeněk Eismann", y="* 1945", st="fam", f=["* 1945 Praha"], r=[], note="Údaje jen základní (narozen 1945, matrika zatím není veřejná)."),
     3: dict(n="Hana Spálenková", y="* 1948", st="fam", f=["* 1948 Praha (?)", "provdaná Eismannová"], r=[], note="Žijící – údaje jen základní."),
-    6: dict(n="Václav Spálenka", y="* ?", st="fam", f=["z Ouběnic (u Bystřice, okr. Benešov)", "bydliště Počernice (Praha)"], r=[], note="Od rodiny (původně uvedeno Olbramovice, opraveno na Ouběnice)."),
-    7: dict(n="Antonie ?", y="* 1921", st="fam", f=["* 23. 4. 1921 Městečko u Benešova (?)", "provdaná Spálenková", "bydliště Počernice (Praha)"], r=[], note="Od rodiny. Rodné příjmení neznámé; „Městečko“ může být u Nespek, u Chotýšan, nebo Olbramovice Městečko."),
+    6: dict(n="Václav Spálenka", y="* 1916", st="doc", f=["* 11. 11. 1916 Ouběnice č. 25 (okr. Benešov)", "obchodní příručí v koloniálním obchodě, Praha XII, Koubkova 16 (1942)", "× 17. 10. 1942 Votice Antonie Vrzalová", "později bydliště Počernice (Praha)"], r=["vot_snatek_vaclav_spalenka_antonie_vrzalova_1942"]),
+    7: dict(n="Antonie Vrzalová", y="* 1921", st="doc", f=["* 23. 4. 1921 Městečko č. 3 (obec Olbramovice)", "× 17. 10. 1942 Votice Václav Spálenka", "později bydliště Počernice (Praha)"], r=["vot_snatek_vaclav_spalenka_antonie_vrzalova_1942"]),
+    12: dict(n="Jan Spálenka", y="† před 1942", st="doc", f=["rolník v Ouběnicích č. 25"], r=["vot_snatek_vaclav_spalenka_antonie_vrzalova_1942"], note="Kandidát: Jan Spálenka, otec dětí z Kaliště č. 13 (1887–1904, s Alžbětou, pak s Marií) – ověřit."),
+    13: dict(n="Kateřina Hovorková", y="* ?", st="doc", f=["z Kobylí č. 8"], r=["vot_snatek_vaclav_spalenka_antonie_vrzalova_1942"]),
+    14: dict(n="Tomáš Vrzal", y="† před 1942", st="doc", f=["rolník v Městečku č. 3 (Olbramovice)"], r=["vot_snatek_vaclav_spalenka_antonie_vrzalova_1942"]),
+    15: dict(n="Antonie Dalihodová", y="* ?", st="doc", f=["z Radotína č. 10 (okr. Votice)"], r=["vot_snatek_vaclav_spalenka_antonie_vrzalova_1942"]),
     4: dict(n="František Eismann", y="asi 1905/06 – 1988", st="fam", f=["bankovní úředník", "bydliště Praha-Vinohrady", "† 1988 (ve věku asi 82 let)", "pohřben Vinohradský hřbitov, odd. 48, hrob 219"], r=[],
             note="Od rodiny: zemřel 1988, nejspíš ve věku 82 let → nar. asi 1905–1906. Rodina říká, že jeho větev pochází z Hudlic u Berouna. Kandidát z policejní přihlášky 1907 (František Eismann * 1905, syn Boženy roz. Hamelové, vdovy po hasiči, domovská obec Těnovice u Plzně) teď věkem sedí; rozpor je jen v domovské obci (Těnovice × Hudlice) – ověřit."),
     5: dict(n="Vlasta Nová", y="* 1912", st="doc", f=["* 26. 1. 1912 České Budějovice, Haasova ul. č. 42", "1922 vystoupila z církve (bez vyznání)", "bydliště Praha-Vinohrady"], r=["cb_krest_vlasta_nova_1912"],
@@ -50,6 +54,8 @@ P = {
 # Rody = osm větví podle pradědečků a prababiček (čísla 8–15). Doplňte, jakmile je znáte:
 # 8: ("Novákové", "Jedna věta, kdo to byli a odkud – ukáže se na webu u rodu."),
 LINES = {
+    12: ("Spálenkové", "Rolníci z Ouběnic u Bystřice (Benešovsko). Václav Spálenka (* 1916) odešel do Prahy jako obchodní příručí."),
+    14: ("Vrzalové", "Rolníci z Městečka u Olbramovic (Voticko)."),
     8: ("Eismannové", "Rod dědečka Františka, bankovního úředníka na Vinohradech. Podle rodiny pochází z Hudlic u Berouna – zatím neověřeno."),
     10: ("Noví", "Stanislav Nový, pozlacovač, přišel do Českých Budějovic z Horního Rakouska (Heinrichsbrunn u Mauthausenu)."),
     11: ("Cikánkové", "Podruzi z Veselí nad Lužnicí; Jan Cikánek odešel do Budějovic za prací v tabákové továrně a vzal si Marii Semmelbauerovou ze Čtyř Dvorů."),

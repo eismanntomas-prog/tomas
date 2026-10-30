@@ -102,3 +102,7 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
   Vincenc × Marie (Antonínov? č. 4 / Ouběnice č. 2, 11): Josef 1885, Antonín 1886, Anežka 1889, Karel 1891, Anna 1896;
   Jan × Alžběta (Kaliště č. 13): Antonie 1887, Alžběta 1890, Barbora 1894;  Jan × Marie (Kaliště č. 13): VÁCLAV 2. 9. 1899 (str. 149), Štěpán 1900, Anastazie 1904.
   Kandidáti na dědečka Václava: * 1885 Střížovec nebo * 1899 Kaliště (oba spíš staří na otce dítěte * 1948; možná je to dědečkův otec). Potřeba rok narození.
+- MAMINČINA VĚTEV – PRŮLOM: Votice Oi 1898–1948 (7493), sn. 20: „Spálenka Václav 17/10 1942 – Vrzalová Ant., IX 250“.
+  Oddací kniha Votice 37 (14769), str. 250 = sn. 261: 17. 10. 1942 Votice, Václav Spálenka * 11. 11. 1916 Ouběnice 25 (syn † Jana, rolníka, a Kateřiny roz. Hovorkové z Kobylí 8)
+  × Antonie Vrzalová * 23. 4. 1921 Městečko 3, obec Olbramovice (dcera † Tomáše Vrzala, rolníka, a Antonie roz. Dalihodové z Radotína 10). Datum nevěsty SEDÍ s rodinou.
+  Další: Ouběnice N 1882–1907 (10785) → narození Jana Spálenky? (rejstřík: Jan × Alžběta/Marie v Kališti 13 – možná jiný Jan); Městečko → Vrzalové (fara Votice, vesnice: rejstřík 15287).
