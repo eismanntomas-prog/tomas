@@ -124,3 +124,6 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
 - Votice O 1863–1878 (7476, mikrofilm), rejstřík Oi na konci (V = sn. 223 vpravo), str. 134 = sn. 136: 3. 2. 1874 Vojtěch Vrzal (28), gruntovník Městečko 3, syn Václava V. a Rosalie roz. Macháčkové ze Semtína,
   × Františka Lupáčová (24), dc. Josefa Lupáče, gruntovníka Semtín 5, a Kateřiny roz. Zoulové. → Tomáš * 24. 12. 1874 (křest) sedí 10 měsíců po svatbě; datum 24. 4. v pozdějších zápisech je asi chyba.
   Rejstřík V dále: Vrzal Josef × Malíková Marie 1866 (Votice 19), Vrzal František × Písaříková Marie 1867 (Malý Semtín 4) a další Vrzalové ve Voticích.
+- 2026-10-30: eBadatelna znovu nedostupná (timeout). Plán maminčiny větve: Vojtěch Vrzal * ~1846 Městečko (Votice Ni 1843–1855 = 7482, N 1843–1856 = 7457);
+  Josef Spálenka * ~1847 (Nadějkov?/Střížovec; Ouběnice Ni 1819–1850 = 10783, N 1836–1852 = 10776); Kateřina Hovorková * 6. 3. 1881 Kobylí 8 (Ouběnice N tom. IV fol. 165 = kniha 10784, sn. ~155);
+  Antonie Dalihodová * 28. 3. 1884 Radotín 10 (Vrchotovy Janovice, Ni 1787–1906 = 7868).
