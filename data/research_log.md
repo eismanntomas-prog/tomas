@@ -112,3 +112,5 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
 - Votice Zi 1871–1949 (7494), sn. 45: „1936 Vrzal Tomáš Městečko, V 243“ → Z 1908–1943 (14770), str. 243 = sn. 248 (vybledlé, číst s kontrastem).
   Tomáš Vrzal * 24. 4. 1874 Městečko 3, † 12. 8. 1936 na cestě za Táborem (zaopatřen v nemocnici Pelhřimov), 62 let, pohřben Olbramovice; manželka Antonie roz. Dalihodová „ze Slavkova(?)“.
   Sňatek Tomáš × Antonie: ve Voticích (Oi 1898–1948) není; Radotín patří k faře Vrchotovy Janovice (O 1883–1920 = 7867; rejstřík 7868 jen do 1906, řazen po vsích – nepřehledný).
+- Votice N 1868–1883 (7486), sn. 130: Tomáš Vrzal * 24. 12. 1874 Městečko 3 (OPRAVA: v úmrtí 24/12, ne 24/4). Otec Vojtěch V., rolník Městečko 3 (syn Václava V., výminkáře, a Rosalie roz. Macháčkové? z Velkého Semtína);
+  matka Františka, dc. Josefa Lupáče?, gruntovníka Semtín 6, a Kateřiny roz. Zoulové z Křešic. Poznámka: oddán 26. 1. 1909 v Janovicích s Antonií Dalihodovou → Vrchotovy Janovice O 1883–1920 (7867).
