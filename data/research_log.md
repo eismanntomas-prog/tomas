@@ -121,3 +121,6 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
 - Bystřice O 1866–1892 (4543), rejstřík Oi 1866–1919 na konci (S = sn. 303 vpravo), kniha řazena po vsích; list 266 = sn. 259.
   „Spálenka Josef s Marií Medal, Tožice, 30. 5. 1871“: Josef, domkář Střížovec 2, syn Josefa S. z Nadějkova? 3 a Josefy roz. Kocoura? (dc. Matěje, chalupníka);
   Marie (19 l.), dc. Jana Medala, kováře Tožice 9, a Anny, dc. Matěje Tiše, kováře Obrouhlice 7. Otec svolil podpisem. Čtení kurzívy místy nejisté.
+- Votice O 1863–1878 (7476, mikrofilm), rejstřík Oi na konci (V = sn. 223 vpravo), str. 134 = sn. 136: 3. 2. 1874 Vojtěch Vrzal (28), gruntovník Městečko 3, syn Václava V. a Rosalie roz. Macháčkové ze Semtína,
+  × Františka Lupáčová (24), dc. Josefa Lupáče, gruntovníka Semtín 5, a Kateřiny roz. Zoulové. → Tomáš * 24. 12. 1874 (křest) sedí 10 měsíců po svatbě; datum 24. 4. v pozdějších zápisech je asi chyba.
+  Rejstřík V dále: Vrzal Josef × Malíková Marie 1866 (Votice 19), Vrzal František × Písaříková Marie 1867 (Malý Semtín 4) a další Vrzalové ve Voticích.
