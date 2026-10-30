@@ -109,3 +109,6 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
 - Ouběnice O 1874–1922 (10786), rejstřík S = sn. 233 vpravo; folio = snímek + 5. „Spálenka Jan s Hovorkovou Kateřinou, Kobylí 8, 17. 11. 1908, fol. 154“ → sn. 149.
   Jan * 27. 2. 1878 Střížovec 2 (N tom. IV fol. 177), syn Josefa, domkáře ve Střížovci 2, a Marie roz. Medalové z Tožice 9; Kateřina * 6. 3. 1881 Kobylí 8 (tom. IV fol. 165), dc. Jana Hovorky, rolníka, a Josefy roz. Dvořákové z Kobylí 9; † 13. 11. 1950 Praha.
   Rejstřík O dále: Spálenka Vincenc × Marie Rejzek 30. 10. 1877 (Střížovec 5, fol. 161); Spálenka Václav × Marie Petroušková(?) 4. 11. 1890 (Tomice 14, fol. 189); Spálenka Karel × Růžena Havelková 25. 5. 1914.
+- Votice Zi 1871–1949 (7494), sn. 45: „1936 Vrzal Tomáš Městečko, V 243“ → Z 1908–1943 (14770), str. 243 = sn. 248 (vybledlé, číst s kontrastem).
+  Tomáš Vrzal * 24. 4. 1874 Městečko 3, † 12. 8. 1936 na cestě za Táborem (zaopatřen v nemocnici Pelhřimov), 62 let, pohřben Olbramovice; manželka Antonie roz. Dalihodová „ze Slavkova(?)“.
+  Sňatek Tomáš × Antonie: ve Voticích (Oi 1898–1948) není; Radotín patří k faře Vrchotovy Janovice (O 1883–1920 = 7867; rejstřík 7868 jen do 1906, řazen po vsích – nepřehledný).

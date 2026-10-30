@@ -29,7 +29,7 @@ P = {
     25: dict(n="Marie Medalová", y="* ?", st="doc", f=["z Tožice č. 9"], r=["oub_snatek_jan_spalenka_katerina_hovorkova_1908"]),
     26: dict(n="Jan Hovorka", y="* ?", st="doc", f=["rolník v Kobylí č. 8"], r=["oub_snatek_jan_spalenka_katerina_hovorkova_1908"]),
     27: dict(n="Josefa Dvořáková", y="* ?", st="doc", f=["z Kobylí č. 9"], r=["oub_snatek_jan_spalenka_katerina_hovorkova_1908"]),
-    14: dict(n="Tomáš Vrzal", y="† před 1942", st="doc", f=["rolník v Městečku č. 3 (Olbramovice)"], r=["vot_snatek_vaclav_spalenka_antonie_vrzalova_1942"]),
+    14: dict(n="Tomáš Vrzal", y="1874–1936", st="doc", f=["* 24. 4. 1874 Městečko č. 3 (Olbramovice)", "rolník v Městečku č. 3", "† 12. 8. 1936 na cestě u Tábora, pohřben v Olbramovicích"], r=["vot_umrti_tomas_vrzal_1936","vot_snatek_vaclav_spalenka_antonie_vrzalova_1942"]),
     15: dict(n="Antonie Dalihodová", y="* ?", st="doc", f=["z Radotína č. 10 (okr. Votice)"], r=["vot_snatek_vaclav_spalenka_antonie_vrzalova_1942"]),
     4: dict(n="František Eismann", y="asi 1905/06 – 1988", st="fam", f=["bankovní úředník", "bydliště Praha-Vinohrady", "† 1988 (ve věku asi 82 let)", "pohřben Vinohradský hřbitov, odd. 48, hrob 219"], r=[],
             note="Od rodiny: zemřel 1988, nejspíš ve věku 82 let → nar. asi 1905–1906. Rodina říká, že jeho větev pochází z Hudlic u Berouna. Kandidát z policejní přihlášky 1907 (František Eismann * 1905, syn Boženy roz. Hamelové, vdovy po hasiči, domovská obec Těnovice u Plzně) teď věkem sedí; rozpor je jen v domovské obci (Těnovice × Hudlice) – ověřit."),
