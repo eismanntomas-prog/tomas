@@ -22,3 +22,4 @@ Co víme z vyprávění a rodinných dokumentů – kdo to řekl / odkud to je a
 - OPRAVA: dědeček Václav Spálenka nebyl z Olbramovic, ale z Ouběnic.
 - Bratr Tomáše: Petr Eismann.
 - Bratr maminky Hany: Jiří Spálenka.
+- Babička Antonie Spálenková se narodila 23. dubna 1921.
