@@ -127,3 +127,6 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
 - 2026-10-30: eBadatelna znovu nedostupná (timeout). Plán maminčiny větve: Vojtěch Vrzal * ~1846 Městečko (Votice Ni 1843–1855 = 7482, N 1843–1856 = 7457);
   Josef Spálenka * ~1847 (Nadějkov?/Střížovec; Ouběnice Ni 1819–1850 = 10783, N 1836–1852 = 10776); Kateřina Hovorková * 6. 3. 1881 Kobylí 8 (Ouběnice N tom. IV fol. 165 = kniha 10784, sn. ~155);
   Antonie Dalihodová * 28. 3. 1884 Radotín 10 (Vrchotovy Janovice, Ni 1787–1906 = 7868).
+- Votice Ni 1843–1855 (7482), V = sn. 26–27: „1844 Vrzal Vojtěch, Městečko 3, V 431“; bratr Václav 1846 (str. 435), sestry Marie Dorota 1849, Josefa 1850, Marie 1852.
+  Votice 12 (7457, N 1843–1856, po vsích): str. 430–431 = sn. 178. Vojtěch Jakub * 12. 7. 1844 Městečko 3: otec Václav V., sedlák, syn Václava V., výminkáře, a Anny roz. Rybkové? z Kaliště;
+  matka Rosalie, dc. Vojtěcha Macháčka, sedláka Malý Semtín 11, a Kateřiny roz. Lupáčové? z Mokřan 2.
