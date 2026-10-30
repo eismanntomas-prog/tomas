@@ -130,3 +130,5 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
 - Votice Ni 1843–1855 (7482), V = sn. 26–27: „1844 Vrzal Vojtěch, Městečko 3, V 431“; bratr Václav 1846 (str. 435), sestry Marie Dorota 1849, Josefa 1850, Marie 1852.
   Votice 12 (7457, N 1843–1856, po vsích): str. 430–431 = sn. 178. Vojtěch Jakub * 12. 7. 1844 Městečko 3: otec Václav V., sedlák, syn Václava V., výminkáře, a Anny roz. Rybkové? z Kaliště;
   matka Rosalie, dc. Vojtěcha Macháčka, sedláka Malý Semtín 11, a Kateřiny roz. Lupáčové? z Mokřan 2.
+- Ouběnice N 1865–1881 (10784), fol. 165 = sn. 156 (Kobylí 1880–81): Kateřina Hovorková * 6. 3. 1881 Kobylí 8; otec Jan H., rolník, syn Antonína H., výměnkáře Kobylí 8, a Anny roz. Dvořákové z Kobylí 10;
+  matka Josefa, dc. † Josefa Dvořáka, rolníka Kobylí 9, a Marie roz. Vosátkové? z Hlohova 12. Kobylí = svobodnická ves.
