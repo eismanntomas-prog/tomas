@@ -138,3 +138,6 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
   Ouběnice Ni 1819–1850 (10783, S = sn. 24): Spálenka Josef nenalezen. Votice Ni 1843–1855 (7482, S = sn. 23 vpravo): Spálenka Josef 1845 Jestřebice, str. 98
   → Votice 12 (7457) sn. 44: syn Vojtěcha Spálenky, sedláka Jestřebice 2, a Magdaleny roz. Skalové – NENÍ náš (rodiče nesedí). Další Spálenkové v Jestřebicích 1843–48 (Marie, Anna, František, Jan).
   Hypotéza: „Nadějkov“ = spíš Nezdice (fara Votice) nebo Nadějkov (fara Nadějkov, okr. Tábor – SOA Třeboň). Votice 23 (7481, Ni 1789–1842) je hustý latinský rejstřík, neprojden. Otevřené.
+- Votice Oi 1827–1862 (7483), W = sn. 19–20: „Wrzal Wáclaw a Rosalia Macháčkowa z welk. Semtina, 14. Nov. 1837, pag. 11“; Votice 16 (7474) str. 11 = sn. 9.
+  Václav Vrzal (25 l. → * ~1812), syn Václava V., sedláka Městečko 3, a Anny Rybkové? z Kaliště 6; Rosalie (23 l.), dc. Vojtěcha Macháčka, sedláka Velký Semtín 11, a Kateřiny Lupáčové z Mokřan 2.
+  Rejstřík W dále: Wrzal Wáclaw a Anna Zarbowa? z ... 4. 2. 1828 (str. 43) – možná jiný Václav; další Vrzalové 1828–1842.
