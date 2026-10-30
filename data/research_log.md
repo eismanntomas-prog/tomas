@@ -143,3 +143,6 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
   Rejstřík W dále: Wrzal Wáclaw a Anna Zarbowa? z ... 4. 2. 1828 (str. 43) – možná jiný Václav; další Vrzalové 1828–1842.
 - Votice 07 (7397, N 1788–1813, po vsích; obsah na posl. snímku: Městečko = fol. 88 → snímky 172–197). Sn. 196: Václav Vrzal * 2. 6. 1812 Městečko 3; otec Václav V., sedlák; matka Anna, dc. Matěje R…? z Kaliště.
   Sourozenci (dům 3): Veronika 1805, František Xaver 1807, František 1808… Další krok: sňatek Václava st. × Anny (asi 1795–1805, Votice O 1788–1827 = 7473 s rejstříkem).
+- Votice O 1788–1827 (7473), rejstřík na konci (sn. ~113–114, W): „Wrzal Wenceslaus ex oppido Olbramovitz N. 3, die 7. Maji, pag. 32“ → sn. 33.
+  7. 5. 1811: Václav Vrzal, sedlák Městečko 3 (29 l. → * ~1782) × Anna (20 l.), dc. Matěje Laštovky?, sedláka Kaliště 13?; svědek František Vrzal, sedlák Městečko.
+  Další krok: křest Václava Vrzala ~1782 (Votice N 1749–1788 = 7393, rejstřík).

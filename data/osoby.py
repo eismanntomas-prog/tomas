@@ -48,8 +48,8 @@ P = {
     63: dict(n="Kateřina Votrubová", y="* ?", st="doc", f=["ze Slavkova č. 1"], r=["vj_krest_antonie_dalihodova_1884"]),
     56: dict(n="Václav Vrzal", y="* 1812", st="doc", f=["* 2. 6. 1812 Městečko č. 3 (Olbramovice)", "sedlák (gruntovník) v Městečku č. 3, 1874 na výminku", "× 14. 11. 1837 Votice Rosálie Macháčková"], r=["vot_krest_vaclav_vrzal_1812","vot_snatek_vaclav_vrzal_rosalie_machackova_1837","vot_krest_vojtech_vrzal_1844","vot_snatek_vojtech_vrzal_frantiska_lupacova_1874","vot_krest_tomas_vrzal_1874"]),
     57: dict(n="Rosalie Macháčková", y="* asi 1814", st="doc", f=["z Velkého Semtína č. 11", "× 14. 11. 1837 Votice Václav Vrzal"], r=["vot_snatek_vaclav_vrzal_rosalie_machackova_1837","vot_krest_vojtech_vrzal_1844","vot_snatek_vojtech_vrzal_frantiska_lupacova_1874","vot_krest_tomas_vrzal_1874"]),
-    112: dict(n="Václav Vrzal", y="* ?", st="doc", f=["sedlák v Městečku č. 3, 1844 na výminku"], r=["vot_krest_vaclav_vrzal_1812","vot_snatek_vaclav_vrzal_rosalie_machackova_1837","vot_krest_vojtech_vrzal_1844"]),
-    113: dict(n="Anna Rybková (?)", y="* ?", st="doc", f=["z Kaliště č. 6", "dcera Matěje R… (?)"], r=["vot_krest_vaclav_vrzal_1812","vot_snatek_vaclav_vrzal_rosalie_machackova_1837","vot_krest_vojtech_vrzal_1844"], note="Příjmení čteno nejistě."),
+    112: dict(n="Václav Vrzal", y="* asi 1782", st="doc", f=["sedlák v Městečku č. 3, 1844 na výminku", "× 7. 5. 1811 Votice Anna Laštovková (?)"], r=["vot_snatek_vaclav_vrzal_anna_lastovkova_1811","vot_krest_vaclav_vrzal_1812","vot_snatek_vaclav_vrzal_rosalie_machackova_1837","vot_krest_vojtech_vrzal_1844"]),
+    113: dict(n="Anna Laštovková (?)", y="* asi 1791", st="doc", f=["z Kaliště", "dcera Matěje Laštovky (?), sedláka"], r=["vot_snatek_vaclav_vrzal_anna_lastovkova_1811","vot_krest_vaclav_vrzal_1812","vot_snatek_vaclav_vrzal_rosalie_machackova_1837","vot_krest_vojtech_vrzal_1844"], note="Příjmení čteno nejistě (Rybková? Laštovková?); otec Matěj, sedlák v Kališti."),
     114: dict(n="Vojtěch Macháček", y="* ?", st="doc", f=["sedlák ve Velkém Semtíně č. 11"], r=["vot_snatek_vaclav_vrzal_rosalie_machackova_1837","vot_krest_vojtech_vrzal_1844"]),
     115: dict(n="Kateřina Lupáčová", y="* ?", st="doc", f=["z Mokřan č. 2"], r=["vot_snatek_vaclav_vrzal_rosalie_machackova_1837","vot_krest_vojtech_vrzal_1844"]),
     58: dict(n="Josef Lupáč", y="* ?", st="doc", f=["gruntovník ze Semtína č. 5"], r=["vot_snatek_vojtech_vrzal_frantiska_lupacova_1874","vot_krest_tomas_vrzal_1874"]),
@@ -94,7 +94,7 @@ LINES = {
 # Příbuzní mimo přímou linii (sourozenci, strýcové…): k = číslo předka, ke kterému patří.
 # dict(k=16, n="Josef Novák (1865–1920)", t="Bratr Jana. Kovář v …", r=["klic_zapisu"])
 SIDE = [
-    dict(k=112, n="Sourozenci Václava Vrzala (* 1812)", t="Ze statku Městečko č. 3 (otec Václav, matka Anna): Veronika * 1805, František Xaver * 1807, František * 1808 a další (Votice N 1788–1813).", r=[]),
+    dict(k=112, n="Sourozenci Václava Vrzala (* 1812)", t="Ze statku Městečko č. 3 (otec Václav, matka Anna): Pozor: Veronika * 1805, František Xaver * 1807, František * 1808 jsou starší než sňatek 1811 – jsou to děti jiného Vrzala z č. 3 (snad svědka Františka Vrzala) nebo z prvního manželství; ověřit (Votice N 1788–1813).", r=[]),
     dict(k=14, n="Antonín Vrzal (* asi 1870–1885)", t="Svědek na svatbě Tomáše Vrzala 1909, strojník ve Vídni III – nejspíš Tomášův bratr.", r=["vj_snatek_tomas_vrzal_antonie_dalihodova_1909"]),
     dict(k=1, n="Petr Eismann", t="Bratr Tomáše. Žijící – údaje jen základní.", r=[]),
     dict(k=3, n="Jiří Spálenka", t="Bratr maminky Hany, syn Václava a Antonie Spálenkových. Žijící / údaje jen základní.", r=[]),
