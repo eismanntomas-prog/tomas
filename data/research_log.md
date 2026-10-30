@@ -106,3 +106,6 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
   Oddací kniha Votice 37 (14769), str. 250 = sn. 261: 17. 10. 1942 Votice, Václav Spálenka * 11. 11. 1916 Ouběnice 25 (syn † Jana, rolníka, a Kateřiny roz. Hovorkové z Kobylí 8)
   × Antonie Vrzalová * 23. 4. 1921 Městečko 3, obec Olbramovice (dcera † Tomáše Vrzala, rolníka, a Antonie roz. Dalihodové z Radotína 10). Datum nevěsty SEDÍ s rodinou.
   Další: Ouběnice N 1882–1907 (10785) → narození Jana Spálenky? (rejstřík: Jan × Alžběta/Marie v Kališti 13 – možná jiný Jan); Městečko → Vrzalové (fara Votice, vesnice: rejstřík 15287).
+- Ouběnice O 1874–1922 (10786), rejstřík S = sn. 233 vpravo; folio = snímek + 5. „Spálenka Jan s Hovorkovou Kateřinou, Kobylí 8, 17. 11. 1908, fol. 154“ → sn. 149.
+  Jan * 27. 2. 1878 Střížovec 2 (N tom. IV fol. 177), syn Josefa, domkáře ve Střížovci 2, a Marie roz. Medalové z Tožice 9; Kateřina * 6. 3. 1881 Kobylí 8 (tom. IV fol. 165), dc. Jana Hovorky, rolníka, a Josefy roz. Dvořákové z Kobylí 9; † 13. 11. 1950 Praha.
+  Rejstřík O dále: Spálenka Vincenc × Marie Rejzek 30. 10. 1877 (Střížovec 5, fol. 161); Spálenka Václav × Marie Petroušková(?) 4. 11. 1890 (Tomice 14, fol. 189); Spálenka Karel × Růžena Havelková 25. 5. 1914.
