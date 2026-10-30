@@ -132,3 +132,5 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
   matka Rosalie, dc. Vojtěcha Macháčka, sedláka Malý Semtín 11, a Kateřiny roz. Lupáčové? z Mokřan 2.
 - Ouběnice N 1865–1881 (10784), fol. 165 = sn. 156 (Kobylí 1880–81): Kateřina Hovorková * 6. 3. 1881 Kobylí 8; otec Jan H., rolník, syn Antonína H., výměnkáře Kobylí 8, a Anny roz. Dvořákové z Kobylí 10;
   matka Josefa, dc. † Josefa Dvořáka, rolníka Kobylí 9, a Marie roz. Vosátkové? z Hlohova 12. Kobylí = svobodnická ves.
+- Vrchotovy Janovice N 1879–1887 (7864), fol. 93 = sn. 96: Antonie Dalihodová * 28. 3. 1884 Radotín 10; otec František D., rolník, syn † Františka D., rolníka Radotín 10, a Kateřiny roz. Červenkové z Průhonic;
+  matka Marie, dc. Jana Hluchovského, sedláka Slavkov 1, a Kateřiny roz. Votrubové ze Slavkova 1.
