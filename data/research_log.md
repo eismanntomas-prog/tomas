@@ -116,3 +116,5 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
   matka Františka, dc. Josefa Lupáče?, gruntovníka Semtín 6, a Kateřiny roz. Zoulové z Křešic. Poznámka: oddán 26. 1. 1909 v Janovicích s Antonií Dalihodovou → Vrchotovy Janovice O 1883–1920 (7867).
 - Vrchotovy Janovice O 1883–1920 (7867), sn. 117, č. 3: 26. 1. 1909 Tomáš Vrzal (nar. 24/4 1874, 34 7/12) × Antonie Dalihodová * 28. 3. 1884 Radotín 10, dc. Františka Dalihoda, rolníka Slavkov 1, a Marie Hluchovské ze Slavkova 1.
   Svědek Antonín Vrzal, strojník ve Vídni. ROZPOR: Tomáš narozen 24. 12. 1874 dle křtu (Votice 28, sn. 130) × 24. 4. 1874 dle oddacího i úmrtního zápisu. (Dřívější „oprava“ úmrtí na 24/12 byla chybná – vráceno.)
+- Ouběnice N 1865–1881 (10784), řazeno po vsích (Střížovec 1876–77 + 1878 = str. 174 = sn. 165). Jan Spálenka * 27. 2. (3.?) 1878 Střížovec 2: otec Josef, domkář, syn † Josefa Spálenky, domkáře Střížovec 2, a Josefy roz. Kocoura? z Nadějkova? č. 5;
+  matka Marie, dc. Jana Medala, kováře Tožice 9, a Anny roz. Tišové z Obrouhlice 7. Kmotr Josef Medal, domkář Ouběnice 25 (pozdější dům Spálenků!).
