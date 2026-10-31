@@ -53,7 +53,7 @@ const path = [...p.path].reverse().filter(Boolean);
       )}
       {p.doba.udalosti && (
         <>
-          <h3>Události jeho života</h3>
+          <h3>{p.sex === 'M' ? 'Události jeho života' : 'Události jejího života'}</h3>
           <ol class="timeline">{p.doba.udalosti.map((u) => <li><span class="when">{u.rok}{u.vek !== undefined && u.vek !== null ? ` (${u.vek} let)` : ''}</span> <strong>{u.nadpis}</strong>{u.osobni && <span class="chip">rodina</span>}{u.mistni && <span class="chip chip-obec">obec</span>}<br /><span class="small">{u.text}</span></li>)}</ol>
         </>
       )}

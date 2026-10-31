@@ -158,3 +158,5 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
 - Místní historie Městečka/Olbramovic (Kramerius, veřejné): Okres Votický 1873 (Městečko 12 d., 110 ob.; stanice „Veselka“; škola 2tř. 206 dětí), Posvátná místa 1912 (blesk 14. 9. 1881, výmalba 1907),
   Ottův slovník 1902, Schematismus velkostatků 1902 (Pollakové, 134 ha), Batovec 1907, Chytil 1915 (Tomáš Vrzal: obecní výbor, starosta Spořitelního a záložního spolku, předst. družstevního lihovaru),
   Střední Povltaví 1928 (stanice Votice-Veselka, místní dráha do Sedlčan), Chytil 1930 (Městečko 15 d., 113 ob.).
+- Votice Zi (7494, sn. 45): „1926 Vrzalová Františ. Městečko 3, V 179“ → Z 1908–1943 (14770) str. 179 = sn. 183: † 27. 1. 1926 Františka Vrzalová, výminkářka, vdova po Vojtěchovi, roz. Lupáčová ze Semtína, 75 l.
+  Antonie Dalihodová v Zi Votice 1871–1949 NENÍ → zemřela po 1949 nebo jinde. Chytil 1915 s. 402: obec Křešice (Radotín 84, Slavkov 115), krejčí Fr. Písařík v Radotíně = svědek 1909 (oprava čtení Pivařík).
