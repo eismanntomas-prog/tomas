@@ -374,6 +374,16 @@ def main():
                 continue
             shutil.copy2(src, dst)
             copied += 1
+    # dobové obrázky k oddílu „Doba, ve které žil“ (obrazky/<img>.jpg → web/public/img/doba/)
+    dst_dir = os.path.join(WEB, "public", "img", "doba")
+    os.makedirs(dst_dir, exist_ok=True)
+    for d in doba_cfg.values():
+        for o in d.get("obrazky", []):
+            src = os.path.join(ROOT, "obrazky", o["img"] + ".jpg")
+            dst = os.path.join(dst_dir, o["img"] + ".jpg")
+            if os.path.exists(src) and (not os.path.exists(dst) or os.path.getmtime(src) > os.path.getmtime(dst)):
+                shutil.copy2(src, dst)
+                copied += 1
     print(f"{len(people)} osob, {len(families)} rodin, {len(records)} zápisů, {len(lines)} rodů, {len(places)} míst; "
           f"zkopírováno {copied} obrázků; přihlášení {'zapnuté' if gated else 'VYPNUTÉ (web je otevřený)'}")
 

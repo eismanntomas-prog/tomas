@@ -47,6 +47,24 @@ const path = [...p.path].reverse().filter(Boolean);
           <ol class="timeline">{p.doba.udalosti.map((u) => <li><span class="when">{u.rok}{u.vek !== undefined && u.vek !== null ? ` (${u.vek} let)` : ''}</span> <strong>{u.nadpis}</strong>{u.osobni && <span class="chip">rodina</span>}<br /><span class="small">{u.text}</span></li>)}</ol>
         </>
       )}
+      {p.doba.obrazky && p.doba.obrazky.length > 0 && (
+        <>
+          <h3>Dobové obrázky z okolí</h3>
+          {[...new Set(p.doba.obrazky.map((o) => o.obdobi))].map((ob) => (
+            <>
+              <h4 class="doba-obdobi">{ob}</h4>
+              <div class="doba-gal">
+                {p.doba.obrazky.filter((o) => o.obdobi === ob).map((o) => (
+                  <figure>
+                    <a href={`/img/doba/${o.img}.jpg`} target="_blank" rel="noopener"><img src={`/img/doba/${o.img}.jpg`} alt={o.popis} loading="lazy" /></a>
+                    <figcaption>{o.popis}<span class="credit">{o.autor && <>{o.autor} · </>}{o.licence}{o.zdroj && <> · <a href={o.zdroj} target="_blank" rel="noopener">zdroj</a></>}</span></figcaption>
+                  </figure>
+                ))}
+              </div>
+            </>
+          ))}
+        </>
+      )}
       {p.doba.zivot && p.doba.zivot.map((z) => <><h3>{z.nadpis}</h3>{z.odstavce.map((o) => <p>{o}</p>)}</>)}
       {p.doba.pozn && <p class="note">{p.doba.pozn}</p>}
     </section>
