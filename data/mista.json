@@ -117,5 +117,33 @@
   "lat": 49.6962,
   "lon": 14.7095,
   "osm": "ručně (přibližně)"
+ },
+ "Kaliště": {
+  "re": "Kališt",
+  "dotaz": "Kaliště, Česko",
+  "lat": 49.6503,
+  "lon": 14.6797,
+  "osm": "ručně (přibližně)"
+ },
+ "Mokřany": {
+  "re": "Mokřan",
+  "dotaz": "Mokřany, Česko",
+  "lat": 49.6532,
+  "lon": 14.6466,
+  "osm": "ručně (přibližně)"
+ },
+ "Hlohov": {
+  "re": "Hlohov",
+  "dotaz": "Hlohov, Česko",
+  "lat": 49.7154,
+  "lon": 14.7349,
+  "osm": "ručně (přibližně)"
+ },
+ "Průhonice": {
+  "re": "Průhonic",
+  "dotaz": "Průhonice, Česko",
+  "lat": 49.6766,
+  "lon": 14.5602,
+  "osm": "ručně (přibližně)"
  }
 }
