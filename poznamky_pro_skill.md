@@ -17,3 +17,5 @@ zapracuje do skillu, aby je měli i ostatní. Děkujeme!
   Skill by měl před nasazením zkontrolovat, jestli není web napojený na git (listSiteDeploys → branch/commit_ref).
 - 2026-10-31: přidán scripts/slusne.py (limity 1 dotaz/2 s, 10 obrázků/s na web, blokace 30 min po 429/503/403, stav ve flock souboru),
   shim scripts/shim/curl a PreToolUse hook .claude/hooks/slusne_hook.py. Návrh: zařadit do šablony skillu.
+- 2026-10-31: dobové obrázky – Wikimedia Commons z cloudu vrací 429 (sdílená IP). Funguje Europeana API (wskey=api2demo, reusability=open) → eSbírky Národního muzea pod CC BY 4.0;
+  obrázky stahovat přes edmPreview (api.europeana.eu/thumbnail, 400 px), přímé img.php z eSbírek vrací „File not found“. Nové pole data/doba.json → obrazky [{obdobi,img,popis,autor,licence,zdroj}], soubory v obrazky/.

@@ -161,6 +161,64 @@
     ]
    }
   ],
-  "pozn": "Údaje označené „rodina“ jsou z matričních zápisů (včetně porodní báby Anny Černovské a nemocnice v Pelhřimově). Části o škole, zdraví, povinnostech, jídle a zábavě popisují, jak to na českém venkově v dané době obvykle chodilo – je to dobový kontext, ne doložený osobní fakt."
+  "pozn": "Údaje označené „rodina“ jsou z matričních zápisů (včetně porodní báby Anny Černovské a nemocnice v Pelhřimově). Části o škole, zdraví, povinnostech, jídle a zábavě popisují, jak to na českém venkově v dané době obvykle chodilo – je to dobový kontext, ne doložený osobní fakt.",
+  "obrazky": [
+   {
+    "obdobi": "Dětství a škola (1874–1889)",
+    "img": "doba_skola_19stol",
+    "popis": "Školní třída před budovou obecné školy, 19. století – takhle mohla vypadat i Tomášova třída.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/470/https___www_esbirky_cz_detail_3475610"
+   },
+   {
+    "obdobi": "Dětství a škola (1874–1889)",
+    "img": "doba_skola_lisne",
+    "popis": "Obecná škola v Líšném – venkovská škola s desítkami dětí všeho věku v jedné třídě.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/470/https___www_esbirky_cz_detail_3495941"
+   },
+   {
+    "obdobi": "Hospodář na statku (1890–1914)",
+    "img": "doba_taborsko_engelmuller",
+    "popis": "Ferdinand Engelmüller: Táborsko (kolem 1902). Krajina jižně od Votic v době, kdy Tomáš převzal statek.",
+    "autor": "Ferdinand Engelmüller / Belvedere, Vídeň",
+    "licence": "CC BY-SA 4.0",
+    "zdroj": "https://www.europeana.eu/item/1320/https___id_kulturpool_at_981f10ed_8533_4e91_a33e_9f62383293ed_cho"
+   },
+   {
+    "obdobi": "Hospodář na statku (1890–1914)",
+    "img": "doba_zne_mlaticka",
+    "popis": "Začátek žní: celá rodina i čeleď před stodolou s připravenou mlátičkou. Takový obrázek se mohl naskytnout i na statku č. 3.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/470/https___www_esbirky_cz_detail_3472745"
+   },
+   {
+    "obdobi": "Hospodář na statku (1890–1914)",
+    "img": "doba_zne_parni",
+    "popis": "Žně v Měšicích – mlácení na poli s parní lokomobilou, novinka přelomu století. Sedláci Jan a Stanislav Průšovi.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/470/https___www_esbirky_cz_detail_3491116"
+   },
+   {
+    "obdobi": "Za republiky (1918–1936)",
+    "img": "doba_sokolovna_votice",
+    "popis": "Sokolovna ve Voticích, otevřená v roce 1928 – centrum spolkového života, plesů a cvičení v Tomášově farním městě.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/472/https___www_esbirky_cz_detail_18113946"
+   },
+   {
+    "obdobi": "Za republiky (1918–1936)",
+    "img": "doba_sokolovna_olbramovice",
+    "popis": "Sokolovna v Olbramovicích, postavená asi kolem roku 1935 – rok před Tomášovou smrtí, kousek od Městečka.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/472/https___www_esbirky_cz_detail_18120441"
+   }
+  ]
  }
 }
