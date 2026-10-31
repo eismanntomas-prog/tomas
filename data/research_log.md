@@ -160,3 +160,5 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
   Střední Povltaví 1928 (stanice Votice-Veselka, místní dráha do Sedlčan), Chytil 1930 (Městečko 15 d., 113 ob.).
 - Votice Zi (7494, sn. 45): „1926 Vrzalová Františ. Městečko 3, V 179“ → Z 1908–1943 (14770) str. 179 = sn. 183: † 27. 1. 1926 Františka Vrzalová, výminkářka, vdova po Vojtěchovi, roz. Lupáčová ze Semtína, 75 l.
   Antonie Dalihodová v Zi Votice 1871–1949 NENÍ → zemřela po 1949 nebo jinde. Chytil 1915 s. 402: obec Křešice (Radotín 84, Slavkov 115), krejčí Fr. Písařík v Radotíně = svědek 1909 (oprava čtení Pivařík).
+- Votice Zi 1871–1949 (7494) sn. 44: „1909 Vrzal Vojt. Městečko 3, V 21“ → Z 1908–1943 (14770) str. 21 = sn. 23: † 3. 10. 1909 Vojtěch Vrzal, výminkář Městečko 3, 65 l., nar. 12/7 1844, oddán 3/2 1874, zánět plic. 
+  Sn. 43 (1878–1897): Městečko 3 – „1892 Vrzalová Marie, IV 261“ (dcera Vojtěcha?). Václav Vrzal (* ~1812) 1878–1897 v č. 3 nenalezen → zemřel 1871–1877? (sn. 42 neprohlédnut).

@@ -561,5 +561,215 @@
    "Chytilův úplný adresář Království českého (1915), s. 402 (obec Křešice) – Kramerius NK ČR",
    "Matriky: Vrchotovy Janovice N 1879–1887 a O 1883–1920; Votice O 1913–1945 a Z 1908–1943 (SOA Praha, eBadatelna)"
   ]
+ },
+ "28": {
+  "perex": {
+   "uvod": "Sedlák z Městečka č. 3, který se narodil jako poddaný v době roboty a zemřel jako výminkář osm měsíců poté, co předal statek synovi Tomášovi. Prapradědeček vaší maminky.",
+   "body": [
+    "Narodil se 12. července 1844 v Městečku č. 3 a druhý den byl pokřtěn jako Vojtěch Jakub. Rodina byla tehdy poddaná votickému panství. Jméno dostal nejspíš po dědečkovi z matčiny strany, sedlákovi Vojtěchu Macháčkovi z Malého Semtína.",
+    "U jeho porodu byla porodní bába Anna Černovská z Votic – žena stejného jména pomáhala o třicet let později na svět i jeho synovi Tomášovi.",
+    "Měl nejméně čtyři mladší sourozence: Václava (* 1846), Marii Dorotu (* 1849), Josefu (* 1850) a Marii (* 1852).",
+    "Oženil se ve 28 letech, 3. února 1874 ve Voticích, už jako gruntovník – statek tehdy převzal od otce, který šel na výminek. Nevěstě Františce Lupáčové ze Semtína č. 5 bylo 24 let; protože ještě nebyla plnoletá, dal souhlas její otec Josef Lupáč podpisem. Svědkem byl Tomáš Lupáč, domkář ze Semtína – a o deset měsíců později dostal prvorozený syn jméno Tomáš.",
+    "Hospodařil na statku 35 let. V lednu 1909 se oženil syn Tomáš a Vojtěch odešel na výminek; zemřel už 3. října 1909 na zánět plic, ve věku 65 let. Dva dny předtím ho zaopatřil kaplan František Regál; pohřben je v Olbramovicích.",
+    "Jeho úmrtní zápis uvádí přesné datum narození i sňatku – oba údaje se shodují s matrikami a potvrzují celou linii."
+   ]
+  },
+  "nadpis": "Doba, ve které žil",
+  "uvod": "Vojtěch prožil celých 65 let v jediném domě – na statku č. 3 v Městečku. Za jeho života se ale svět kolem úplně proměnil: narodil se jako poddaný, který měl robotovat na panském, a zemřel jako svobodný vlastník půdy v době železnice, telegrafu a spolků.",
+  "vladci": [
+   {
+    "obdobi": "1844–1848",
+    "text": "císař Ferdinand V. Dobrotivý, poslední korunovaný český král"
+   },
+   {
+    "obdobi": "1848–1909",
+    "text": "císař František Josef I. – vládl téměř celý Vojtěchův život"
+   }
+  ],
+  "udalosti": [
+   {
+    "rok": "1844",
+    "vek": 0,
+    "nadpis": "Narození",
+    "osobni": true,
+    "text": "12. července 1844 v Městečku č. 3. Rodina byla poddaná votickému panství hrabat z Vrtby; otec musel na panském robotovat."
+   },
+   {
+    "rok": "1845–1847",
+    "vek": 1,
+    "nadpis": "Hladové roky",
+    "text": "Bramborová plíseň a neúrody způsobily v Čechách drahotu a hlad. Sedlák s vlastními poli to přečkal lépe než chalupníci a podruzi, ale i na statku se šetřilo."
+   },
+   {
+    "rok": "1848",
+    "vek": 4,
+    "nadpis": "Revoluce a konec roboty",
+    "text": "V Praze se v červnu bojovalo na barikádách; v září 1848 zrušil císař robotu a poddanství. Za půdu se pak vrchnosti splácelo výkupné. Pro čtyřletého Vojtěcha to znamenalo, že jednou zdědí statek už jako svobodný sedlák."
+   },
+   {
+    "rok": "asi 1850–1856",
+    "vek": 6,
+    "nadpis": "Škola",
+    "text": "Chodil nejspíš do školy v Olbramovicích nebo ve Voticích. Povinná docházka trvala šest let, ale v létě venkovské děti pomáhaly na poli a do školy chodily nepravidelně. Učilo se čtení, psaní, počty a hlavně náboženství."
+   },
+   {
+    "rok": "1850",
+    "vek": 6,
+    "nadpis": "Nové úřady",
+    "mistni": true,
+    "text": "Místo panství vznikl soudní okres Votice; obce dostaly vlastní samosprávu. Sedláci jako Vrzalové začali zasedat v obecních výborech."
+   },
+   {
+    "rok": "1859–1866",
+    "vek": 15,
+    "nadpis": "Války a vojna",
+    "text": "Rakousko vedlo války v Itálii (1859) a s Pruskem (1866). V roce 1866 pronikla pruská vojska do Čech a s nimi se šířila cholera. Zda byl Vojtěch odveden, nevíme – dědic statku mohl dostat úlevu."
+   },
+   {
+    "rok": "1866",
+    "vek": 22,
+    "nadpis": "Přestavba kostela",
+    "mistni": true,
+    "text": "V Olbramovicích zbořili starou románskou apsidu kostela Všech svatých a loď prodloužili a rozšířili – kostel, kde byl pokřtěn, dostal novou podobu."
+   },
+   {
+    "rok": "1871",
+    "vek": 27,
+    "nadpis": "Železnice",
+    "mistni": true,
+    "text": "Začala jezdit dráha Praha–Tábor se stanicí Veselka kousek od Městečka. Obilí z Vrzalova statku se dalo poprvé snadno prodat do Prahy."
+   },
+   {
+    "rok": "1873",
+    "vek": 29,
+    "nadpis": "Městečko",
+    "mistni": true,
+    "text": "Městečko mělo 12 domů a 110 obyvatel; olbramovická dvoutřídní škola 206 dětí. Farníci žádali, aby Olbramovice znovu dostaly vlastního faráře."
+   },
+   {
+    "rok": "1874",
+    "vek": 29,
+    "nadpis": "Svatba a první syn",
+    "osobni": true,
+    "text": "3. února 1874 se ve Voticích oženil s Františkou Lupáčovou ze Semtína; 24. prosince 1874 se narodil syn Tomáš."
+   },
+   {
+    "rok": "1880–1895",
+    "vek": 36,
+    "nadpis": "Zemědělská krize",
+    "text": "Levné obilí z Ameriky a Ruska srazilo ceny. Sedláci se bránili zakládáním družstev, záložen a lihovarů – v Olbramovicích pak vznikla kampelička i družstevní lihovar, které později vedl jeho syn."
+   },
+   {
+    "rok": "1881",
+    "vek": 37,
+    "nadpis": "Blesk do kostela",
+    "mistni": true,
+    "text": "14. září 1881 uhodil blesk do věže olbramovického kostela, ale nezapálil."
+   },
+   {
+    "rok": "1895",
+    "vek": 51,
+    "nadpis": "Národopisná výstava",
+    "text": "V Praze se konala Národopisná výstava československá, kterou navštívily statisíce lidí z venkova – vlakem z Veselky to byla otázka několika hodin."
+   },
+   {
+    "rok": "1908",
+    "vek": 64,
+    "nadpis": "Šedesát let císaře",
+    "text": "Monarchie slavila 60 let vlády Františka Josefa I. – jediného panovníka, kterého Vojtěch od čtyř let znal."
+   },
+   {
+    "rok": "1909",
+    "vek": 65,
+    "nadpis": "Výminek a smrt",
+    "osobni": true,
+    "text": "V lednu se oženil syn Tomáš a převzal statek; Vojtěch šel na výminek. Zemřel 3. října 1909 na zánět plic."
+   }
+  ],
+  "zivot": [
+   {
+    "nadpis": "Sedlák za roboty a po ní",
+    "odstavce": [
+     "Ve Vojtěchově dětství musel jeho otec odvádět vrchnosti robotu – několik dní v týdnu práce s potahem na panských polích – a platit dávky. Po roce 1848 se z poddaného stal svobodný vlastník, ale za zrušenou robotu se splácelo výkupné ještě desítky let.",
+     "Hospodářství se zlepšovalo: místo trojpolního systému se zaváděly brambory, jetel a cukrovka, objevily se železné pluhy a první žentoury a mlátičky. Vojtěch hospodařil v době, kdy sedláci poprvé vydělávali na prodeji obilí, mléka a brambor do měst."
+    ]
+   },
+   {
+    "nadpis": "Škola",
+    "odstavce": [
+     "Do roku 1869 platil starý tereziánský řád: šestiletá povinná docházka, v praxi velmi nepravidelná. Školy spravovala církev a farář je kontroloval. Mnozí sedláci té generace uměli číst a podepsat se, psaní a počty ovládali různě.",
+     "Jeho syn Tomáš už chodil do školy podle nového zákona z roku 1869 – osm let a pod státním dozorem."
+    ]
+   },
+   {
+    "nadpis": "Zdraví",
+    "odstavce": [
+     "Rodilo se doma s porodní bábou; u Vojtěcha i u jeho syna to byla „zkoušená babička z Votic“ Anna Černovská. Dětská úmrtnost byla vysoká, neštovice, cholera a tyfus se vracely v epidemiích.",
+     "Lékař byl ve Voticích a volal se jen ve vážných případech. Vojtěcha nakonec připravil o život zánět plic – v době před antibiotiky častá smrt starých lidí."
+    ]
+   },
+   {
+    "nadpis": "Povinnosti",
+    "odstavce": [
+     "Do roku 1848 robota a desátky, potom daně a výkupné za půdu. Vojenská služba byla do roku 1868 dlouhá a losovalo se, kdo půjde; dědici statků se často vyhnuli.",
+     "Jako hospodář živil rodiče na výminku, vyplácel podíly sourozencům a chystal věna dcerám – u čtyř mladších sourozenců to mohlo statek pořádně zatížit."
+    ]
+   },
+   {
+    "nadpis": "Společný čas a zábava",
+    "odstavce": [
+     "Rok určovaly církevní svátky a práce: masopust, Velikonoce, pouť, posvícení, dožínky, Vánoce. Sedláci se scházeli v hospodě, kde se hrály karty a kuželky a probíralo se hospodářství i politika.",
+     "Od 60. let se i na venkov dostávaly noviny, kalendáře a čtenářské spolky; od 70. let hasičské sbory. Velkou událostí byla cesta vlakem do Prahy – třeba na výstavu v roce 1891 nebo 1895."
+    ]
+   }
+  ],
+  "obrazky": [
+   {
+    "obdobi": "Dětství za roboty (1844–1856)",
+    "img": "doba_barikada_1848",
+    "popis": "Barikáda v Praze v červnu 1848 před Staroměstskou mosteckou věží. Revoluce, po níž byla zrušena robota – Vojtěchovi byly čtyři roky.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/472/https___www_esbirky_cz_detail_125410"
+   },
+   {
+    "obdobi": "Dětství za roboty (1844–1856)",
+    "img": "doba_skola_19stol",
+    "popis": "Školní třída v 19. století.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/470/https___www_esbirky_cz_detail_3475610"
+   },
+   {
+    "obdobi": "Hospodář na statku (1874–1909)",
+    "img": "doba_taborsko_engelmuller",
+    "popis": "Ferdinand Engelmüller: Táborsko (kolem 1902) – kraj jižně od Votic.",
+    "autor": "Ferdinand Engelmüller / Belvedere, Vídeň",
+    "licence": "CC BY-SA 4.0",
+    "zdroj": "https://www.europeana.eu/item/1320/https___id_kulturpool_at_981f10ed_8533_4e91_a33e_9f62383293ed_cho"
+   },
+   {
+    "obdobi": "Hospodář na statku (1874–1909)",
+    "img": "doba_zne_mlaticka",
+    "popis": "Začátek žní s mlátičkou – technika, která se rozšířila za Vojtěchova hospodaření.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/470/https___www_esbirky_cz_detail_3472745"
+   },
+   {
+    "obdobi": "Hospodář na statku (1874–1909)",
+    "img": "doba_dymka_fj_1908",
+    "popis": "Porcelánová dýmka s portrétem Františka Josefa I., suvenýr k 60 letům jeho vlády (1908) – takové dýmky kouřili i sedláci.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/472/https___www_esbirky_cz_detail_5064745"
+   }
+  ],
+  "pozn": "Body v rámečku „V kostce“ a události se štítkem „rodina“ jsou z matrik, „obec“ z dobových vlastivěd. Ostatní popisuje, jak obvykle žil sedlák na Voticku v dané době – je to dobový kontext, ne doložený osobní fakt.",
+  "zdroje": [
+   "Matriky Votice: N 1843–1856 (Votice 12), O 1863–1878 (Votice 18), Z 1908–1943 (Votice 38), rejstříky Votice 24 a 34 (SOA Praha, eBadatelna)",
+   "Okres Votický: nástin statisticko-historický (1873), s. 32–34 – Kramerius NK ČR",
+   "Posvátná místa království Českého, Vikariát Votický (1912), s. 194–195 – Kramerius NK ČR"
+  ]
  }
 }

@@ -40,7 +40,7 @@ P = {
     53: dict(n="Anna Dvořáková", y="* ?", st="doc", f=["z Kobylí č. 10"], r=["oub_krest_katerina_hovorkova_1881"]),
     54: dict(n="Josef Dvořák", y="† před 1881", st="doc", f=["rolník v Kobylí č. 9"], r=["oub_krest_katerina_hovorkova_1881"]),
     55: dict(n="Marie Vosátková (?)", y="* ?", st="doc", f=["z Hlohova č. 12"], r=["oub_krest_katerina_hovorkova_1881"], note="Příjmení čteno nejistě."),
-    28: dict(n="Vojtěch Vrzal", y="* 1844", st="doc", f=["* 12. 7. 1844 Městečko č. 3 (Olbramovice)", "gruntovník (rolník) v Městečku č. 3", "× 3. 2. 1874 Votice Františka Lupáčová"], r=["vot_krest_vojtech_vrzal_1844","vot_snatek_vojtech_vrzal_frantiska_lupacova_1874","vot_krest_tomas_vrzal_1874"]),
+    28: dict(n="Vojtěch Vrzal", y="1844–1909", st="doc", f=["* 12. 7. 1844 Městečko č. 3 (Olbramovice)", "gruntovník (rolník) v Městečku č. 3", "× 3. 2. 1874 Votice Františka Lupáčová", "1909 na výminku", "† 3. 10. 1909 Městečko č. 3, pohřben v Olbramovicích"], deti=["Marie († 1892, Městečko 3 – snad dcera, neověřeno)"], r=["vot_krest_vojtech_vrzal_1844","vot_umrti_vojtech_vrzal_1909","vot_snatek_vojtech_vrzal_frantiska_lupacova_1874","vot_krest_tomas_vrzal_1874"]),
     29: dict(n="Františka Lupáčová", y="1850–1926", st="doc", f=["ze Semtína č. 5", "× 3. 2. 1874 Votice Vojtěch Vrzal", "† 27. 1. 1926 Městečko č. 3 (výminkářka), pohřbena v Olbramovicích"], r=["vot_snatek_vojtech_vrzal_frantiska_lupacova_1874","vot_krest_tomas_vrzal_1874","vot_umrti_frantiska_vrzalova_1926"]),
     60: dict(n="František Dalihod", y="† před 1884", st="doc", f=["rolník v Radotíně č. 10"], r=["vj_krest_antonie_dalihodova_1884"]),
     61: dict(n="Kateřina Červenková", y="* ?", st="doc", f=["z Průhonic"], r=["vj_krest_antonie_dalihodova_1884"]),
@@ -94,6 +94,7 @@ LINES = {
 # Příbuzní mimo přímou linii (sourozenci, strýcové…): k = číslo předka, ke kterému patří.
 # dict(k=16, n="Josef Novák (1865–1920)", t="Bratr Jana. Kovář v …", r=["klic_zapisu"])
 SIDE = [
+    dict(k=28, n="Sourozenci Vojtěcha Vrzala", t="Podle rejstříku narozených Votic 1843–1855 (Městečko č. 3): Václav (* 1846), Marie Dorota (* 1849), Josefa (* 1850), Marie (* 1852).", r=[]),
     dict(k=112, n="Hypotéza: původ Václava Vrzala (* asi 1782)", t="Kniha Votice 06 (Městečko a okolí 1771–1786) prošla celá; Václav Vrzal narozený 1777–1786 v ní není. Kandidáti: (1) Václav * 20. 11. 1776, syn Jakuba Vrzala, sedláka, a Veroniky roz. Batounkové? (dům č. 2) – v roce 1811 by mu bylo 34, ne 29; (2) syn Václava Vrzala a Doroty roz. Marvanové (děti v Městečku 1777–1783). Neověřeno.", r=[]),
     dict(k=112, n="Sourozenci Václava Vrzala (* 1812)", t="Ze statku Městečko č. 3 (otec Václav, matka Anna): Pozor: Veronika * 1805, František Xaver * 1807, František * 1808 jsou starší než sňatek 1811 – jsou to děti jiného Vrzala z č. 3 (snad svědka Františka Vrzala) nebo z prvního manželství; ověřit (Votice N 1788–1813).", r=[]),
     dict(k=14, n="Antonín Vrzal (* asi 1870–1885)", t="Svědek na svatbě Tomáše Vrzala 1909, strojník ve Vídni III – nejspíš Tomášův bratr.", r=["vj_snatek_tomas_vrzal_antonie_dalihodova_1909"]),
