@@ -26,6 +26,16 @@ const path = [...p.path].reverse().filter(Boolean);
     <span class={`chip ${statusClass(p.st)}`}>{p.status}</span>
   </div>
 
+
+  {p.perex && (
+    <div class="perex">
+      <h2 class="perex-h">V kostce</h2>
+      {p.perex.uvod && <p class="perex-uvod">{p.perex.uvod}</p>}
+      <ul>{p.perex.body.map((b) => <li>{b}</li>)}</ul>
+      <p class="small muted">Vše v tomto rámečku je doloženo matričními zápisy níže.</p>
+    </div>
+  )}
+
   {p.also.length > 0 && (
     <p class="note">V rodokmenu dvakrát – pedigree collapse: je předkem přes {p.children.map((c, i) => <>{i > 0 && ' i přes '}<PersonLink slug={c} /></>)}.
       Podruhé jako {p.also.map((a) => a.rel).join(', ')}.</p>
