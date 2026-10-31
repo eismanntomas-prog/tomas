@@ -31,7 +31,14 @@
     "rok": "1871",
     "vek": null,
     "nadpis": "Železnice",
-    "text": "Tři roky před jeho narozením začala jezdit trať Praha–Tábor (dráha císaře Františka Josefa) se stanicí v Olbramovicích. Praha a trh s obilím se najednou přiblížily na pár hodin cesty."
+    "text": "Tři roky před jeho narozením začala jezdit trať Praha–Tábor (dráha císaře Františka Josefa). Nejbližší stanice se jmenovala „Veselka“ (později Votice-Veselka) a ležela kousek od Městečka – Praha a trh s obilím se najednou přiblížily na pár hodin cesty."
+   },
+   {
+    "rok": "1873",
+    "vek": null,
+    "nadpis": "Městečko rok před jeho narozením",
+    "mistni": true,
+    "text": "Vlastivěda „Okres Votický“ popisuje Městečko jako osadu o 12 domech se 110 obyvateli a 17 školními dětmi. Sousední Olbramovice ležely na císařské silnici z Prahy do Lince; dvoutřídní školu v Olbramovicích navštěvovalo 206 dětí z celé farnosti. Farníci tehdy žádali, aby Olbramovice po 250 letech znovu dostaly vlastního faráře."
    },
    {
     "rok": "1874",
@@ -41,22 +48,43 @@
     "osobni": true
    },
    {
-    "rok": "asi 1881–1889",
-    "vek": 6,
-    "nadpis": "Povinná škola",
-    "text": "Od roku 1869 platila v Rakousku povinná školní docházka. Tomáš patřil k první generaci venkovských dětí, které pravidelně chodily do školy a uměly číst a psát – podpis si nejspíš uměl napsat sám."
-   },
-   {
     "rok": "1880–1895 (dětství a mládí)",
     "vek": null,
     "nadpis": "Zemědělská krize",
     "text": "Levné obilí z Ameriky a Ruska srazilo ceny. Menší statky se zadlužovaly, sedláci zakládali družstva a záložny (kampeličky). Pro rodinu to bylo období šetření."
    },
    {
+    "rok": "asi 1881–1889",
+    "vek": 6,
+    "nadpis": "Povinná škola",
+    "text": "Od roku 1869 platila v Rakousku povinná školní docházka. Tomáš patřil k první generaci venkovských dětí, které pravidelně chodily do školy a uměly číst a psát – podpis si nejspíš uměl napsat sám."
+   },
+   {
+    "rok": "1881",
+    "vek": 6,
+    "nadpis": "Blesk do kostela",
+    "mistni": true,
+    "text": "14. září 1881 se nad Olbramovicemi strhla bouře a blesk uhodil do věže kostela Všech svatých, vjel dovnitř, ale nezapálil. Šestiletý Tomáš si to nejspíš pamatoval."
+   },
+   {
+    "rok": "1890–1902",
+    "vek": 15,
+    "nadpis": "Škola se rozrůstá",
+    "mistni": true,
+    "text": "Olbramovická škola měla v roce 1890 tři třídy, v roce 1902 už čtyři. Sousední velkostatek se zámečkem a dvorem (134 ha) patřil bratřím Emilovi a Leopoldu Pollakovým, kteří ho podle pozemkové knihy získali kolem roku 1873."
+   },
+   {
     "rok": "1899",
     "vek": 24,
     "nadpis": "Vzniká agrární strana",
     "text": "Sedláci se začali politicky organizovat; agrárníci se později stali nejsilnější stranou první republiky a hájili právě zájmy rolníků jako byl Tomáš."
+   },
+   {
+    "rok": "1907",
+    "vek": 32,
+    "nadpis": "Nová výmalba kostela",
+    "mistni": true,
+    "text": "Vnitřek olbramovického kostela vymaloval dekorační malíř František Thér nákladem 1000 korun."
    },
    {
     "rok": "1909",
@@ -70,6 +98,20 @@
     "vek": 39,
     "nadpis": "První světová válka",
     "text": "Od roku 1915 mohli být povoláni muži až do 50 let. Zda Tomáš narukoval, nevíme – rolníci byli někdy uvolněni kvůli zásobování. Jisté je, že statek odváděl povinné dodávky obilí a dobytka, potraviny byly na lístky a z kostelů se rekvírovaly zvony."
+   },
+   {
+    "rok": "asi 1915",
+    "vek": 40,
+    "nadpis": "Tomáš ve veřejných funkcích",
+    "osobni": true,
+    "text": "Chytilův adresář uvádí Tomáše Vrzala, rolníka v Městečku, jako člena obecního výboru Olbramovic, starostu Spořitelního a záložního spolku pro Olbramovice a okolí (místní kampeličky) a člena představenstva Družstevního lihovaru pro Olbramovice a okolí. Patřil tedy k předním sedlákům obce."
+   },
+   {
+    "rok": "1915",
+    "vek": 40,
+    "nadpis": "Obec za války",
+    "mistni": true,
+    "text": "Obec Olbramovice (s Městečkem, Semtíny, Zahradnicí a dalšími osadami) měla 877 obyvatel, samotné Městečko 94. Byla tu trojtřídní obecná škola, hostince, kovárny, kolárny, dva mlýny, cihelna v Městečku, obchody se smíšeným zbožím a s obilím, sbor dobrovolných hasičů a hospodářský spolek. Pošta, fara i lékař byli ve Voticích."
    },
    {
     "rok": "1916",
@@ -97,10 +139,24 @@
     "osobni": true
    },
    {
+    "rok": "1928",
+    "vek": 53,
+    "nadpis": "Doprava a nová sokolovna",
+    "mistni": true,
+    "text": "Ze stanice Votice-Veselka u Městečka odbočovala místní dráha do Sedlčan a jezdily odtud autobusy do Mladé Vožice, Tábora a Načeradce. Ve Voticích byla otevřena sokolovna, v Olbramovicích pak další asi kolem roku 1935."
+   },
+   {
     "rok": "1929–1933",
     "vek": 54,
     "nadpis": "Velká hospodářská krize",
     "text": "Ceny zemědělských výrobků se propadly na zlomek. Venkov krizi snášel lépe než města – jídlo měl vlastní – ale peněz bylo málo. Od roku 1934 stát vykupoval obilí za pevné ceny (obilní monopol)."
+   },
+   {
+    "rok": "1930",
+    "vek": 55,
+    "nadpis": "Městečko na sklonku jeho života",
+    "mistni": true,
+    "text": "Městečko mělo 15 domů a 113 obyvatel – za Tomášova života se tedy téměř nezměnilo."
    },
    {
     "rok": "1936",
@@ -116,6 +172,15 @@
     "odstavce": [
      "Rolník (gruntovník) na Voticku hospodařil zhruba na několika desítkách korců polí, luk a lesa. Pěstovalo se žito, oves, ječmen, brambory a jetel na krmení, choval se skot, prasata a drůbež; tažnou sílu dávali koně nebo voli. Rok určovaly práce na poli: jarní orba a setí, senoseč, žně, mlácení cepy (později mlátičkou), podzimní orba a v zimě práce v lese a kolem dobytka.",
      "Na statku žila celá rodina pohromadě: hospodář s ženou a dětmi, rodiče na výminku (Tomášův dědeček Václav byl na výminku v roce 1874) a podle velikosti statku čeledín a děvečka. Hospodářství se dědilo z otce na syna – Vrzalové je předávali nejméně pět generací. Výminek byl smluvně zapsaný: kolik obilí, mléka, dříví a jakou světnici dostanou staří rodiče do smrti."
+    ]
+   },
+   {
+    "nadpis": "Městečko a Olbramovice",
+    "odstavce": [
+     "Městečko bylo malou osadou – po celý Tomášův život jen 12 až 15 domů a kolem sta obyvatel – srostlou s větší vsí Olbramovice. Od roku 1672 patřily Olbramovice, Votice i Janovice stejné vrchnosti (hrabatům z Vrtby), proto se v matrikách Vrzalové píší jako poddaní votického a janovického panství.",
+     "Kolem vedla císařská silnice z Prahy do Lince a od roku 1871 železnice se stanicí Veselka (později Votice-Veselka), odkud se dalo dojet do Prahy, do Tábora a později i místní dráhou do Sedlčan. Na rozcestí u dvora stála Kalvárie – tři malované kříže a kamenné sochy z roku 1706, které přenesli, když se stavěla silnice.",
+     "Kostel Všech svatých v Olbramovicích byl filiálkou farnosti Votice; křtilo, oddávalo a pohřbívalo se ale na olbramovickém hřbitově, kde je pohřben i Tomáš. Do školy chodily děti z celé farnosti do Olbramovic – v Tomášově dětství to byla dvoutřídka s více než dvěma sty dětmi.",
+     "Hospodářský život obce řídili sedláci jako Tomáš: zasedali v obecním výboru, vedli spořitelní a záložní spolek (kampeličku), který půjčoval sedlákům peníze na hospodářství, a společně provozovali družstevní lihovar, kde se z brambor pálil líh. Pokladníkem lihovaru byl majitel olbramovického velkostatku Leopold Pollak – sedláci a statkář tu tedy spolupracovali."
     ]
    },
    {
@@ -161,7 +226,7 @@
     ]
    }
   ],
-  "pozn": "Údaje označené „rodina“ jsou z matričních zápisů (včetně porodní báby Anny Černovské a nemocnice v Pelhřimově). Části o škole, zdraví, povinnostech, jídle a zábavě popisují, jak to na českém venkově v dané době obvykle chodilo – je to dobový kontext, ne doložený osobní fakt.",
+  "pozn": "Údaje označené „rodina“ jsou z matrik a dobových adresářů, „obec“ z dobových vlastivěd a místopisů (viz prameny níže). Části o škole, zdraví, povinnostech, jídle a zábavě popisují, jak to na českém venkově v dané době obvykle chodilo – je to dobový kontext, ne doložený osobní fakt.",
   "obrazky": [
    {
     "obdobi": "Dětství a škola (1874–1889)",
@@ -226,9 +291,20 @@
     "Narodil se na Štědrý den 1874, deset měsíců po svatbě rodičů. Pomáhala u toho „zkoušená babička z Votic“ Anna Černovská – žena stejného jména byla porodní bábou už u křtu jeho otce Vojtěcha o třicet let dříve.",
     "Oženil se až ve 34 letech, v lednu 1909 ve Vrchotových Janovicích, s o deset let mladší Antonií Dalihodovou z Radotína. Za svědka mu šel Antonín Vrzal, strojník ve Vídni – nejspíš bratr, který odešel za prací do velkoměsta.",
     "Jeho vlastní datum narození se v pozdějších úředních zápisech „posunulo“: v oddacím i v úmrtním zápisu stojí 24. dubna, křestní matrika ale jasně píše 24. prosince.",
+    "Patřil k předním mužům obce: kolem roku 1915 zasedal v obecním výboru Olbramovic, byl starostou místní kampeličky (Spořitelního a záložního spolku pro Olbramovice a okolí) a členem představenstva družstevního lihovaru.",
     "Měl nejméně čtyři, spíše šest dětí; jediný syn Vojtěch (* 1917) byl pravděpodobným dědicem statku.",
     "Zemřel 12. srpna 1936 „na cestě za Táborem“ – čtyři dny poté, co ho v nemocnici v Pelhřimově zaopatřili. Příčinou byl žaludeční vřed a akutní selhání srdce. Pohřbil ho kvardián františkánského kláštera ve Voticích P. Marian Wilhelm na hřbitově v Olbramovicích."
    ]
-  }
+  },
+  "zdroje": [
+   "Okres Votický: nástin statisticko-historický (1873), s. 32–34 – Kramerius NK ČR",
+   "Posvátná místa království Českého, Vikariát Votický (1912), s. 194–196 – Kramerius NK ČR",
+   "Ottův slovník naučný, heslo Olbramovice (1902) – Kramerius NK ČR",
+   "Schematismus a statistika statků velkých a rustikálních (1902), s. 343 – Kramerius NK ČR",
+   "Batovcův příruční místopis (1907), s. 201 – Kramerius NK ČR",
+   "Chytilův úplný adresář Království českého (1915), s. 404 – Kramerius NK ČR",
+   "Střední Povltaví a středočeské žulové pohoří, průvodce (1928), s. 119 – Kramerius NK ČR",
+   "Chytilův místopis Československé republiky (1930), s. 904 – Kramerius NK ČR"
+  ]
  }
 }

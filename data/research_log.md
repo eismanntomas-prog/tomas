@@ -155,3 +155,6 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
 - Děti Tomáše Vrzala: rejstřík N vesnic fary Votice 1903–1933 (15287, sn. 12, písmeno V). Městečko měla dvě rodiny Vrzalů: č. 3 (Tomáš) a č. 9 (Marie 1903, Anežka 1905, Václav 1907, Josef 1909, Josefa 1909, Vlasta 1925).
   Č. 3: Anna 1914 (XII/158), Vojtěch 1917 (XII/184), Antonie 1921 (XII/232 – babička, sedí), Anežka 1925 (XII/256). Nejisté číslo domu: Božena 1910 (XII/107), Marie 1912 (XII/126, „8“?).
   Zápisy samotné (kniha XII) online nejsou. František Vrzal, svědek 1942 (Městečko 3), v rejstříku 1903–33 není → spíš Tomášův bratr nebo synovec.
+- Místní historie Městečka/Olbramovic (Kramerius, veřejné): Okres Votický 1873 (Městečko 12 d., 110 ob.; stanice „Veselka“; škola 2tř. 206 dětí), Posvátná místa 1912 (blesk 14. 9. 1881, výmalba 1907),
+  Ottův slovník 1902, Schematismus velkostatků 1902 (Pollakové, 134 ha), Batovec 1907, Chytil 1915 (Tomáš Vrzal: obecní výbor, starosta Spořitelního a záložního spolku, předst. družstevního lihovaru),
+  Střední Povltaví 1928 (stanice Votice-Veselka, místní dráha do Sedlčan), Chytil 1930 (Městečko 15 d., 113 ob.).

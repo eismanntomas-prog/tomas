@@ -226,3 +226,4 @@ main.full { max-width: none; padding: 0; }
 .perex .perex-uvod { font-size: 1.05rem; font-weight: 600; margin: 0 0 .5rem; }
 .perex ul { margin: 0 0 .4rem; padding-left: 1.2rem; }
 .perex li { margin: .35rem 0; }
+.doba .chip-obec { background: #e3eef7; color: #2d4f6b; }

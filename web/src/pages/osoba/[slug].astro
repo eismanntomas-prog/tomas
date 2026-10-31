@@ -32,7 +32,7 @@ const path = [...p.path].reverse().filter(Boolean);
       <h2 class="perex-h">V kostce</h2>
       {p.perex.uvod && <p class="perex-uvod">{p.perex.uvod}</p>}
       <ul>{p.perex.body.map((b) => <li>{b}</li>)}</ul>
-      <p class="small muted">Vše v tomto rámečku je doloženo matričními zápisy níže.</p>
+      <p class="small muted">Vše v tomto rámečku je doloženo matričními zápisy níže nebo dobovými prameny (viz Prameny).</p>
     </div>
   )}
 
@@ -54,7 +54,7 @@ const path = [...p.path].reverse().filter(Boolean);
       {p.doba.udalosti && (
         <>
           <h3>Události jeho života</h3>
-          <ol class="timeline">{p.doba.udalosti.map((u) => <li><span class="when">{u.rok}{u.vek !== undefined && u.vek !== null ? ` (${u.vek} let)` : ''}</span> <strong>{u.nadpis}</strong>{u.osobni && <span class="chip">rodina</span>}<br /><span class="small">{u.text}</span></li>)}</ol>
+          <ol class="timeline">{p.doba.udalosti.map((u) => <li><span class="when">{u.rok}{u.vek !== undefined && u.vek !== null ? ` (${u.vek} let)` : ''}</span> <strong>{u.nadpis}</strong>{u.osobni && <span class="chip">rodina</span>}{u.mistni && <span class="chip chip-obec">obec</span>}<br /><span class="small">{u.text}</span></li>)}</ol>
         </>
       )}
       {p.doba.obrazky && p.doba.obrazky.length > 0 && (
@@ -77,6 +77,7 @@ const path = [...p.path].reverse().filter(Boolean);
       )}
       {p.doba.zivot && p.doba.zivot.map((z) => <><h3>{z.nadpis}</h3>{z.odstavce.map((o) => <p>{o}</p>)}</>)}
       {p.doba.pozn && <p class="note">{p.doba.pozn}</p>}
+      {p.doba.zdroje && <><h3>Prameny</h3><ul class="small">{p.doba.zdroje.map((z) => <li>{z}</li>)}</ul></>}
     </section>
   )}
 
