@@ -152,3 +152,6 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
 - Votice 06 (7396) přečtena celá pro 1771–1786 (sn. 4–31). Vrzalové v Městečku: Jakub Vrzal × Veronika (Batounková?) – Václav * 20. 11. 1776 (dům 2, sn. 15), Tomáš 1773 (sn. 9);
   Jan Vrzal × Alžběta roz. Macháčková – Josef 1772?, Anna 1775, Jan 1776; Václav Vrzal × Dorota roz. Marvanová – Josef 1777, Veronika 1780.
   Václav (ženich 1811, „29 let“, dům 3) tu jednoznačně není. Nejlepší kandidát: Václav * 20. 11. 1776 (syn Jakuba) – věk nesedí o 5 let. Konec spolehlivého dohledání Vrzalů.
+- Děti Tomáše Vrzala: rejstřík N vesnic fary Votice 1903–1933 (15287, sn. 12, písmeno V). Městečko měla dvě rodiny Vrzalů: č. 3 (Tomáš) a č. 9 (Marie 1903, Anežka 1905, Václav 1907, Josef 1909, Josefa 1909, Vlasta 1925).
+  Č. 3: Anna 1914 (XII/158), Vojtěch 1917 (XII/184), Antonie 1921 (XII/232 – babička, sedí), Anežka 1925 (XII/256). Nejisté číslo domu: Božena 1910 (XII/107), Marie 1912 (XII/126, „8“?).
+  Zápisy samotné (kniha XII) online nejsou. František Vrzal, svědek 1942 (Městečko 3), v rejstříku 1903–33 není → spíš Tomášův bratr nebo synovec.

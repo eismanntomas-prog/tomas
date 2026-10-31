@@ -83,6 +83,7 @@ const path = [...p.path].reverse().filter(Boolean);
         <h3>{p.sex === 'M' ? 'Manželka' : 'Manžel'} a dítě v linii</h3>
         <p>{p.spouse ? <PersonLink slug={p.spouse} /> : <span class="muted">{p.sex === 'F' && people[p.child]?.fatherUnknown ? 'otec dítěte neuveden' : 'neznámý partner'}</span>}<br />
           {p.children.length > 1 ? 'Děti' : 'Dítě'}: {p.children.map((c, i) => <>{i > 0 && ', '}<PersonLink slug={c} /></>)}</p>
+        {p.deti && p.deti.length > 0 && <p class="small">Další děti: {p.deti.join(' · ')}</p>}
         {p.ownFamily && <p class="small"><a href={href.family(p.ownFamily)}>Jejich rodina →</a></p>}
       </div>
     )}
