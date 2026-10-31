@@ -149,3 +149,6 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
 - Křest Václava Vrzala st. (* ~1782): Votice 03 (7393) je pro Votice a blízké vsi (Městečko tam není; rejstřík jen 1749–53, 1787–88).
   Městečko je ve Votice 06 (7396, N 1771–1786 pro Budy, Městečko Olbramovice; sn. 4–31). Přečteno sn. 16–31 (1777–1786): Václav Vrzal × Dorota roz. Marvanová, Městečko –
   děti Josef 8. 10. 1777, Veronika 17. 12. 1780, Josef? 1783; kmotr Jakub Vrzal z Městečka (1781). Syn Václav 1781–1786 NENALEZEN (možná * před 1777 → ověřit Votice 06 sn. 4–15, 1771–1776, nebo zápis chybí).
+- Votice 06 (7396) přečtena celá pro 1771–1786 (sn. 4–31). Vrzalové v Městečku: Jakub Vrzal × Veronika (Batounková?) – Václav * 20. 11. 1776 (dům 2, sn. 15), Tomáš 1773 (sn. 9);
+  Jan Vrzal × Alžběta roz. Macháčková – Josef 1772?, Anna 1775, Jan 1776; Václav Vrzal × Dorota roz. Marvanová – Josef 1777, Veronika 1780.
+  Václav (ženich 1811, „29 let“, dům 3) tu jednoznačně není. Nejlepší kandidát: Václav * 20. 11. 1776 (syn Jakuba) – věk nesedí o 5 let. Konec spolehlivého dohledání Vrzalů.

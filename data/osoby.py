@@ -94,7 +94,7 @@ LINES = {
 # Příbuzní mimo přímou linii (sourozenci, strýcové…): k = číslo předka, ke kterému patří.
 # dict(k=16, n="Josef Novák (1865–1920)", t="Bratr Jana. Kovář v …", r=["klic_zapisu"])
 SIDE = [
-    dict(k=112, n="Hypotéza: rodiče Václava Vrzala (* asi 1782)", t="V Městečku Olbramovice měli v letech 1777–1783 děti Václav Vrzal a Dorota roz. Marvanová (Josef 8. 10. 1777, Veronika 17. 12. 1780, další). Křest Václava (* asi 1782) v knize Votice 06 (Městečko 1771–1786) nenalezen – možná zapsán jinde, nebo je věk 29 let v oddacím zápisu 1811 nepřesný. Neověřeno.", r=[]),
+    dict(k=112, n="Hypotéza: původ Václava Vrzala (* asi 1782)", t="Kniha Votice 06 (Městečko a okolí 1771–1786) prošla celá; Václav Vrzal narozený 1777–1786 v ní není. Kandidáti: (1) Václav * 20. 11. 1776, syn Jakuba Vrzala, sedláka, a Veroniky roz. Batounkové? (dům č. 2) – v roce 1811 by mu bylo 34, ne 29; (2) syn Václava Vrzala a Doroty roz. Marvanové (děti v Městečku 1777–1783). Neověřeno.", r=[]),
     dict(k=112, n="Sourozenci Václava Vrzala (* 1812)", t="Ze statku Městečko č. 3 (otec Václav, matka Anna): Pozor: Veronika * 1805, František Xaver * 1807, František * 1808 jsou starší než sňatek 1811 – jsou to děti jiného Vrzala z č. 3 (snad svědka Františka Vrzala) nebo z prvního manželství; ověřit (Votice N 1788–1813).", r=[]),
     dict(k=14, n="Antonín Vrzal (* asi 1870–1885)", t="Svědek na svatbě Tomáše Vrzala 1909, strojník ve Vídni III – nejspíš Tomášův bratr.", r=["vj_snatek_tomas_vrzal_antonie_dalihodova_1909"]),
     dict(k=1, n="Petr Eismann", t="Bratr Tomáše. Žijící – údaje jen základní.", r=[]),
