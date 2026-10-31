@@ -1,0 +1,125 @@
+{
+ "14": {
+  "nadpis": "Doba, ve které žil",
+  "uvod": "Tomáš Vrzal prožil 61 let mezi dvěma světy: narodil se jako poddaný rakouského císaře do rodiny, která ještě o dvě generace dříve robotovala, a zemřel jako svobodný rolník v demokratickém Československu. Statek č. 3 v Městečku u Olbramovic po celý ten čas zůstal v rukou Vrzalů.",
+  "vladci": [
+   {
+    "obdobi": "1874–1916",
+    "text": "císař František Josef I. (Rakousko-Uhersko; Čechy byly korunní zemí rakouské části monarchie)"
+   },
+   {
+    "obdobi": "1916–1918",
+    "text": "císař Karel I., poslední Habsburk na českém trůně"
+   },
+   {
+    "obdobi": "1918–1935",
+    "text": "prezident Tomáš Garrigue Masaryk (Československá republika)"
+   },
+   {
+    "obdobi": "1935–1936",
+    "text": "prezident Edvard Beneš"
+   }
+  ],
+  "udalosti": [
+   {
+    "rok": "1848",
+    "vek": null,
+    "nadpis": "Konec roboty",
+    "text": "Jeho dědeček Václav (* 1812) se ještě narodil jako poddaný votického panství. Zrušením poddanství se statek stal vlastnictvím rodiny – Tomáš už vyrůstal na vlastní půdě."
+   },
+   {
+    "rok": "1871",
+    "vek": null,
+    "nadpis": "Železnice",
+    "text": "Tři roky před jeho narozením začala jezdit trať Praha–Tábor (dráha císaře Františka Josefa) se stanicí v Olbramovicích. Praha a trh s obilím se najednou přiblížily na pár hodin cesty."
+   },
+   {
+    "rok": "1874",
+    "vek": 0,
+    "nadpis": "Narození",
+    "text": "24. prosince 1874 v Městečku č. 3, jako syn sedláka Vojtěcha Vrzala a Františky roz. Lupáčové, deset měsíců po jejich svatbě.",
+    "osobni": true
+   },
+   {
+    "rok": "asi 1881–1889",
+    "vek": 6,
+    "nadpis": "Povinná škola",
+    "text": "Od roku 1869 platila v Rakousku povinná školní docházka. Tomáš patřil k první generaci venkovských dětí, které pravidelně chodily do školy a uměly číst a psát – podpis si nejspíš uměl napsat sám."
+   },
+   {
+    "rok": "1880–1895 (dětství a mládí)",
+    "vek": null,
+    "nadpis": "Zemědělská krize",
+    "text": "Levné obilí z Ameriky a Ruska srazilo ceny. Menší statky se zadlužovaly, sedláci zakládali družstva a záložny (kampeličky). Pro rodinu to bylo období šetření."
+   },
+   {
+    "rok": "1899",
+    "vek": 24,
+    "nadpis": "Vzniká agrární strana",
+    "text": "Sedláci se začali politicky organizovat; agrárníci se později stali nejsilnější stranou první republiky a hájili právě zájmy rolníků jako byl Tomáš."
+   },
+   {
+    "rok": "1909",
+    "vek": 34,
+    "nadpis": "Svatba",
+    "text": "26. ledna 1909 si ve Vrchotových Janovicích vzal o deset let mladší Antonii Dalihodovou z Radotína. Pozdní sňatek byl u dědiců statků běžný – ženilo se obvykle až při převzetí hospodářství. Svědkem byl Antonín Vrzal, strojník ve Vídni: nejspíš bratr, který jako mnoho nedědících synů odešel za prací do města.",
+    "osobni": true
+   },
+   {
+    "rok": "1914–1918",
+    "vek": 39,
+    "nadpis": "První světová válka",
+    "text": "Od roku 1915 mohli být povoláni muži až do 50 let. Zda Tomáš narukoval, nevíme – rolníci byli někdy uvolněni kvůli zásobování. Jisté je, že statek odváděl povinné dodávky obilí a dobytka, potraviny byly na lístky a z kostelů se rekvírovaly zvony."
+   },
+   {
+    "rok": "1916",
+    "vek": 41,
+    "nadpis": "Smrt císaře",
+    "text": "Zemřel František Josef I., který vládl celý dosavadní Tomášův život."
+   },
+   {
+    "rok": "1918",
+    "vek": 43,
+    "nadpis": "Vznik Československa",
+    "text": "28. října 1918 se z poddaného rakouského císaře stal občanem republiky. Pro venkov to znamenalo hlavně konec války a návrat mužů z fronty."
+   },
+   {
+    "rok": "1919",
+    "vek": 44,
+    "nadpis": "Pozemková reforma",
+    "text": "Stát začal zabírat a rozdělovat velkostatky šlechty. Malí a střední rolníci mohli přikupovat půdu – zda se to Vrzalů týkalo, nevíme."
+   },
+   {
+    "rok": "1921",
+    "vek": 46,
+    "nadpis": "Narodila se dcera Antonie",
+    "text": "23. dubna 1921 v Městečku č. 3 – vaše babička. Tomášovi bylo 46 let.",
+    "osobni": true
+   },
+   {
+    "rok": "1929–1933",
+    "vek": 54,
+    "nadpis": "Velká hospodářská krize",
+    "text": "Ceny zemědělských výrobků se propadly na zlomek. Venkov krizi snášel lépe než města – jídlo měl vlastní – ale peněz bylo málo. Od roku 1934 stát vykupoval obilí za pevné ceny (obilní monopol)."
+   },
+   {
+    "rok": "1936",
+    "vek": 61,
+    "nadpis": "Smrt",
+    "text": "12. srpna 1936 zemřel na cestě za Táborem na žaludeční vřed a selhání srdce; 8. srpna ho zaopatřili v nemocnici v Pelhřimově. Pohřben byl v Olbramovicích. Dceři Antonii bylo 15 let. Nedožil se Mnichova a okupace, které přišly o dva roky později.",
+    "osobni": true
+   }
+  ],
+  "zivot": [
+   {
+    "nadpis": "Jak asi vypadal jeho život",
+    "odstavce": [
+     "Rolník (gruntovník) na Voticku hospodařil na několika desítkách korců polí, luk a lesa. Pěstovalo se žito, oves, ječmen, brambory a jetel na krmení, choval se skot, prasata a drůbež; tažnou sílu dávali koně nebo voli. Rok určovaly práce na poli: jarní orba a setí, senoseč, žně, mlácení, podzimní orba a v zimě práce v lese a v hospodářství.",
+     "Na statku žila celá rodina pohromadě: hospodář s ženou a dětmi, často i rodiče na výminku (Tomášův dědeček Václav byl na výminku v roce 1874) a podle velikosti statku čeledín a děvečka. Hospodářství se dědilo z otce na syna – Vrzalové je předávali nejméně pět generací.",
+     "Svět se mu postupně zvětšoval: železnice v Olbramovicích, noviny, hospodářské spolky a družstva, za republiky volby. Přesto zůstal život vázaný na půdu, počasí a farnost ve Voticích, kde se křtilo, oddávalo a kam se chodilo do kostela."
+    ]
+   }
+  ],
+  "pozn": "Údaje označené „rodina“ jsou z matričních zápisů. Ostatní je obecný dějinný kontext doby a kraje – jak asi Tomáš žil, je odhad, ne doložený fakt."
+ }
+}

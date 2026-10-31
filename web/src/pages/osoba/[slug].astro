@@ -33,6 +33,25 @@ const path = [...p.path].reverse().filter(Boolean);
   {p.facts.length > 0 && <ul class="facts">{p.facts.map((f) => <li>{f}</li>)}</ul>}
   {p.note && <p class="note">{p.note}</p>}
 
+  {p.doba && (
+    <section class="doba">
+      <h2>{p.doba.nadpis || (p.sex === 'M' ? 'Doba, ve které žil' : 'Doba, ve které žila')}</h2>
+      {p.doba.uvod && <p class="lead-doba">{p.doba.uvod}</p>}
+      {p.doba.vladci && (
+        <div class="card"><h3>Kdo vládl</h3>
+          <ul class="facts">{p.doba.vladci.map((v) => <li><strong>{v.obdobi}</strong> – {v.text}</li>)}</ul></div>
+      )}
+      {p.doba.udalosti && (
+        <>
+          <h3>Události jeho života</h3>
+          <ol class="timeline">{p.doba.udalosti.map((u) => <li><span class="when">{u.rok}{u.vek !== undefined && u.vek !== null ? ` (${u.vek} let)` : ''}</span> <strong>{u.nadpis}</strong>{u.osobni && <span class="chip">rodina</span>}<br /><span class="small">{u.text}</span></li>)}</ol>
+        </>
+      )}
+      {p.doba.zivot && p.doba.zivot.map((z) => <><h3>{z.nadpis}</h3>{z.odstavce.map((o) => <p>{o}</p>)}</>)}
+      {p.doba.pozn && <p class="note">{p.doba.pozn}</p>}
+    </section>
+  )}
+
   <h2>Rodina</h2>
   <div class="grid2">
     <div class="card">

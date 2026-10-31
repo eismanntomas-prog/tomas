@@ -12,7 +12,7 @@ import json, os, re, sys
 NET = re.compile(r"\burllib\.request\b|from\s+urllib\s+import\s+request|\bimport\s+requests\b|\bfrom\s+requests\b|"
                  r"\bhttp\.client\b|\burlopen\s*\(|\bimport\s+socket\b|\bhttpx\b|\baiohttp\b")
 LOCAL = re.compile(r"https?://(localhost|127\.0\.0\.1|\[::1\])(:\d+)?(/|$)", re.I)
-OK_HOSTS = re.compile(r"https?://([^/\s\"']*\.)?(github\.com|netlify\.com|npmjs\.org|pypi\.org|pythonhosted\.org)", re.I)
+OK_HOSTS = re.compile(r"https?://([^/\s\"']*\.)?(github\.com|netlify\.com|netlify\.app|npmjs\.org|pypi\.org|pythonhosted\.org)", re.I)
 HOW = ("Spusť to přes obal, který hlídá limity archivů:\n"
        "  python3 -I scripts/slusne.py tools/<nastroj>.py …\n"
        "  python3 -I scripts/slusne.py bash tools/<skript>.sh …\n"

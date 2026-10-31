@@ -195,6 +195,7 @@ def main():
         sys.exit("CHYBA: v data/web.json není odpověď na přihlašovací otázku – web by byl otevřený komukoli.\n"
                  "Nastavte prihlaseni.odpoved, nebo (jen když to opravdu chcete) prihlaseni.otevreny: true.")
     docs_cfg = jload("dokumenty.json", [])
+    doba_cfg = jload("doba.json", {})   # společenský kontext k osobám: {"<Kekulé číslo>": {...}}
     recs = {r["key"]: r for r in record_rows()}
 
     slugs, used = {}, set()
@@ -237,6 +238,7 @@ def main():
             family=None, ownFamily=None, path=path,
             side=[dict(name=s["n"], text=s["t"], records=[r for r in s.get("r", []) if r in recs]) for s in SIDE if s["k"] == k],
             docs=[dict(img=d["img"], caption=d["popis"]) for d in docs_cfg if k in d.get("osoby", [])],
+            doba=doba_cfg.get(str(k)),
             children=[slugs[c] for c in [k // 2] + [a // 2 for a in aliases_of.get(k, [])] if k > 1 and c in slugs],
             also=[dict(k=a, rel=relation(a), line=line_of(a), child=slugs.get(a // 2)) for a in aliases_of.get(k, [])],
         )
