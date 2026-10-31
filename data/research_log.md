@@ -162,3 +162,7 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
   Antonie Dalihodová v Zi Votice 1871–1949 NENÍ → zemřela po 1949 nebo jinde. Chytil 1915 s. 402: obec Křešice (Radotín 84, Slavkov 115), krejčí Fr. Písařík v Radotíně = svědek 1909 (oprava čtení Pivařík).
 - Votice Zi 1871–1949 (7494) sn. 44: „1909 Vrzal Vojt. Městečko 3, V 21“ → Z 1908–1943 (14770) str. 21 = sn. 23: † 3. 10. 1909 Vojtěch Vrzal, výminkář Městečko 3, 65 l., nar. 12/7 1844, oddán 3/2 1874, zánět plic. 
   Sn. 43 (1878–1897): Městečko 3 – „1892 Vrzalová Marie, IV 261“ (dcera Vojtěcha?). Václav Vrzal (* ~1812) 1878–1897 v č. 3 nenalezen → zemřel 1871–1877? (sn. 42 neprohlédnut).
+- Ouběnice Z 1874–1948 (14933), rejstřík S = sn. 291 (L: 1905–1938, R: 1938–42); folia Ouběnice 1–60, fol. ≈ snímek − 3.
+  Spálenka Josef † 7. 1. 1908 Střížovec 2 (fol. 296, nečteno); Spálenková Marie † 18. 4. 1912 Ouběnice 25 (fol. 40 = sn. 43; * 4. 8. 1911, dc. Jana a Kateřiny);
+  Spálenka Jan, chalupník Ouběnice 25 † 23. 4. 1931 Benešov nemocnice (fol. 50 = sn. 53; 53 l., zánět pobřišnice, sepse);
+  Spálenka Jan * 22. 8. 1913, úředník benešovské nemocnice, svobodný † 21. 6. 1940 (fol. 54 = sn. 57; glomerulonefritis) = bratr Václava. Další: Spálenka Vincenc 91 l. † 10. 1. 1942 Ouběnice 10.

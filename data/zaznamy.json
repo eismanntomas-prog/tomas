@@ -258,5 +258,35 @@
   "nazev": "Úmrtí Vojtěcha Vrzala",
   "shrnuti": "Vojtěch Vrzal, výminkář v Městečku č. 3, manžel Františky roz. Lupáčové, narozen tamtéž 12. 7. 1844, oddán ve Voticích 3. 2. 1874; zemřel na zánět plic ve věku 65 let, pohřben v Olbramovicích.",
   "odkaz": "https://ebadatelna.soapraha.cz/d/14770/23"
+ },
+ {
+  "klic": "oub_umrti_jan_spalenka_1931",
+  "svazek": "ebad_14933",
+  "snimek": 53,
+  "druh": "Z",
+  "datum": "23. 4. 1931",
+  "nazev": "Úmrtí Jana Spálenky (otce)",
+  "shrnuti": "Jan Spálenka, chalupník v Ouběnicích č. 25, nar. ve Střížovci č. 2, manžel Kateřiny roz. Hovorkové z Kobylí č. 8; zemřel ve Všeobecné veřejné nemocnici v Benešově na zánět pobřišnice a sepsi, 53 let; nar. 27. 2. 1878, oddán 17. 11. 1908.",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/14933/53"
+ },
+ {
+  "klic": "oub_umrti_jan_spalenka_1940",
+  "svazek": "ebad_14933",
+  "snimek": 57,
+  "druh": "Z",
+  "datum": "21. 6. 1940",
+  "nazev": "Úmrtí Jana Spálenky (bratra Václava)",
+  "shrnuti": "Jan Spálenka, úředník v benešovské nemocnici, nar. v Ouběnicích č. 25 dne 22. 8. 1913, syn † Jana Spálenky, rolníka, a Kateřiny roz. Hovorkové; svobodný, 26 let; zemřel v nemocnici v Benešově na zánět ledvin (glomerulonefritidu), pohřben v Ouběnicích.",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/14933/57"
+ },
+ {
+  "klic": "oub_umrti_marie_spalenkova_1912",
+  "svazek": "ebad_14933",
+  "snimek": 43,
+  "druh": "Z",
+  "datum": "18. 4. 1912",
+  "nazev": "Úmrtí Marie Spálenkové (sestry Václava)",
+  "shrnuti": "Marie, dcera Jana Spálenky, domkáře v Ouběnicích č. 25, a Kateřiny roz. Hovorkové z Kobylí č. 8; nar. 4. 8. 1911, zemřela v 8 měsících na zápal plic.",
+  "odkaz": "https://ebadatelna.soapraha.cz/d/14933/43"
  }
 ]
