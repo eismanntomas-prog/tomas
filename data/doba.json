@@ -1200,5 +1200,200 @@
    "Matriky Votice: rejstříky N 1903–1933 a Z 1871–1949, O 1913–1945, Z 1908–1943 (SOA Praha, eBadatelna)",
    "Chytilův úplný adresář Království českého (1915), s. 404 – Kramerius NK ČR"
   ]
+ },
+ "12": {
+  "nadpis": "Doba, ve které žil",
+  "perex": {
+   "uvod": "Domkář a chalupník z Ouběnic, otec dědečka Václava – pro vás pradědeček z maminčiny strany.",
+   "body": [
+    "Narodil se 27. února 1878 ve Střížovci č. 2 jako nejstarší známé dítě domkáře Josefa Spálenky a Marie Medalové, dcery kováře z Tožice. U porodu byla porodní bába Barbora Hofmannová z Ouběnic; kmotrem byl Josef Medal, domkář v Ouběnicích č. 25.",
+    "Měl nejméně pět mladších sourozenců: Annu (* 1880), Františka (* 1882), Václava (* 1885), Josefu (* 1889) a Bohumila (* 1891).",
+    "Otec Josef zemřel 7. ledna 1908; v listopadu téhož roku se Jan oženil.",
+    "Ženil se ve 30 letech, 17. listopadu 1908 v Ouběnicích, s Kateřinou Hovorkovou, dcerou rolníka z Kobylí č. 8. Oddával farář Bohumil Zahradník – spisovatel, který psal pod jménem Bohumil Brodský. Svědky byli Josef Hudera, rolník z Kobylí č. 10, a nevěstin bratr Jan Hovorka.",
+    "Při svatbě byl už domkářem v Ouběnicích č. 25 – ve stejném domě, kde v roce 1878 bydlel jeho kmotr Josef Medal (Medal bylo rodné příjmení Janovy matky).",
+    "Ze tří dětí mu první, Marie, zemřela v osmi měsících (1912); syn Jan (* 1913) se stal úředníkem benešovské nemocnice a syn Václav (* 1916) odešel do Prahy.",
+    "Zemřel 23. dubna 1931 v benešovské nemocnici na zánět pobřišnice a otravu krve, bylo mu 53 let. Pohřben byl v Ouběnicích; povolení k převozu těla vydal okresní úřad v Benešově."
+   ]
+  },
+  "uvod": "Jan prožil celý život na Voticku – ve Střížovci a v Ouběnicích, vesnicích pár kilometrů od sebe. Patřil k malým venkovským hospodářům bez velkého statku: domkář, později chalupník, který obdělával několik polí. Zažil monarchii, válku a první republiku a zemřel v nejhorších letech hospodářské krize.",
+  "vladci": [
+   {
+    "obdobi": "1878–1916",
+    "text": "císař František Josef I."
+   },
+   {
+    "obdobi": "1916–1918",
+    "text": "císař Karel I."
+   },
+   {
+    "obdobi": "1918–1931",
+    "text": "prezident T. G. Masaryk (Československá republika)"
+   }
+  ],
+  "udalosti": [
+   {
+    "rok": "1873",
+    "vek": null,
+    "nadpis": "Ouběnice a okolí před jeho narozením",
+    "mistni": true,
+    "text": "Vlastivěda „Okres Votický“ popisuje okolní vsi farnosti: Kobylí se 171 obyvateli ve 20 domech (odkud byla jeho budoucí žena), Strženec s myslivnou a mlýnem, Tomice s velkým rybníkem. Kobylí a Hlivín patřily ke „čtvrti svobodnické“ – jejich sedláci nebyli poddaní vrchnosti."
+   },
+   {
+    "rok": "1878",
+    "vek": 0,
+    "nadpis": "Narození",
+    "osobni": true,
+    "text": "27. února 1878 ve Střížovci č. 2."
+   },
+   {
+    "rok": "asi 1884–1892",
+    "vek": 6,
+    "nadpis": "Škola",
+    "mistni": true,
+    "text": "Chodil do obecné školy v Ouběnicích. Fara Ouběnice měla vlastního duchovního od roku 1819 – farníci si tehdy na vlastní náklady postavili faru, aby nemuseli v zimě chodit do kostela do Bystřice."
+   },
+   {
+    "rok": "1880–1895",
+    "vek": 2,
+    "nadpis": "Zemědělská krize",
+    "text": "Pokles cen obilí dolehl hlavně na malé hospodáře – domkáři a chalupníci si často přivydělávali prací u sedláků, ve dvoře velkostatku nebo v lese."
+   },
+   {
+    "rok": "1908",
+    "vek": 30,
+    "nadpis": "Smrt otce a svatba",
+    "osobni": true,
+    "text": "7. ledna 1908 zemřel otec Josef; 17. listopadu 1908 se Jan oženil s Kateřinou Hovorkovou z Kobylí."
+   },
+   {
+    "rok": "1911–1916",
+    "vek": 33,
+    "nadpis": "Děti",
+    "osobni": true,
+    "text": "Marie (* 4. 8. 1911, † 18. 4. 1912), Jan (* 22. 8. 1913), Václav (* 11. 11. 1916)."
+   },
+   {
+    "rok": "1912",
+    "vek": 34,
+    "nadpis": "Ztráta dcery",
+    "osobni": true,
+    "text": "18. dubna 1912 zemřela osmiměsíční dcera Marie na zápal plic."
+   },
+   {
+    "rok": "1915",
+    "vek": 37,
+    "nadpis": "Obec Ouběnice",
+    "mistni": true,
+    "text": "Chytilův adresář: obec měla 1121 obyvatel v osmi osadách, samotné Ouběnice 270. Byla tu čtyřtřídní škola, pošta a telegraf, zastávka dráhy v Tomicích (trať Praha–Gmünd), spořitelní a záložní spolek, cementárna, lihovar ve dvoře Semtín a hostince – v Kobylí ho vedl Josef Hudera, svědek z Janovy svatby. Porodními bábami byly Marie Petrášková a Kateřina Šupková."
+   },
+   {
+    "rok": "1914–1918",
+    "vek": 36,
+    "nadpis": "První světová válka",
+    "text": "Rakousko-uherská armáda povolávala muže zpočátku do 42 let, od roku 1915 do 50 let; Janovi bylo na začátku války 36. Zda narukoval, z matrik nevíme."
+   },
+   {
+    "rok": "1918",
+    "vek": 40,
+    "nadpis": "Vznik Československa",
+    "text": "28. října 1918 konec monarchie."
+   },
+   {
+    "rok": "1929–1931",
+    "vek": 51,
+    "nadpis": "Hospodářská krize",
+    "text": "Ceny zemědělských produktů se propadly; malým hospodářům chyběly peníze na daně a splátky."
+   },
+   {
+    "rok": "1931",
+    "vek": 53,
+    "nadpis": "Smrt",
+    "osobni": true,
+    "text": "23. dubna 1931 v benešovské nemocnici; pohřben 26. dubna v Ouběnicích. Synům bylo 17 a 14 let."
+   }
+  ],
+  "zivot": [
+   {
+    "nadpis": "Domkář a chalupník",
+    "odstavce": [
+     "Domkář vlastnil dům (domek) a obvykle jen pár polí nebo zahradu; chalupník měl o něco víc půdy, ale bez koní. Obživa často nestačila, a tak se k vlastnímu hospodaření přidávala práce za mzdu – u sedláků o žních, ve dvoře velkostatku, v lese nebo v řemesle.",
+     "Matriky Jana během života označují postupně jako domkáře (1908, 1912), chalupníka (1931) a rolníka (1940, 1942) – hospodářství v Ouběnicích č. 25 se tedy nejspíš během let rozrostlo."
+    ]
+   },
+   {
+    "nadpis": "Škola",
+    "odstavce": [
+     "Jan už chodil do školy podle zákona z roku 1869: osm let povinně. Ouběnická škola měla v roce 1915 čtyři třídy a řídícího učitele Františka Petýrka, který byl zároveň starostou místní záložny."
+    ]
+   },
+   {
+    "nadpis": "Zdraví",
+    "odstavce": [
+     "Děti se rodily doma s porodní bábou (v Ouběnicích působily Marie Petrášková a Kateřina Šupková). Lékař byl v Jankově, nemocnice v Benešově.",
+     "Jan zemřel na zánět pobřišnice, který přešel v otravu krve – nejspíš po zánětu slepého střeva nebo vředu. Bez antibiotik (penicilin se rozšířil až po válce) byla taková nemoc často smrtelná i po operaci."
+    ]
+   },
+   {
+    "nadpis": "Povinnosti",
+    "odstavce": [
+     "Daně z domu a pozemků, obecní přirážky (v Ouběnicích 52 %), povinnosti k faře. Vojenská služba – v monarchii tři roky, pak záloha a domobrana."
+    ]
+   },
+   {
+    "nadpis": "Společný čas a zábava",
+    "odstavce": [
+     "Hospody v Ouběnicích, Kobylí, Tomicích a Jiříně, poutě a posvícení, muzika (ouběnická farnost měla vlastní kostelní hudbu už od 30. let 19. století), hasiči a spolky."
+    ]
+   }
+  ],
+  "obrazky": [
+   {
+    "obdobi": "Dětství a mládí (1878–1908)",
+    "img": "doba_skola_19stol",
+    "popis": "Školní třída v 19. století.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/470/https___www_esbirky_cz_detail_3475610"
+   },
+   {
+    "obdobi": "Dětství a mládí (1878–1908)",
+    "img": "doba_taborsko_engelmuller",
+    "popis": "Ferdinand Engelmüller: Táborsko (kolem 1902) – kraj jižně od Votic.",
+    "autor": "Ferdinand Engelmüller / Belvedere, Vídeň",
+    "licence": "CC BY-SA 4.0",
+    "zdroj": "https://www.europeana.eu/item/1320/https___id_kulturpool_at_981f10ed_8533_4e91_a33e_9f62383293ed_cho"
+   },
+   {
+    "obdobi": "Rodina a válka (1908–1918)",
+    "img": "doba_svatba_1908",
+    "popis": "Svatební fotografie venkovského řemeslníka z roku 1908 – roku Janovy svatby.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/470/https___www_esbirky_cz_detail_3471327"
+   },
+   {
+    "obdobi": "Rodina a válka (1908–1918)",
+    "img": "doba_rodina_1915",
+    "popis": "Matka s dětmi a babičkou v roce 1915.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/470/https___www_esbirky_cz_detail_3501788"
+   },
+   {
+    "obdobi": "Za republiky (1918–1931)",
+    "img": "doba_zne_mlaticka",
+    "popis": "Žně s mlátičkou – při ní pomáhali i domkáři a chalupníci.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/470/https___www_esbirky_cz_detail_3472745"
+   }
+  ],
+  "pozn": "Body v rámečku „V kostce“ a události se štítkem „rodina“ jsou z matrik, „obec“ z dobových vlastivěd a adresářů. Ostatní popisuje, jak obvykle žil malý hospodář na Voticku – dobový kontext, ne doložený osobní fakt.",
+  "zdroje": [
+   "Matriky Ouběnice: N 1865–1881, O 1874–1922, Z 1874–1948 s rejstříky (SOA Praha, eBadatelna)",
+   "Okres Votický: nástin statisticko-historický (1873), s. 103 – Kramerius NK ČR",
+   "Posvátná místa království Českého, Vikariát Votický (1912), s. 121–123 – Kramerius NK ČR",
+   "Chytilův úplný adresář Království českého (1915), s. 404 – Kramerius NK ČR"
+  ]
  }
 }

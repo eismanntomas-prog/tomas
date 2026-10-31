@@ -166,3 +166,4 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
   Spálenka Josef † 7. 1. 1908 Střížovec 2 (fol. 296, nečteno); Spálenková Marie † 18. 4. 1912 Ouběnice 25 (fol. 40 = sn. 43; * 4. 8. 1911, dc. Jana a Kateřiny);
   Spálenka Jan, chalupník Ouběnice 25 † 23. 4. 1931 Benešov nemocnice (fol. 50 = sn. 53; 53 l., zánět pobřišnice, sepse);
   Spálenka Jan * 22. 8. 1913, úředník benešovské nemocnice, svobodný † 21. 6. 1940 (fol. 54 = sn. 57; glomerulonefritis) = bratr Václava. Další: Spálenka Vincenc 91 l. † 10. 1. 1942 Ouběnice 10.
+- Chytil 1915 s. 404 Ouběnice: farář Bohumil Zahradník (spis. Boh. Brodský) = oddávající 1908; hostinský Jos. Hudera v Kobylí = svědek 1908; porodní báby Petrášková, Šupková.
