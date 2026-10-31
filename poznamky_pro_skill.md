@@ -15,3 +15,5 @@ zapracuje do skillu, aby je měli i ostatní. Děkujeme!
   protože kořen nemá index.html). Řešení: nasazení z web/dist přes `netlify deploy --prod --dir=dist` (v cloudu s NODE_USE_ENV_PROXY=1) a zamčení nasazení
   (`netlify api lockDeploy`), aby ho push nepřepsal. Odemknout: Netlify → Deploys → „Start auto publishing“.
   Skill by měl před nasazením zkontrolovat, jestli není web napojený na git (listSiteDeploys → branch/commit_ref).
+- 2026-10-31: přidán scripts/slusne.py (limity 1 dotaz/2 s, 10 obrázků/s na web, blokace 30 min po 429/503/403, stav ve flock souboru),
+  shim scripts/shim/curl a PreToolUse hook .claude/hooks/slusne_hook.py. Návrh: zařadit do šablony skillu.

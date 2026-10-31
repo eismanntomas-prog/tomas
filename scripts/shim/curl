@@ -1,0 +1,3 @@
+#!/bin/sh
+# Náhrada curl pro skripty spuštěné přes slusne.py: každé volání dostane limity a pauzu po odmítnutí.
+exec python3 -I "$SLUSNE" curl "$@"
