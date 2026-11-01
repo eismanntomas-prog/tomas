@@ -1872,7 +1872,7 @@
  "114": {
   "nadpis": "Doba, ve které žil",
   "perex": {
-   "uvod": "Sedlák z Velkého Semtína č. 11, který se oženil ve dvaceti letech. Pro Hanu praprapradědeček, pro vás pra-pra-pra-pradědeček.",
+   "uvod": "Sedlák z Velkého Semtína č. 11, který se oženil ve dvaceti letech. Pro Hanu pra-pra-pradědeček, pro vás pra-pra-pra-pradědeček.",
    "body": [
     "Narodil se přibližně roku 1778 (při sňatku mu bylo 20 let); místo a datum narození zatím nevíme.",
     "Oženil se 2. října 1798 ve Voticích s o tři roky mladší Kateřinou Lupáčovou, dcerou Tomáše Lupáče z Mokřan. V zápisu je uveden jako sedlák z Velkého Semtína č. 11; oddával kaplán Jan Simon.",
@@ -2001,7 +2001,7 @@
  "115": {
   "nadpis": "Doba, ve které žila",
   "perex": {
-   "uvod": "Dcera sedláka z Mokřan, která se v 17 letech stala selkou ve Velkém Semtíně. Pro Hanu prapraprababička, pro vás pra-pra-pra-prababička.",
+   "uvod": "Dcera sedláka z Mokřan, která se v 17 letech stala selkou ve Velkém Semtíně. Pro Hanu pra-pra-prababička, pro vás pra-pra-pra-prababička.",
    "body": [
     "Narodila se přibližně roku 1781 (při sňatku jí bylo 17 let); místo a datum narození zatím nevíme.",
     "Byla dcerou Tomáše Lupáče z Mokřan. V zápisu o sňatku je uvedena i její matka, jméno čteme nejistě, proto ho nepíšu.",
@@ -2075,6 +2075,2197 @@
   "zdroje": [
    "Matriky Votice: O 1788–1827 (Votice 15, sn. 46 a rejstřík), N 1814–1843 (Votice 11, sn. 414), O 1828–1850 (Votice 16) a rejstříky (SOA Praha, eBadatelna)",
    "Okres Votický: nástin statisticko-historický (1873) – Kramerius NK ČR"
+  ]
+ },
+ "29": {
+  "nadpis": "Doba, ve které žila",
+  "perex": {
+   "uvod": "Dcera gruntovníka ze Semtína, která se provdala na statek č. 3 v Městečku, a matka Tomáše Vrzala. Pro Hanu prababička, pro vás praprababička.",
+   "body": [
+    "Narodila se asi 1850 (při sňatku jí bylo 24 let, při úmrtí 75); místo a datum narození zatím nevíme.",
+    "Byla dcerou gruntovníka Josefa Lupáče ze Semtína č. 5 a Kateřiny rozené Zoulové z Křešic.",
+    "3. února 1874 se ve Voticích provdala za o čtyři roky staršího Vojtěcha Vrzala, gruntovníka z Městečka č. 3. Zápis svatbu vede pod domem nevěsty, Semtínem č. 5.",
+    "24. prosince 1874, deset měsíců po svatbě, se jim narodil syn Tomáš – pozdější Hanin děd. V jeho křestním zápise je její otec uveden jako gruntovník ze Semtína č. 6; číslo domu se v zápisech liší.",
+    "Manžel Vojtěch zemřel 3. října 1909 na zánět plic; v zápisu je už výminkář. Františka žila dál na výminku v Městečku č. 3, kde hospodařil syn Tomáš.",
+    "Zemřela 27. ledna 1926 v Městečku č. 3 ve věku 75 let a byla pohřbena v Olbramovicích. Vnučka Antonie, pozdější Hanina matka, se v tom domě narodila o pět let dřív (1921)."
+   ]
+  },
+  "uvod": "Františka vyrostla ve Semtíně a od svatby žila přes padesát let na statku č. 3 v Městečku – jako mladá selka, matka, vdova a nakonec výminkářka. Zažila konec monarchie i první roky republiky.",
+  "vladci": [
+   {
+    "obdobi": "1848–1916",
+    "text": "císař František Josef I."
+   },
+   {
+    "obdobi": "1916–1918",
+    "text": "císař Karel I."
+   },
+   {
+    "obdobi": "1918–1935",
+    "text": "prezident T. G. Masaryk"
+   }
+  ],
+  "udalosti": [
+   {
+    "rok": "asi 1850",
+    "vek": 0,
+    "nadpis": "Narození",
+    "text": "Podle věku při sňatku a úmrtí; přesné datum a místo zatím neznáme.",
+    "osobni": true
+   },
+   {
+    "rok": "1850",
+    "vek": 0,
+    "nadpis": "Nové úřady",
+    "text": "Místo panství vznikl soudní okres a obce dostaly samosprávu.",
+    "mistni": true
+   },
+   {
+    "rok": "1866",
+    "vek": 16,
+    "nadpis": "Prusko-rakouská válka",
+    "text": "Pruská armáda v Čechách a s ní epidemie cholery."
+   },
+   {
+    "rok": "1869",
+    "vek": 19,
+    "nadpis": "Nový školský zákon",
+    "text": "Od roku 1869 platila osmiletá povinná školní docházka (od 6 do 14 let)."
+   },
+   {
+    "rok": "1871",
+    "vek": 21,
+    "nadpis": "Železnice",
+    "text": "Začala jezdit dráha Praha–Tábor se stanicí Veselka u Městečka.",
+    "mistni": true
+   },
+   {
+    "rok": "1874",
+    "vek": 24,
+    "nadpis": "Svatba",
+    "text": "3. února 1874 ve Voticích s Vojtěchem Vrzalem z Městečka č. 3.",
+    "osobni": true
+   },
+   {
+    "rok": "1874",
+    "vek": 24,
+    "nadpis": "Narozen syn Tomáš",
+    "text": "24. prosince 1874 v Městečku č. 3 – deset měsíců po svatbě.",
+    "osobni": true
+   },
+   {
+    "rok": "1880–1895",
+    "vek": 30,
+    "nadpis": "Zemědělská krize",
+    "text": "Levné obilí z Ameriky a Ruska srazilo ceny; menší hospodáře tížily dluhy a přivydělávali si prací u sedláků nebo na velkostatku."
+   },
+   {
+    "rok": "1881",
+    "vek": 31,
+    "nadpis": "Blesk do kostela",
+    "text": "14. září 1881 uhodil při bouři blesk do věže olbramovického kostela Všech svatých a nezapálil.",
+    "mistni": true
+   },
+   {
+    "rok": "1909",
+    "vek": 59,
+    "nadpis": "Smrt manžela a svatba syna",
+    "text": "Vojtěch zemřel 3. října 1909; v lednu téhož roku se oženil syn Tomáš s Antonií Dalihodovou.",
+    "osobni": true
+   },
+   {
+    "rok": "1914–1918",
+    "vek": 64,
+    "nadpis": "První světová válka",
+    "text": "Rakousko-uherská armáda povolávala muže zpočátku do 42 let, od roku 1915 do 50 let; na statcích chyběli muži i koně a povinně se odváděly dávky."
+   },
+   {
+    "rok": "1918",
+    "vek": 68,
+    "nadpis": "Vznik Československa",
+    "text": "28. října 1918 skončila monarchie a vzniklo Československo."
+   },
+   {
+    "rok": "1921",
+    "vek": 71,
+    "nadpis": "Narozena vnučka Antonie",
+    "text": "23. dubna 1921 v Městečku č. 3 – Hanina matka.",
+    "osobni": true
+   },
+   {
+    "rok": "1926",
+    "vek": 75,
+    "nadpis": "Smrt",
+    "text": "27. ledna 1926 v Městečku č. 3, pohřbena v Olbramovicích.",
+    "osobni": true
+   }
+  ],
+  "zivot": [
+   {
+    "nadpis": "Selka na statku",
+    "odstavce": [
+     "Selka vedla dům a dvůr: vařila, pekla chleba, starala se o dobytek, drůbež, zahradu a děti; při žních pracovaly ženy na poli vedle mužů. Příjem z prodeje vajec, másla a drůbeže na trhu bývala často jediná hotovost v domě."
+    ]
+   },
+   {
+    "nadpis": "Škola",
+    "odstavce": [
+     "Do roku 1869 platil tereziánský školní řád: šestiletá docházka, v praxi hlavně v zimě, pod dohledem fary. Mnozí lidé té doby uměli číst a podepsat se, psaní a počty ovládali různě."
+    ]
+   },
+   {
+    "nadpis": "Zdraví a porody",
+    "odstavce": [
+     "Rodilo se doma s porodní bábou, kojenecká a dětská úmrtnost byla vysoká a epidemie cholery, tyfu a neštovic se vracely. Lékař bydlel ve městě (nejbližší ve Voticích či Benešově) a k lidem na vsi se volal jen ve vážných případech. Františka porodila syna Tomáše v zimě, o Vánocích 1874."
+    ]
+   },
+   {
+    "nadpis": "Výminek",
+    "odstavce": [
+     "Hospodář na stáří předal statek dědici a sám odešel na výminek: dostával byt, stravu a naturálie podle smlouvy a pomáhal v hospodářství, dokud mohl. Františka je v zápisech z let 1909–1926 výminkářkou; hospodařil syn Tomáš a jeho žena Antonie."
+    ]
+   },
+   {
+    "nadpis": "Jídlo a zábava",
+    "odstavce": [
+     "Jedlo se, co se urodilo: chléb pečený doma, kaše, brambory, zelí, luštěniny, mléčné pokrmy; maso hlavně o svátcích a po zabijačce.",
+     "Rok určovaly církevní svátky a práce: masopust, Velikonoce, pouť, posvícení, dožínky, Vánoce. Lidé se scházeli v hospodě, na návsi a v kostele."
+    ]
+   }
+  ],
+  "obrazky": [
+   {
+    "obdobi": "Mládí a rodina (1850–1890)",
+    "img": "doba_skola_19stol",
+    "popis": "Školní třída v 19. století.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/470/https___www_esbirky_cz_detail_3475610"
+   },
+   {
+    "obdobi": "Selka na statku (1890–1926)",
+    "img": "doba_taborsko_engelmuller",
+    "popis": "Ferdinand Engelmüller: Táborsko (kolem 1902) – kraj jižně od Votic.",
+    "autor": "Ferdinand Engelmüller / Belvedere, Vídeň",
+    "licence": "CC BY-SA 4.0",
+    "zdroj": "https://www.europeana.eu/item/1320/https___id_kulturpool_at_981f10ed_8533_4e91_a33e_9f62383293ed_cho"
+   },
+   {
+    "obdobi": "Selka na statku (1890–1926)",
+    "img": "doba_zne_mlaticka",
+    "popis": "Žně s mlátičkou – při ní pomáhali i domkáři a chalupníci.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/470/https___www_esbirky_cz_detail_3472745"
+   },
+   {
+    "obdobi": "Selka na statku (1890–1926)",
+    "img": "doba_rodina_1915",
+    "popis": "Matka s dětmi a babičkou v roce 1915.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/470/https___www_esbirky_cz_detail_3501788"
+   }
+  ],
+  "pozn": "Body v rámečku „V kostce“ a události se štítkem „rodina“ jsou z matrik, „obec“ z dobových vlastivěd. Ostatní popisuje, jak obvykle žila člověk v podobném postavení na Voticku a Sedlčansku – dobový kontext, ne doložený osobní fakt.",
+  "zdroje": [
+   "Matriky Votice, Ouběnice a Bystřice (SOA Praha, eBadatelna): sňatky, křty a úmrtí citované v části „Zápisy“",
+   "Okres Votický: nástin statisticko-historický (1873) – Kramerius NK ČR",
+   "Adresář Chytil 1915 – Kramerius NK ČR"
+  ]
+ },
+ "58": {
+  "nadpis": "Doba, ve které žil",
+  "perex": {
+   "uvod": "Gruntovník ze Semtína č. 5, otec Františky Lupáčové. Pro Hanu prapradědeček, pro vás pra-pra-pradědeček.",
+   "body": [
+    "V matrikách se objevuje jako gruntovník ze Semtína č. 5 – otec nevěsty při svatbě dcery Františky 3. února 1874 ve Voticích. V křestním zápise vnuka Tomáše (24. prosince 1874) je uveden jako gruntovník ze Semtína č. 6; číslo domu se v zápisech liší.",
+    "Jeho manželkou byla Kateřina rozená Zoulová z Křešic.",
+    "Dcera Františka se narodila asi 1850.",
+    "Datum narození a úmrtí ani další děti zatím nevíme."
+   ]
+  },
+  "uvod": "O Josefu Lupáčovi zatím víme jen to, co o něm říkají zápisy z roku 1874. Žil v době, kdy zanikla robota a sedláci se stali svobodnými vlastníky.",
+  "vladci": [
+   {
+    "obdobi": "1835–1848",
+    "text": "císař Ferdinand V. Dobrotivý"
+   },
+   {
+    "obdobi": "1848–1916",
+    "text": "císař František Josef I."
+   }
+  ],
+  "udalosti": [
+   {
+    "rok": "1848",
+    "vek": null,
+    "nadpis": "Konec roboty",
+    "text": "7. září 1848 císař zrušil robotu a poddanství. Za půdu se pak vrchnosti platilo výkupné, splácené ještě desítky let."
+   },
+   {
+    "rok": "asi 1850",
+    "vek": null,
+    "nadpis": "Narození dcery Františky",
+    "text": "Podle jejího věku při sňatku.",
+    "osobni": true
+   },
+   {
+    "rok": "1850",
+    "vek": null,
+    "nadpis": "Nové úřady",
+    "text": "Místo panství vznikl soudní okres a obce dostaly samosprávu.",
+    "mistni": true
+   },
+   {
+    "rok": "1866",
+    "vek": null,
+    "nadpis": "Prusko-rakouská válka",
+    "text": "Pruská armáda v Čechách a s ní epidemie cholery."
+   },
+   {
+    "rok": "1869",
+    "vek": null,
+    "nadpis": "Nový školský zákon",
+    "text": "Od roku 1869 platila osmiletá povinná školní docházka (od 6 do 14 let)."
+   },
+   {
+    "rok": "1871",
+    "vek": null,
+    "nadpis": "Železnice",
+    "text": "Začala jezdit dráha Praha–Tábor se stanicí Veselka u Městečka.",
+    "mistni": true
+   },
+   {
+    "rok": "1874",
+    "vek": null,
+    "nadpis": "Svatba dcery a narození vnuka",
+    "text": "3. února 1874 se Františka provdala za Vojtěcha Vrzala; 24. prosince se narodil vnuk Tomáš.",
+    "osobni": true
+   }
+  ],
+  "zivot": [
+   {
+    "nadpis": "Gruntovník",
+    "odstavce": [
+     "Gruntovník (sedlák) hospodařil na celém nebo půl lánu a choval koně či voly. Do roku 1848 patřil k poddaným vrchnosti (robota, desátky), potom byl svobodným vlastníkem, který splácel výkupné za zrušenou robotu."
+    ]
+   },
+   {
+    "nadpis": "Škola",
+    "odstavce": [
+     "Do roku 1869 platil tereziánský školní řád: šestiletá docházka, v praxi hlavně v zimě, pod dohledem fary. Mnozí lidé té doby uměli číst a podepsat se, psaní a počty ovládali různě."
+    ]
+   },
+   {
+    "nadpis": "Zdraví",
+    "odstavce": [
+     "Rodilo se doma s porodní bábou, kojenecká a dětská úmrtnost byla vysoká a epidemie cholery, tyfu a neštovic se vracely. Lékař bydlel ve městě (nejbližší ve Voticích či Benešově) a k lidem na vsi se volal jen ve vážných případech."
+    ]
+   },
+   {
+    "nadpis": "Jídlo a zábava",
+    "odstavce": [
+     "Jedlo se, co se urodilo: chléb pečený doma, kaše, brambory, zelí, luštěniny, mléčné pokrmy; maso hlavně o svátcích a po zabijačce.",
+     "Rok určovaly církevní svátky a práce: masopust, Velikonoce, pouť, posvícení, dožínky, Vánoce. Lidé se scházeli v hospodě, na návsi a v kostele."
+    ]
+   }
+  ],
+  "obrazky": [
+   {
+    "obdobi": "Doba roboty a jejího zrušení",
+    "img": "doba_barikada_1848",
+    "popis": "Barikáda v Praze v červnu 1848 – rok, kdy byla zrušena robota.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/472/https___www_esbirky_cz_detail_125410"
+   }
+  ],
+  "pozn": "Body v rámečku „V kostce“ a události se štítkem „rodina“ jsou z matrik, „obec“ z dobových vlastivěd. Ostatní popisuje, jak obvykle žil člověk v podobném postavení na Voticku a Sedlčansku – dobový kontext, ne doložený osobní fakt.",
+  "zdroje": [
+   "Matriky Votice, Ouběnice a Bystřice (SOA Praha, eBadatelna): sňatky, křty a úmrtí citované v části „Zápisy“",
+   "Okres Votický: nástin statisticko-historický (1873) – Kramerius NK ČR",
+   "Adresář Chytil 1915 – Kramerius NK ČR"
+  ]
+ },
+ "59": {
+  "nadpis": "Doba, ve které žila",
+  "perex": {
+   "uvod": "Rodačka z Křešic, která se provdala na statek do Semtína, matka Františky Lupáčové. Pro Hanu praprababička, pro vás pra-pra-prababička.",
+   "body": [
+    "Pocházela z Křešic; v zápisech z roku 1874 je uvedena jako Kateřina rozená Zoulová, manželka gruntovníka Josefa Lupáče ze Semtína č. 5.",
+    "Dcera Františka se narodila asi 1850 a 3. února 1874 se provdala za Vojtěcha Vrzala z Městečka.",
+    "Datum narození, svatby a úmrtí ani další děti zatím nevíme."
+   ]
+  },
+  "uvod": "O Kateřině Zoulové zatím víme jen to, co říkají zápisy z roku 1874; její rodina z Křešic a hledání jejího sňatku je úkol do budoucna.",
+  "vladci": [
+   {
+    "obdobi": "1835–1848",
+    "text": "císař Ferdinand V. Dobrotivý"
+   },
+   {
+    "obdobi": "1848–1916",
+    "text": "císař František Josef I."
+   }
+  ],
+  "udalosti": [
+   {
+    "rok": "1848",
+    "vek": null,
+    "nadpis": "Konec roboty",
+    "text": "7. září 1848 císař zrušil robotu a poddanství. Za půdu se pak vrchnosti platilo výkupné, splácené ještě desítky let."
+   },
+   {
+    "rok": "asi 1850",
+    "vek": null,
+    "nadpis": "Narození dcery Františky",
+    "text": "Podle jejího věku při sňatku.",
+    "osobni": true
+   },
+   {
+    "rok": "1850",
+    "vek": null,
+    "nadpis": "Nové úřady",
+    "text": "Místo panství vznikl soudní okres a obce dostaly samosprávu.",
+    "mistni": true
+   },
+   {
+    "rok": "1866",
+    "vek": null,
+    "nadpis": "Prusko-rakouská válka",
+    "text": "Pruská armáda v Čechách a s ní epidemie cholery."
+   },
+   {
+    "rok": "1869",
+    "vek": null,
+    "nadpis": "Nový školský zákon",
+    "text": "Od roku 1869 platila osmiletá povinná školní docházka (od 6 do 14 let)."
+   },
+   {
+    "rok": "1871",
+    "vek": null,
+    "nadpis": "Železnice",
+    "text": "Začala jezdit dráha Praha–Tábor se stanicí Veselka u Městečka.",
+    "mistni": true
+   },
+   {
+    "rok": "1874",
+    "vek": null,
+    "nadpis": "Svatba dcery a narození vnuka",
+    "text": "3. února 1874 se Františka provdala za Vojtěcha Vrzala; 24. prosince se narodil vnuk Tomáš.",
+    "osobni": true
+   }
+  ],
+  "zivot": [
+   {
+    "nadpis": "Selka a hospodyně",
+    "odstavce": [
+     "Selka vedla dům a dvůr: vařila, pekla chleba, starala se o dobytek, drůbež, zahradu a děti; při žních pracovaly ženy na poli vedle mužů. Příjem z prodeje vajec, másla a drůbeže na trhu bývala často jediná hotovost v domě."
+    ]
+   },
+   {
+    "nadpis": "Zdraví a porody",
+    "odstavce": [
+     "Rodilo se doma s porodní bábou, kojenecká a dětská úmrtnost byla vysoká a epidemie cholery, tyfu a neštovic se vracely. Lékař bydlel ve městě (nejbližší ve Voticích či Benešově) a k lidem na vsi se volal jen ve vážných případech."
+    ]
+   },
+   {
+    "nadpis": "Jídlo a zábava",
+    "odstavce": [
+     "Jedlo se, co se urodilo: chléb pečený doma, kaše, brambory, zelí, luštěniny, mléčné pokrmy; maso hlavně o svátcích a po zabijačce.",
+     "Rok určovaly církevní svátky a práce: masopust, Velikonoce, pouť, posvícení, dožínky, Vánoce. Lidé se scházeli v hospodě, na návsi a v kostele."
+    ]
+   }
+  ],
+  "obrazky": [
+   {
+    "obdobi": "Doba roboty a jejího zrušení",
+    "img": "doba_barikada_1848",
+    "popis": "Barikáda v Praze v červnu 1848 – rok, kdy byla zrušena robota.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/472/https___www_esbirky_cz_detail_125410"
+   }
+  ],
+  "pozn": "Body v rámečku „V kostce“ a události se štítkem „rodina“ jsou z matrik, „obec“ z dobových vlastivěd. Ostatní popisuje, jak obvykle žila člověk v podobném postavení na Voticku a Sedlčansku – dobový kontext, ne doložený osobní fakt.",
+  "zdroje": [
+   "Matriky Votice, Ouběnice a Bystřice (SOA Praha, eBadatelna): sňatky, křty a úmrtí citované v části „Zápisy“",
+   "Okres Votický: nástin statisticko-historický (1873) – Kramerius NK ČR",
+   "Adresář Chytil 1915 – Kramerius NK ČR"
+  ]
+ },
+ "113": {
+  "nadpis": "Doba, ve které žila",
+  "perex": {
+   "uvod": "Selská dcera z Kaliště, která se v roce 1811 provdala na statek č. 3 v Městečku; matka Václava Vrzala (* 1812). Pro Hanu pra-pra-prababička, pro vás pra-pra-pra-prababička.",
+   "body": [
+    "Narodila se asi 1791 (při svatbě jí bylo 20 let) ve vsi Kaliště. Příjmení čteme nejistě – Laštovková, v pozdějších zápisech Rybková (?).",
+    "7. května 1811 se v Městečku provdala za sedláka Václava Vrzala (29 let, svobodný), poddaného panství Janovice. Svědky byli František Vrzal, sedlák z Městečka, a Josef Babický (?). Její otec je v zápise uveden jako Matěj, sedlák z Kaliště; číslo domu v Kališti se v zápisech liší (13, 6).",
+    "Necelých třináct měsíců po svatbě, 2. června 1812, se jim narodil syn Václav; u porodu byla bába Veronika Šiková (?).",
+    "V zápisech o svatbě syna (1837) a o narození vnuka Vojtěcha (1844) je uvedena jako matka. V roce 1844 byl její manžel Václav už na výminku.",
+    "Datum úmrtí zatím nevíme."
+   ]
+  },
+  "uvod": "Anna přišla jako dvacetiletá z Kaliště na městečský statek, porodila syna za Napoleonova tažení do Ruska a dožila se v rodině vnuků – pokud se dožila, protože její úmrtí zatím neznáme.",
+  "vladci": [
+   {
+    "obdobi": "1792–1835",
+    "text": "císař František II./I."
+   },
+   {
+    "obdobi": "1835–1848",
+    "text": "císař Ferdinand V. Dobrotivý"
+   }
+  ],
+  "udalosti": [
+   {
+    "rok": "asi 1791",
+    "vek": 0,
+    "nadpis": "Narození",
+    "text": "Podle věku při svatbě; přesné datum zatím neznáme. Ves Kaliště.",
+    "osobni": true
+   },
+   {
+    "rok": "1800–1815",
+    "vek": 9,
+    "nadpis": "Napoleonské války",
+    "text": "Vojenské odvody, průchody vojsk a vysoké dávky; v srpnu 1813 se bojovalo v severních Čechách."
+   },
+   {
+    "rok": "1811",
+    "vek": 20,
+    "nadpis": "Svatba",
+    "text": "7. května 1811 v Městečku s Václavem Vrzalem.",
+    "osobni": true
+   },
+   {
+    "rok": "1812",
+    "vek": 21,
+    "nadpis": "Narozen syn Václav",
+    "text": "2. června 1812 v Městečku č. 3.",
+    "osobni": true
+   },
+   {
+    "rok": "1816",
+    "vek": 25,
+    "nadpis": "Rok bez léta",
+    "text": "Po výbuchu sopky Tambora byl rok 1816 chladný a deštivý; následovaly neúrody a drahota."
+   },
+   {
+    "rok": "1831–1832",
+    "vek": 40,
+    "nadpis": "Cholera",
+    "text": "Do Čech poprvé dorazila asijská cholera a zabíjela po vesnicích celé rodiny."
+   },
+   {
+    "rok": "1837",
+    "vek": 46,
+    "nadpis": "Svatba syna Václava",
+    "text": "14. listopadu 1837 s Rosálií Macháčkovou ze Semtína.",
+    "osobni": true
+   },
+   {
+    "rok": "1844",
+    "vek": 53,
+    "nadpis": "Narozen vnuk Vojtěch",
+    "text": "12. července 1844 v Městečku č. 3 – Hanin pradědeček.",
+    "osobni": true
+   },
+   {
+    "rok": "1845–1847",
+    "vek": 54,
+    "nadpis": "Hladové roky",
+    "text": "Bramborová plíseň a neúrody přinesly drahotu a hlad."
+   },
+   {
+    "rok": "1848",
+    "vek": 57,
+    "nadpis": "Konec roboty",
+    "text": "7. září 1848 císař zrušil robotu a poddanství. Za půdu se pak vrchnosti platilo výkupné, splácené ještě desítky let."
+   }
+  ],
+  "zivot": [
+   {
+    "nadpis": "Selka a hospodyně",
+    "odstavce": [
+     "Selka vedla dům a dvůr: vařila, pekla chleba, starala se o dobytek, drůbež, zahradu a děti; při žních pracovaly ženy na poli vedle mužů. Příjem z prodeje vajec, másla a drůbeže na trhu bývala často jediná hotovost v domě. Statek v Městečku patřil do roku 1848 pod panství Janovice/Votice, takže do něj chodila i robota."
+    ]
+   },
+   {
+    "nadpis": "Škola",
+    "odstavce": [
+     "Dívky ze statků chodívaly do triviální školy hlavně v zimě; čtení se učily z modlitební knížky, psaní bylo vzácné. Zda Anna uměla číst nebo psát, z matrik nevíme."
+    ]
+   },
+   {
+    "nadpis": "Zdraví a porody",
+    "odstavce": [
+     "Rodilo se doma s porodní bábou, kojenecká a dětská úmrtnost byla vysoká a epidemie cholery, tyfu a neštovic se vracely. Lékař bydlel ve městě (nejbližší ve Voticích či Benešově) a k lidem na vsi se volal jen ve vážných případech."
+    ]
+   },
+   {
+    "nadpis": "Jídlo a zábava",
+    "odstavce": [
+     "Jedlo se, co se urodilo: chléb pečený doma, kaše, brambory, zelí, luštěniny, mléčné pokrmy; maso hlavně o svátcích a po zabijačce.",
+     "Rok určovaly církevní svátky a práce: masopust, Velikonoce, pouť, posvícení, dožínky, Vánoce. Lidé se scházeli v hospodě, na návsi a v kostele."
+    ]
+   }
+  ],
+  "obrazky": [
+   {
+    "obdobi": "Doba roboty a jejího zrušení",
+    "img": "doba_barikada_1848",
+    "popis": "Barikáda v Praze v červnu 1848 – rok, kdy byla zrušena robota.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/472/https___www_esbirky_cz_detail_125410"
+   }
+  ],
+  "pozn": "Body v rámečku „V kostce“ a události se štítkem „rodina“ jsou z matrik, „obec“ z dobových vlastivěd. Ostatní popisuje, jak obvykle žila člověk v podobném postavení na Voticku a Sedlčansku – dobový kontext, ne doložený osobní fakt.",
+  "zdroje": [
+   "Matriky Votice, Ouběnice a Bystřice (SOA Praha, eBadatelna): sňatky, křty a úmrtí citované v části „Zápisy“",
+   "Okres Votický: nástin statisticko-historický (1873) – Kramerius NK ČR",
+   "Adresář Chytil 1915 – Kramerius NK ČR"
+  ]
+ },
+ "24": {
+  "nadpis": "Doba, ve které žil",
+  "perex": {
+   "uvod": "Domkář ze Střížovce č. 2, který se v roce 1871 oženil s dcerou kováře z Tožice. Pro Hanu pradědeček, pro vás prapradědeček.",
+   "body": [
+    "Narodil se asi 1847 (při sňatku mu bylo 24 let); místo narození zatím nevíme. Jeho rodiče, Josef Spálenka a Josefa rozená Kocourová (?), pocházeli podle zápisu z Nadějkova (?).",
+    "30. května 1871 se oženil s devatenáctiletou Marií Medalovou, dcerou kováře Jana Medala z Tožice č. 9. Zápis se vede v Bystřici pod domem nevěsty; protože byla nezletilá, souhlasil s manželstvím její otec Jan Medal.",
+    "Žil jako domkář ve Střížovci č. 2. Narodilo se jim nejméně šest dětí: Jan (* 27. 2. 1878, Hanin děd), Anna (1880), František (1882), Václav (1885), Josefa (1889) a Bohumil (1891).",
+    "Kmotrem syna Jana byl v roce 1878 Josef Medal, domkář v Ouběnicích č. 25 – v domě, kde později Jan hospodařil.",
+    "Zemřel 7. ledna 1908 ve Střížovci č. 2 (údaj z rejstříku zemřelých; samotný zápis zatím nečteme), deset měsíců před svatbou syna Jana (17. 11. 1908)."
+   ]
+  },
+  "uvod": "Josef byl malý hospodář ze Střížovce. Narodil se těsně před zrušením roboty, vychoval šest dětí a zemřel necelý rok před svatbou syna, od něhož se rodina Spálenků dostala do Ouběnic.",
+  "vladci": [
+   {
+    "obdobi": "1835–1848",
+    "text": "císař Ferdinand V. Dobrotivý"
+   },
+   {
+    "obdobi": "1848–1916",
+    "text": "císař František Josef I."
+   }
+  ],
+  "udalosti": [
+   {
+    "rok": "1845–1847",
+    "vek": 0,
+    "nadpis": "Hladové roky",
+    "text": "Bramborová plíseň a neúrody přinesly drahotu a hlad."
+   },
+   {
+    "rok": "asi 1847",
+    "vek": 0,
+    "nadpis": "Narození",
+    "text": "Podle věku při sňatku; přesné datum a místo zatím neznáme.",
+    "osobni": true
+   },
+   {
+    "rok": "1848",
+    "vek": 1,
+    "nadpis": "Konec roboty",
+    "text": "7. září 1848 císař zrušil robotu a poddanství. Za půdu se pak vrchnosti platilo výkupné, splácené ještě desítky let."
+   },
+   {
+    "rok": "1866",
+    "vek": 19,
+    "nadpis": "Prusko-rakouská válka",
+    "text": "Pruská armáda v Čechách a s ní epidemie cholery."
+   },
+   {
+    "rok": "1869",
+    "vek": 22,
+    "nadpis": "Nový školský zákon",
+    "text": "Od roku 1869 platila osmiletá povinná školní docházka (od 6 do 14 let)."
+   },
+   {
+    "rok": "1871",
+    "vek": 24,
+    "nadpis": "Svatba",
+    "text": "30. května 1871 s Marií Medalovou z Tožice č. 9.",
+    "osobni": true
+   },
+   {
+    "rok": "1878",
+    "vek": 31,
+    "nadpis": "Narozen syn Jan",
+    "text": "27. února 1878 ve Střížovci č. 2 – Hanin děd.",
+    "osobni": true
+   },
+   {
+    "rok": "1880–1891",
+    "vek": 33,
+    "nadpis": "Další děti",
+    "text": "Anna (1880), František (1882), Václav (1885), Josefa (1889), Bohumil (1891).",
+    "osobni": true
+   },
+   {
+    "rok": "1880–1895",
+    "vek": 33,
+    "nadpis": "Zemědělská krize",
+    "text": "Levné obilí z Ameriky a Ruska srazilo ceny; menší hospodáře tížily dluhy a přivydělávali si prací u sedláků nebo na velkostatku."
+   },
+   {
+    "rok": "1908",
+    "vek": 61,
+    "nadpis": "Smrt",
+    "text": "7. ledna 1908 ve Střížovci č. 2; 17. listopadu se ženil syn Jan.",
+    "osobni": true
+   }
+  ],
+  "zivot": [
+   {
+    "nadpis": "Domkář",
+    "odstavce": [
+     "Domkář vlastnil domek a jen pár polí nebo zahradu; obživa často nestačila, a tak se přidávala práce za mzdu – u sedláků o žních, ve dvoře velkostatku, v lese nebo v řemesle. Matrika označuje i ženichovy rodiče a dědečka jako domkáře ve Střížovci č. 2."
+    ]
+   },
+   {
+    "nadpis": "Škola",
+    "odstavce": [
+     "Do roku 1869 platil tereziánský školní řád: šestiletá docházka, v praxi hlavně v zimě, pod dohledem fary. Mnozí lidé té doby uměli číst a podepsat se, psaní a počty ovládali různě. Josef se narodil těsně před rokem 1848, jeho děti už chodily do školy podle zákona z roku 1869."
+    ]
+   },
+   {
+    "nadpis": "Zdraví a porody",
+    "odstavce": [
+     "Rodilo se doma s porodní bábou, kojenecká a dětská úmrtnost byla vysoká a epidemie cholery, tyfu a neštovic se vracely. Lékař bydlel ve městě (nejbližší ve Voticích či Benešově) a k lidem na vsi se volal jen ve vážných případech. Při narození syna Jana (1878) pomáhala zkoušená porodní bába Barbora Hofmann z Ouběnic č. 11."
+    ]
+   },
+   {
+    "nadpis": "Povinnosti",
+    "odstavce": [
+     "Daně z domu a pozemků, obecní přirážky, povinnosti k faře. Vojenská služba byla do roku 1868 dlouhá a losovalo se; Josefův ročník (asi 1847) byl odveden kolem roku 1867–68. Zda sloužil, nevíme."
+    ]
+   },
+   {
+    "nadpis": "Jídlo a zábava",
+    "odstavce": [
+     "Jedlo se, co se urodilo: chléb pečený doma, kaše, brambory, zelí, luštěniny, mléčné pokrmy; maso hlavně o svátcích a po zabijačce.",
+     "Rok určovaly církevní svátky a práce: masopust, Velikonoce, pouť, posvícení, dožínky, Vánoce. Lidé se scházeli v hospodě, na návsi a v kostele."
+    ]
+   }
+  ],
+  "obrazky": [
+   {
+    "obdobi": "Domkář za Rakouska (1871–1908)",
+    "img": "doba_skola_19stol",
+    "popis": "Školní třída v 19. století.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/470/https___www_esbirky_cz_detail_3475610"
+   },
+   {
+    "obdobi": "Domkář za Rakouska (1871–1908)",
+    "img": "doba_taborsko_engelmuller",
+    "popis": "Ferdinand Engelmüller: Táborsko (kolem 1902) – kraj jižně od Votic.",
+    "autor": "Ferdinand Engelmüller / Belvedere, Vídeň",
+    "licence": "CC BY-SA 4.0",
+    "zdroj": "https://www.europeana.eu/item/1320/https___id_kulturpool_at_981f10ed_8533_4e91_a33e_9f62383293ed_cho"
+   }
+  ],
+  "pozn": "Body v rámečku „V kostce“ a události se štítkem „rodina“ jsou z matrik, „obec“ z dobových vlastivěd. Ostatní popisuje, jak obvykle žil člověk v podobném postavení na Voticku a Sedlčansku – dobový kontext, ne doložený osobní fakt.",
+  "zdroje": [
+   "Matriky Votice, Ouběnice a Bystřice (SOA Praha, eBadatelna): sňatky, křty a úmrtí citované v části „Zápisy“",
+   "Okres Votický: nástin statisticko-historický (1873) – Kramerius NK ČR",
+   "Adresář Chytil 1915 – Kramerius NK ČR"
+  ]
+ },
+ "25": {
+  "nadpis": "Doba, ve které žila",
+  "perex": {
+   "uvod": "Kovářova dcera z Tožice, která se v devatenácti letech provdala za domkáře do Střížovce. Pro Hanu prababička, pro vás praprababička.",
+   "body": [
+    "Narodila se asi 1852 (při svatbě jí bylo 19 let) v Tožici č. 9 jako dcera kováře Jana Medala a Anny rozené Tišové z Obrouhlice č. 7.",
+    "30. května 1871 se provdala za domkáře Josefa Spálenku ze Střížovce č. 2. Protože byla nezletilá, dal souhlas otec Jan Medal podpisem.",
+    "Narodilo se jim nejméně šest dětí: Jan (* 27. 2. 1878, Hanin děd), Anna (1880), František (1882), Václav (1885), Josefa (1889) a Bohumil (1891).",
+    "V roce 1878 byl kmotrem Jana Josef Medal, domkář v Ouběnicích č. 25, s manželkou Marií (?).",
+    "Manžel zemřel 7. ledna 1908. Datum jejího úmrtí zatím nevíme."
+   ]
+  },
+  "uvod": "Marie vyrostla v kovárně, v devatenácti se provdala na domek do Střížovce a vychovala šest dětí. Její nejstarší známý syn Jan se stal prvním Spálenkou v Ouběnicích.",
+  "vladci": [
+   {
+    "obdobi": "1848–1916",
+    "text": "císař František Josef I."
+   }
+  ],
+  "udalosti": [
+   {
+    "rok": "asi 1852",
+    "vek": 0,
+    "nadpis": "Narození",
+    "text": "Podle věku při sňatku; Tožice č. 9.",
+    "osobni": true
+   },
+   {
+    "rok": "1866",
+    "vek": 14,
+    "nadpis": "Prusko-rakouská válka",
+    "text": "Pruská armáda v Čechách a s ní epidemie cholery."
+   },
+   {
+    "rok": "1869",
+    "vek": 17,
+    "nadpis": "Nový školský zákon",
+    "text": "Od roku 1869 platila osmiletá povinná školní docházka (od 6 do 14 let)."
+   },
+   {
+    "rok": "1871",
+    "vek": 19,
+    "nadpis": "Svatba",
+    "text": "30. května 1871 s Josefem Spálenkou, otec Jan Medal svolil podpisem.",
+    "osobni": true
+   },
+   {
+    "rok": "1878",
+    "vek": 26,
+    "nadpis": "Narozen syn Jan",
+    "text": "27. února 1878 ve Střížovci č. 2.",
+    "osobni": true
+   },
+   {
+    "rok": "1880–1891",
+    "vek": 28,
+    "nadpis": "Další děti",
+    "text": "Anna (1880), František (1882), Václav (1885), Josefa (1889), Bohumil (1891).",
+    "osobni": true
+   },
+   {
+    "rok": "1880–1895",
+    "vek": 28,
+    "nadpis": "Zemědělská krize",
+    "text": "Levné obilí z Ameriky a Ruska srazilo ceny; menší hospodáře tížily dluhy a přivydělávali si prací u sedláků nebo na velkostatku."
+   },
+   {
+    "rok": "1908",
+    "vek": 56,
+    "nadpis": "Ovdověla a svatba syna",
+    "text": "7. ledna 1908 zemřel manžel Josef; 17. listopadu se ženil syn Jan s Kateřinou Hovorkovou.",
+    "osobni": true
+   }
+  ],
+  "zivot": [
+   {
+    "nadpis": "Domkářka",
+    "odstavce": [
+     "Selka vedla dům a dvůr: vařila, pekla chleba, starala se o dobytek, drůbež, zahradu a děti; při žních pracovaly ženy na poli vedle mužů. Příjem z prodeje vajec, másla a drůbeže na trhu bývala často jediná hotovost v domě. V domkářské rodině znamenalo hospodaření i přivýdělek: žena pracovala o žních u sedláků a pomáhala v hospodářství."
+    ]
+   },
+   {
+    "nadpis": "Škola",
+    "odstavce": [
+     "Do roku 1869 platil tereziánský školní řád: šestiletá docházka, v praxi hlavně v zimě, pod dohledem fary. Mnozí lidé té doby uměli číst a podepsat se, psaní a počty ovládali různě. Zda Marie uměla číst či psát, z matrik nevíme."
+    ]
+   },
+   {
+    "nadpis": "Zdraví a porody",
+    "odstavce": [
+     "Rodilo se doma s porodní bábou, kojenecká a dětská úmrtnost byla vysoká a epidemie cholery, tyfu a neštovic se vracely. Lékař bydlel ve městě (nejbližší ve Voticích či Benešově) a k lidem na vsi se volal jen ve vážných případech. Šest porodů za třináct let (1878–1891) znamenalo téměř nepřetržité mateřství."
+    ]
+   },
+   {
+    "nadpis": "Jídlo a zábava",
+    "odstavce": [
+     "Jedlo se, co se urodilo: chléb pečený doma, kaše, brambory, zelí, luštěniny, mléčné pokrmy; maso hlavně o svátcích a po zabijačce.",
+     "Rok určovaly církevní svátky a práce: masopust, Velikonoce, pouť, posvícení, dožínky, Vánoce. Lidé se scházeli v hospodě, na návsi a v kostele."
+    ]
+   }
+  ],
+  "obrazky": [
+   {
+    "obdobi": "Domkářka za Rakouska",
+    "img": "doba_skola_19stol",
+    "popis": "Školní třída v 19. století.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/470/https___www_esbirky_cz_detail_3475610"
+   },
+   {
+    "obdobi": "Domkářka za Rakouska",
+    "img": "doba_taborsko_engelmuller",
+    "popis": "Ferdinand Engelmüller: Táborsko (kolem 1902) – kraj jižně od Votic.",
+    "autor": "Ferdinand Engelmüller / Belvedere, Vídeň",
+    "licence": "CC BY-SA 4.0",
+    "zdroj": "https://www.europeana.eu/item/1320/https___id_kulturpool_at_981f10ed_8533_4e91_a33e_9f62383293ed_cho"
+   }
+  ],
+  "pozn": "Body v rámečku „V kostce“ a události se štítkem „rodina“ jsou z matrik, „obec“ z dobových vlastivěd. Ostatní popisuje, jak obvykle žila člověk v podobném postavení na Voticku a Sedlčansku – dobový kontext, ne doložený osobní fakt.",
+  "zdroje": [
+   "Matriky Votice, Ouběnice a Bystřice (SOA Praha, eBadatelna): sňatky, křty a úmrtí citované v části „Zápisy“",
+   "Okres Votický: nástin statisticko-historický (1873) – Kramerius NK ČR",
+   "Adresář Chytil 1915 – Kramerius NK ČR"
+  ]
+ },
+ "50": {
+  "nadpis": "Doba, ve které žil",
+  "perex": {
+   "uvod": "Kovář z Tožice č. 9, otec Marie Medalové. Pro Hanu prapradědeček, pro vás pra-pra-pradědeček.",
+   "body": [
+    "V matrikách je uveden jako kovář v Tožici č. 9, manžel Anny rozené Tišové z Obrouhlice č. 7 a otec Marie (* asi 1852).",
+    "30. května 1871 dal jako otec nevěsty podpisem souhlas ke svatbě své devatenáctileté dcery Marie s domkářem Josefem Spálenkou ze Střížovce.",
+    "V roce 1878 je v křestním zápise vnuka Jana Spálenky uveden jako kovář v Tožici č. 9.",
+    "Datum narození a úmrtí zatím nevíme; jeho rodiče jsme zatím nenašli."
+   ]
+  },
+  "uvod": "Jan Medal pracoval u kovadliny v Tožici. O jeho životě víme z matrik jen to, že živil rodinu řemeslem a že jeho dcera se provdala za Spálenku.",
+  "vladci": [
+   {
+    "obdobi": "1835–1848",
+    "text": "císař Ferdinand V. Dobrotivý"
+   },
+   {
+    "obdobi": "1848–1916",
+    "text": "císař František Josef I."
+   }
+  ],
+  "udalosti": [
+   {
+    "rok": "1848",
+    "vek": null,
+    "nadpis": "Konec roboty",
+    "text": "7. září 1848 císař zrušil robotu a poddanství. Za půdu se pak vrchnosti platilo výkupné, splácené ještě desítky let."
+   },
+   {
+    "rok": "asi 1852",
+    "vek": null,
+    "nadpis": "Narození dcery Marie",
+    "text": "Podle jejího věku při sňatku.",
+    "osobni": true
+   },
+   {
+    "rok": "1866",
+    "vek": null,
+    "nadpis": "Prusko-rakouská válka",
+    "text": "Pruská armáda v Čechách a s ní epidemie cholery."
+   },
+   {
+    "rok": "1869",
+    "vek": null,
+    "nadpis": "Nový školský zákon",
+    "text": "Od roku 1869 platila osmiletá povinná školní docházka (od 6 do 14 let)."
+   },
+   {
+    "rok": "1871",
+    "vek": null,
+    "nadpis": "Svatba dcery",
+    "text": "30. května 1871: Jan Medal podpisem svolil ke svatbě nezletilé Marie.",
+    "osobni": true
+   },
+   {
+    "rok": "1878",
+    "vek": null,
+    "nadpis": "Narozen vnuk Jan Spálenka",
+    "text": "27. února 1878; děd je uveden jako kovář v Tožici č. 9.",
+    "osobni": true
+   }
+  ],
+  "zivot": [
+   {
+    "nadpis": "Kovář",
+    "odstavce": [
+     "Kovář patřil k nejpotřebnějším řemeslníkům na vsi: kul koně a voly, opravoval pluhy, brány a vozy, vyráběl hřebíky a nářadí. Platilo se částečně penězi, částečně obilím a naturáliemi. Řemeslo se v rodině dědilo – v zápisech je jako kovář uveden Jan Medal z Tožice i Matěj Tiš z Obrouhlice."
+    ]
+   },
+   {
+    "nadpis": "Škola a vzdělání",
+    "odstavce": [
+     "Do roku 1869 platil tereziánský školní řád: šestiletá docházka, v praxi hlavně v zimě, pod dohledem fary. Mnozí lidé té doby uměli číst a podepsat se, psaní a počty ovládali různě. Medal ale musel umět napsat své jméno – v roce 1871 podepsal souhlas ke svatbě dcery."
+    ]
+   },
+   {
+    "nadpis": "Zdraví",
+    "odstavce": [
+     "Rodilo se doma s porodní bábou, kojenecká a dětská úmrtnost byla vysoká a epidemie cholery, tyfu a neštovic se vracely. Lékař bydlel ve městě (nejbližší ve Voticích či Benešově) a k lidem na vsi se volal jen ve vážných případech."
+    ]
+   },
+   {
+    "nadpis": "Jídlo a zábava",
+    "odstavce": [
+     "Jedlo se, co se urodilo: chléb pečený doma, kaše, brambory, zelí, luštěniny, mléčné pokrmy; maso hlavně o svátcích a po zabijačce.",
+     "Rok určovaly církevní svátky a práce: masopust, Velikonoce, pouť, posvícení, dožínky, Vánoce. Lidé se scházeli v hospodě, na návsi a v kostele."
+    ]
+   }
+  ],
+  "obrazky": [
+   {
+    "obdobi": "Doba roboty a jejího zrušení",
+    "img": "doba_barikada_1848",
+    "popis": "Barikáda v Praze v červnu 1848 – rok, kdy byla zrušena robota.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/472/https___www_esbirky_cz_detail_125410"
+   }
+  ],
+  "pozn": "Body v rámečku „V kostce“ a události se štítkem „rodina“ jsou z matrik, „obec“ z dobových vlastivěd. Ostatní popisuje, jak obvykle žil člověk v podobném postavení na Voticku a Sedlčansku – dobový kontext, ne doložený osobní fakt.",
+  "zdroje": [
+   "Matriky Votice, Ouběnice a Bystřice (SOA Praha, eBadatelna): sňatky, křty a úmrtí citované v části „Zápisy“",
+   "Okres Votický: nástin statisticko-historický (1873) – Kramerius NK ČR",
+   "Adresář Chytil 1915 – Kramerius NK ČR"
+  ]
+ },
+ "51": {
+  "nadpis": "Doba, ve které žila",
+  "perex": {
+   "uvod": "Kovářova dcera z Obrouhlice, která se provdala za kováře do Tožice; matka Marie Medalové. Pro Hanu praprababička, pro vás pra-pra-prababička.",
+   "body": [
+    "Pocházela z Obrouhlice č. 7; v zápisech je uvedena jako Anna rozená Tišová, dcera kováře Matěje Tiše a Anny rozené Kolářové (?).",
+    "Provdala se za kováře Jana Medala z Tožice č. 9; jejich dcera Marie se narodila asi 1852 a 30. května 1871 se provdala za Josefa Spálenku.",
+    "V zápisech z let 1871 a 1878 je uvedena jako matka Marie Medalové, resp. babička Jana Spálenky; datum jejího narození, svatby a úmrtí zatím nevíme."
+   ]
+  },
+  "uvod": "Anna vyrostla v kovárně v Obrouhlici a přenesla kovářské řemeslo do rodiny v Tožici: její otec i manžel byli kováři.",
+  "vladci": [
+   {
+    "obdobi": "1835–1848",
+    "text": "císař Ferdinand V. Dobrotivý"
+   },
+   {
+    "obdobi": "1848–1916",
+    "text": "císař František Josef I."
+   }
+  ],
+  "udalosti": [
+   {
+    "rok": "1848",
+    "vek": null,
+    "nadpis": "Konec roboty",
+    "text": "7. září 1848 císař zrušil robotu a poddanství. Za půdu se pak vrchnosti platilo výkupné, splácené ještě desítky let."
+   },
+   {
+    "rok": "asi 1852",
+    "vek": null,
+    "nadpis": "Narození dcery Marie",
+    "text": "Podle jejího věku při sňatku.",
+    "osobni": true
+   },
+   {
+    "rok": "1866",
+    "vek": null,
+    "nadpis": "Prusko-rakouská válka",
+    "text": "Pruská armáda v Čechách a s ní epidemie cholery."
+   },
+   {
+    "rok": "1869",
+    "vek": null,
+    "nadpis": "Nový školský zákon",
+    "text": "Od roku 1869 platila osmiletá povinná školní docházka (od 6 do 14 let)."
+   },
+   {
+    "rok": "1871",
+    "vek": null,
+    "nadpis": "Svatba dcery",
+    "text": "30. května 1871 s Josefem Spálenkou ze Střížovce.",
+    "osobni": true
+   },
+   {
+    "rok": "1878",
+    "vek": null,
+    "nadpis": "Narozen vnuk Jan",
+    "text": "27. února 1878 ve Střížovci č. 2.",
+    "osobni": true
+   }
+  ],
+  "zivot": [
+   {
+    "nadpis": "Kovářka",
+    "odstavce": [
+     "Kovář a jeho rodina patřili k nejpotřebnějším řemeslníkům na vsi: kul koně a voly, opravoval pluhy, brány a vozy, vyráběl hřebíky a nářadí. Platilo se částečně penězi, částečně obilím a naturáliemi. Žena a děti pomáhaly v dílně i v hospodářství. Řemeslo se v rodině dědilo – v zápisech je jako kovář uveden Jan Medal z Tožice i Matěj Tiš z Obrouhlice."
+    ]
+   },
+   {
+    "nadpis": "Zdraví a porody",
+    "odstavce": [
+     "Rodilo se doma s porodní bábou, kojenecká a dětská úmrtnost byla vysoká a epidemie cholery, tyfu a neštovic se vracely. Lékař bydlel ve městě (nejbližší ve Voticích či Benešově) a k lidem na vsi se volal jen ve vážných případech."
+    ]
+   },
+   {
+    "nadpis": "Jídlo a zábava",
+    "odstavce": [
+     "Jedlo se, co se urodilo: chléb pečený doma, kaše, brambory, zelí, luštěniny, mléčné pokrmy; maso hlavně o svátcích a po zabijačce.",
+     "Rok určovaly církevní svátky a práce: masopust, Velikonoce, pouť, posvícení, dožínky, Vánoce. Lidé se scházeli v hospodě, na návsi a v kostele."
+    ]
+   }
+  ],
+  "obrazky": [
+   {
+    "obdobi": "Doba roboty a jejího zrušení",
+    "img": "doba_barikada_1848",
+    "popis": "Barikáda v Praze v červnu 1848 – rok, kdy byla zrušena robota.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/472/https___www_esbirky_cz_detail_125410"
+   }
+  ],
+  "pozn": "Body v rámečku „V kostce“ a události se štítkem „rodina“ jsou z matrik, „obec“ z dobových vlastivěd. Ostatní popisuje, jak obvykle žila člověk v podobném postavení na Voticku a Sedlčansku – dobový kontext, ne doložený osobní fakt.",
+  "zdroje": [
+   "Matriky Votice, Ouběnice a Bystřice (SOA Praha, eBadatelna): sňatky, křty a úmrtí citované v části „Zápisy“",
+   "Okres Votický: nástin statisticko-historický (1873) – Kramerius NK ČR",
+   "Adresář Chytil 1915 – Kramerius NK ČR"
+  ]
+ },
+ "102": {
+  "nadpis": "Doba, ve které žil",
+  "perex": {
+   "uvod": "Kovář z Obrouhlice č. 7, otec Anny Tišové. Pro Hanu pra-pra-pradědeček, pro vás pra-pra-pra-pradědeček.",
+   "body": [
+    "V matrice se objevuje jediný zápis: sňatek vnučky Marie Medalové (30. května 1871), kde je uveden jako Matěj Tiš (též Tiša), kovář z Obrouhlice č. 7, otec nevěstiny matky Anny.",
+    "Jeho manželkou byla Anna rozená Kolářová (?) z Obrouhlice č. 7; dcerou Anna provdaná Medalová.",
+    "Datum narození, svatby a úmrtí zatím nevíme."
+   ]
+  },
+  "uvod": "O Matěji Tišovi víme zatím jen to, že byl kovářem v Obrouhlici – nejstarší dosud známý člen této větve.",
+  "vladci": [
+   {
+    "obdobi": "1835–1848",
+    "text": "císař Ferdinand V. Dobrotivý"
+   },
+   {
+    "obdobi": "1848–1916",
+    "text": "císař František Josef I."
+   }
+  ],
+  "udalosti": [
+   {
+    "rok": "1848",
+    "vek": null,
+    "nadpis": "Konec roboty",
+    "text": "7. září 1848 císař zrušil robotu a poddanství. Za půdu se pak vrchnosti platilo výkupné, splácené ještě desítky let."
+   },
+   {
+    "rok": "1866",
+    "vek": null,
+    "nadpis": "Prusko-rakouská válka",
+    "text": "Pruská armáda v Čechách a s ní epidemie cholery."
+   },
+   {
+    "rok": "1869",
+    "vek": null,
+    "nadpis": "Nový školský zákon",
+    "text": "Od roku 1869 platila osmiletá povinná školní docházka (od 6 do 14 let)."
+   },
+   {
+    "rok": "1871",
+    "vek": null,
+    "nadpis": "Sňatek vnučky Marie",
+    "text": "30. května 1871 – Matěj Tiš je uveden jako dědeček nevěsty, kovář z Obrouhlice č. 7.",
+    "osobni": true
+   }
+  ],
+  "zivot": [
+   {
+    "nadpis": "Kovář",
+    "odstavce": [
+     "Kovář patřil k nejpotřebnějším řemeslníkům na vsi: kul koně a voly, opravoval pluhy, brány a vozy, vyráběl hřebíky a nářadí. Platilo se částečně penězi, částečně obilím a naturáliemi. Řemeslo se v rodině dědilo – v zápisech je jako kovář uveden Jan Medal z Tožice i Matěj Tiš z Obrouhlice."
+    ]
+   },
+   {
+    "nadpis": "Zdraví",
+    "odstavce": [
+     "Rodilo se doma s porodní bábou, kojenecká a dětská úmrtnost byla vysoká a epidemie cholery, tyfu a neštovic se vracely. Lékař bydlel ve městě (nejbližší ve Voticích či Benešově) a k lidem na vsi se volal jen ve vážných případech."
+    ]
+   },
+   {
+    "nadpis": "Jídlo a zábava",
+    "odstavce": [
+     "Jedlo se, co se urodilo: chléb pečený doma, kaše, brambory, zelí, luštěniny, mléčné pokrmy; maso hlavně o svátcích a po zabijačce.",
+     "Rok určovaly církevní svátky a práce: masopust, Velikonoce, pouť, posvícení, dožínky, Vánoce. Lidé se scházeli v hospodě, na návsi a v kostele."
+    ]
+   }
+  ],
+  "obrazky": [
+   {
+    "obdobi": "Doba roboty a jejího zrušení",
+    "img": "doba_barikada_1848",
+    "popis": "Barikáda v Praze v červnu 1848 – rok, kdy byla zrušena robota.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/472/https___www_esbirky_cz_detail_125410"
+   }
+  ],
+  "pozn": "Body v rámečku „V kostce“ a události se štítkem „rodina“ jsou z matrik, „obec“ z dobových vlastivěd. Ostatní popisuje, jak obvykle žil člověk v podobném postavení na Voticku a Sedlčansku – dobový kontext, ne doložený osobní fakt.",
+  "zdroje": [
+   "Matriky Votice, Ouběnice a Bystřice (SOA Praha, eBadatelna): sňatky, křty a úmrtí citované v části „Zápisy“",
+   "Okres Votický: nástin statisticko-historický (1873) – Kramerius NK ČR",
+   "Adresář Chytil 1915 – Kramerius NK ČR"
+  ]
+ },
+ "103": {
+  "nadpis": "Doba, ve které žila",
+  "perex": {
+   "uvod": "Žena kováře z Obrouhlice, babička Anny Tišové. Pro Hanu pra-pra-prababička, pro vás pra-pra-pra-prababička.",
+   "body": [
+    "V jediném zápisu (sňatek vnučky Marie Medalové, 30. května 1871) je uvedena jako Anna rozená Kolářová (?) z Obrouhlice č. 7, manželka kováře Matěje Tiše.",
+    "Jejich dcera Anna Tišová se provdala za kováře Jana Medala z Tožice.",
+    "Příjmení čteme nejistě; datum narození, svatby a úmrtí zatím nevíme."
+   ]
+  },
+  "uvod": "O Anně Kolářové (?) zatím víme jen to, že žila v kovárně v Obrouhlici a že měla dceru Annu.",
+  "vladci": [
+   {
+    "obdobi": "1835–1848",
+    "text": "císař Ferdinand V. Dobrotivý"
+   },
+   {
+    "obdobi": "1848–1916",
+    "text": "císař František Josef I."
+   }
+  ],
+  "udalosti": [
+   {
+    "rok": "1848",
+    "vek": null,
+    "nadpis": "Konec roboty",
+    "text": "7. září 1848 císař zrušil robotu a poddanství. Za půdu se pak vrchnosti platilo výkupné, splácené ještě desítky let."
+   },
+   {
+    "rok": "1866",
+    "vek": null,
+    "nadpis": "Prusko-rakouská válka",
+    "text": "Pruská armáda v Čechách a s ní epidemie cholery."
+   },
+   {
+    "rok": "1869",
+    "vek": null,
+    "nadpis": "Nový školský zákon",
+    "text": "Od roku 1869 platila osmiletá povinná školní docházka (od 6 do 14 let)."
+   },
+   {
+    "rok": "1871",
+    "vek": null,
+    "nadpis": "Sňatek vnučky Marie",
+    "text": "30. května 1871 – uvedena jako babička nevěsty z Obrouhlice č. 7.",
+    "osobni": true
+   }
+  ],
+  "zivot": [
+   {
+    "nadpis": "Žena kováře",
+    "odstavce": [
+     "Žena kováře vedla domácnost, starala se o děti a hospodářství a pomáhala v dílně. Rodilo se doma s porodní bábou, kojenecká a dětská úmrtnost byla vysoká a epidemie cholery, tyfu a neštovic se vracely. Lékař bydlel ve městě (nejbližší ve Voticích či Benešově) a k lidem na vsi se volal jen ve vážných případech."
+    ]
+   },
+   {
+    "nadpis": "Jídlo a zábava",
+    "odstavce": [
+     "Jedlo se, co se urodilo: chléb pečený doma, kaše, brambory, zelí, luštěniny, mléčné pokrmy; maso hlavně o svátcích a po zabijačce.",
+     "Rok určovaly církevní svátky a práce: masopust, Velikonoce, pouť, posvícení, dožínky, Vánoce. Lidé se scházeli v hospodě, na návsi a v kostele."
+    ]
+   }
+  ],
+  "obrazky": [
+   {
+    "obdobi": "Doba roboty a jejího zrušení",
+    "img": "doba_barikada_1848",
+    "popis": "Barikáda v Praze v červnu 1848 – rok, kdy byla zrušena robota.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/472/https___www_esbirky_cz_detail_125410"
+   }
+  ],
+  "pozn": "Body v rámečku „V kostce“ a události se štítkem „rodina“ jsou z matrik, „obec“ z dobových vlastivěd. Ostatní popisuje, jak obvykle žila člověk v podobném postavení na Voticku a Sedlčansku – dobový kontext, ne doložený osobní fakt.",
+  "zdroje": [
+   "Matriky Votice, Ouběnice a Bystřice (SOA Praha, eBadatelna): sňatky, křty a úmrtí citované v části „Zápisy“",
+   "Okres Votický: nástin statisticko-historický (1873) – Kramerius NK ČR",
+   "Adresář Chytil 1915 – Kramerius NK ČR"
+  ]
+ },
+ "48": {
+  "nadpis": "Doba, ve které žil",
+  "perex": {
+   "uvod": "Domkář ze Střížovce, otec Josefa Spálenky (* asi 1847). Pro Hanu prapradědeček, pro vás pra-pra-pradědeček.",
+   "body": [
+    "Je uveden jako Josef Spálenka, domkář ve Střížovci č. 2. V zápisu z roku 1871 stojí při jeho jménu „z Nadějkova (?) č. 3“; čtení je nejisté.",
+    "Jeho manželkou byla Josefa rozená Kocourová (?), dcera chalupníka Matěje Kocoury z Nadějkova (?) č. 5.",
+    "Syn Josef se narodil asi 1847 a 30. května 1871 se oženil s Marií Medalovou z Tožice.",
+    "Zemřel před 27. únorem 1878 – v křestním zápise vnuka Jana je uveden jako zemřelý. Přesné datum a rodiče zatím neznáme."
+   ]
+  },
+  "uvod": "O prvním známém Spálenkovi z této větve víme zatím jen to, že byl domkářem ve Střížovci č. 2 a že zemřel před rokem 1878.",
+  "vladci": [
+   {
+    "obdobi": "1835–1848",
+    "text": "císař Ferdinand V. Dobrotivý"
+   },
+   {
+    "obdobi": "1848–1916",
+    "text": "císař František Josef I."
+   }
+  ],
+  "udalosti": [
+   {
+    "rok": "asi 1847",
+    "vek": null,
+    "nadpis": "Narození syna Josefa",
+    "text": "Podle jeho věku při sňatku 1871.",
+    "osobni": true
+   },
+   {
+    "rok": "1848",
+    "vek": null,
+    "nadpis": "Konec roboty",
+    "text": "7. září 1848 císař zrušil robotu a poddanství. Za půdu se pak vrchnosti platilo výkupné, splácené ještě desítky let."
+   },
+   {
+    "rok": "1866",
+    "vek": null,
+    "nadpis": "Prusko-rakouská válka",
+    "text": "Pruská armáda v Čechách a s ní epidemie cholery."
+   },
+   {
+    "rok": "1869",
+    "vek": null,
+    "nadpis": "Nový školský zákon",
+    "text": "Od roku 1869 platila osmiletá povinná školní docházka (od 6 do 14 let)."
+   },
+   {
+    "rok": "1871",
+    "vek": null,
+    "nadpis": "Svatba syna",
+    "text": "30. května 1871 se syn Josef oženil s Marií Medalovou z Tožice.",
+    "osobni": true
+   },
+   {
+    "rok": "před 1878",
+    "vek": null,
+    "nadpis": "Úmrtí",
+    "text": "V únoru 1878 je v křestním zápise vnuka Jana uveden jako zemřelý.",
+    "osobni": true
+   }
+  ],
+  "zivot": [
+   {
+    "nadpis": "Domkář",
+    "odstavce": [
+     "Domkář vlastnil domek a jen pár polí nebo zahradu; obživa často nestačila, a tak se přidávala práce za mzdu – u sedláků o žních, ve dvoře velkostatku, v lese nebo v řemesle. Matrika označuje i ženichovy rodiče a dědečka jako domkáře ve Střížovci č. 2."
+    ]
+   },
+   {
+    "nadpis": "Zdraví",
+    "odstavce": [
+     "Rodilo se doma s porodní bábou, kojenecká a dětská úmrtnost byla vysoká a epidemie cholery, tyfu a neštovic se vracely. Lékař bydlel ve městě (nejbližší ve Voticích či Benešově) a k lidem na vsi se volal jen ve vážných případech."
+    ]
+   },
+   {
+    "nadpis": "Jídlo a zábava",
+    "odstavce": [
+     "Jedlo se, co se urodilo: chléb pečený doma, kaše, brambory, zelí, luštěniny, mléčné pokrmy; maso hlavně o svátcích a po zabijačce.",
+     "Rok určovaly církevní svátky a práce: masopust, Velikonoce, pouť, posvícení, dožínky, Vánoce. Lidé se scházeli v hospodě, na návsi a v kostele."
+    ]
+   }
+  ],
+  "obrazky": [
+   {
+    "obdobi": "Doba roboty a jejího zrušení",
+    "img": "doba_barikada_1848",
+    "popis": "Barikáda v Praze v červnu 1848 – rok, kdy byla zrušena robota.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/472/https___www_esbirky_cz_detail_125410"
+   }
+  ],
+  "pozn": "Body v rámečku „V kostce“ a události se štítkem „rodina“ jsou z matrik, „obec“ z dobových vlastivěd. Ostatní popisuje, jak obvykle žil člověk v podobném postavení na Voticku a Sedlčansku – dobový kontext, ne doložený osobní fakt.",
+  "zdroje": [
+   "Matriky Votice, Ouběnice a Bystřice (SOA Praha, eBadatelna): sňatky, křty a úmrtí citované v části „Zápisy“",
+   "Okres Votický: nástin statisticko-historický (1873) – Kramerius NK ČR",
+   "Adresář Chytil 1915 – Kramerius NK ČR"
+  ]
+ },
+ "49": {
+  "nadpis": "Doba, ve které žila",
+  "perex": {
+   "uvod": "Žena domkáře ze Střížovce, matka Josefa Spálenky. Pro Hanu praprababička, pro vás pra-pra-prababička.",
+   "body": [
+    "V zápisech z let 1871 a 1878 je uvedena jako Josefa, rozená Kocourová (?), dcera chalupníka Matěje Kocoury z Nadějkova (?) č. 5, manželka Josefa Spálenky, domkáře ve Střížovci č. 2.",
+    "Syn Josef se narodil asi 1847 a 30. května 1871 se oženil s Marií Medalovou.",
+    "Příjmení i obec čteme nejistě; datum narození, svatby a úmrtí zatím nevíme."
+   ]
+  },
+  "uvod": "O Josefě Kocourové (?) víme jen, že pocházela z chalupnické rodiny z Nadějkova a že její syn založil rodinu ve Střížovci.",
+  "vladci": [
+   {
+    "obdobi": "1835–1848",
+    "text": "císař Ferdinand V. Dobrotivý"
+   },
+   {
+    "obdobi": "1848–1916",
+    "text": "císař František Josef I."
+   }
+  ],
+  "udalosti": [
+   {
+    "rok": "asi 1847",
+    "vek": null,
+    "nadpis": "Narození syna Josefa",
+    "text": "Podle jeho věku při sňatku 1871.",
+    "osobni": true
+   },
+   {
+    "rok": "1848",
+    "vek": null,
+    "nadpis": "Konec roboty",
+    "text": "7. září 1848 císař zrušil robotu a poddanství. Za půdu se pak vrchnosti platilo výkupné, splácené ještě desítky let."
+   },
+   {
+    "rok": "1866",
+    "vek": null,
+    "nadpis": "Prusko-rakouská válka",
+    "text": "Pruská armáda v Čechách a s ní epidemie cholery."
+   },
+   {
+    "rok": "1869",
+    "vek": null,
+    "nadpis": "Nový školský zákon",
+    "text": "Od roku 1869 platila osmiletá povinná školní docházka (od 6 do 14 let)."
+   },
+   {
+    "rok": "1871",
+    "vek": null,
+    "nadpis": "Svatba syna",
+    "text": "30. května 1871 se syn Josef oženil s Marií Medalovou.",
+    "osobni": true
+   }
+  ],
+  "zivot": [
+   {
+    "nadpis": "Selka a hospodyně",
+    "odstavce": [
+     "Selka vedla dům a dvůr: vařila, pekla chleba, starala se o dobytek, drůbež, zahradu a děti; při žních pracovaly ženy na poli vedle mužů. Příjem z prodeje vajec, másla a drůbeže na trhu bývala často jediná hotovost v domě."
+    ]
+   },
+   {
+    "nadpis": "Zdraví a porody",
+    "odstavce": [
+     "Rodilo se doma s porodní bábou, kojenecká a dětská úmrtnost byla vysoká a epidemie cholery, tyfu a neštovic se vracely. Lékař bydlel ve městě (nejbližší ve Voticích či Benešově) a k lidem na vsi se volal jen ve vážných případech."
+    ]
+   },
+   {
+    "nadpis": "Jídlo a zábava",
+    "odstavce": [
+     "Jedlo se, co se urodilo: chléb pečený doma, kaše, brambory, zelí, luštěniny, mléčné pokrmy; maso hlavně o svátcích a po zabijačce.",
+     "Rok určovaly církevní svátky a práce: masopust, Velikonoce, pouť, posvícení, dožínky, Vánoce. Lidé se scházeli v hospodě, na návsi a v kostele."
+    ]
+   }
+  ],
+  "obrazky": [
+   {
+    "obdobi": "Doba roboty a jejího zrušení",
+    "img": "doba_barikada_1848",
+    "popis": "Barikáda v Praze v červnu 1848 – rok, kdy byla zrušena robota.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/472/https___www_esbirky_cz_detail_125410"
+   }
+  ],
+  "pozn": "Body v rámečku „V kostce“ a události se štítkem „rodina“ jsou z matrik, „obec“ z dobových vlastivěd. Ostatní popisuje, jak obvykle žila člověk v podobném postavení na Voticku a Sedlčansku – dobový kontext, ne doložený osobní fakt.",
+  "zdroje": [
+   "Matriky Votice, Ouběnice a Bystřice (SOA Praha, eBadatelna): sňatky, křty a úmrtí citované v části „Zápisy“",
+   "Okres Votický: nástin statisticko-historický (1873) – Kramerius NK ČR",
+   "Adresář Chytil 1915 – Kramerius NK ČR"
+  ]
+ },
+ "26": {
+  "nadpis": "Doba, ve které žil",
+  "perex": {
+   "uvod": "Rolník z Kobylí č. 8 ve svobodnické vsi, otec Kateřiny Hovorkové. Pro Hanu pradědeček, pro vás prapradědeček.",
+   "body": [
+    "V matrikách je uveden jako rolník v Kobylí č. 8, syn Antonína Hovorky (výměnkáře tamtéž) a Anny rozené Dvořákové z Kobylí č. 10.",
+    "Jeho manželkou byla Josefa rozená Dvořáková z Kobylí č. 9, dcera zemřelého rolníka Josefa Dvořáka.",
+    "6. března 1881 se jim narodila dcera Kateřina (pozdější Spálenková, Hanina babička); u porodu byla zkoušená bába Barbora Hofmann z Ouběnic č. 11. Kmotry byly Kateřina Hovorková, rolnice z Hlohova č. 12, a Josef Vosátka (?) z Hlivína (?) č. 2.",
+    "Při svatbě dcery v Ouběnicích 17. listopadu 1908 je uveden jako rolník z Kobylí č. 8; svědkem byl jeho syn Jan Hovorka.",
+    "Datum narození, svatby a úmrtí zatím nevíme."
+   ]
+  },
+  "uvod": "Jan Hovorka hospodařil v Kobylí, vsi, jejíž obyvatelé nebyli poddaní vrchnosti. Jeho dcera Kateřina se provdala do sousedních Ouběnic.",
+  "vladci": [
+   {
+    "obdobi": "1848–1916",
+    "text": "císař František Josef I."
+   }
+  ],
+  "udalosti": [
+   {
+    "rok": "1873",
+    "vek": null,
+    "nadpis": "Kobylí a okolí v roce 1873",
+    "text": "Vlastivěda „Okres Votický“ popisuje okolní vsi farnosti: Kobylí se 171 obyvateli ve 20 domech, Strženec s myslivnou a mlýnem, Tomice s velkým rybníkem. Kobylí a Hlivín patřily ke „čtvrti svobodnické“ – jejich sedláci nebyli poddaní vrchnosti.",
+    "mistni": true
+   },
+   {
+    "rok": "1880–1895",
+    "vek": null,
+    "nadpis": "Zemědělská krize",
+    "text": "Levné obilí z Ameriky a Ruska srazilo ceny; menší hospodáře tížily dluhy a přivydělávali si prací u sedláků nebo na velkostatku."
+   },
+   {
+    "rok": "1881",
+    "vek": null,
+    "nadpis": "Narozena dcera Kateřina",
+    "text": "6. března 1881 v Kobylí č. 8; otec Antonín je v té době na výminku v témže domě.",
+    "osobni": true
+   },
+   {
+    "rok": "1908",
+    "vek": null,
+    "nadpis": "Svatba dcery",
+    "text": "17. listopadu 1908 v Ouběnicích s Janem Spálenkou; svědkem syn Jan Hovorka.",
+    "osobni": true
+   }
+  ],
+  "zivot": [
+   {
+    "nadpis": "Rolník ve svobodnické vsi",
+    "odstavce": [
+     "Kobylí bylo podle matriky „býv. místem svobodnickým“ – tamní sedláci nebyli poddaní vrchnosti a hospodařili na vlastním. Podle Okresu Votického z roku 1873 mělo Kobylí 171 obyvatel ve 20 domech."
+    ]
+   },
+   {
+    "nadpis": "Škola",
+    "odstavce": [
+     "Od roku 1869 platila osmiletá povinná docházka (od 6 do 14 let); vyučovalo se čtení, psaní, počty, náboženství a zeměpis a dívky se učily ruční práce."
+    ]
+   },
+   {
+    "nadpis": "Zdraví",
+    "odstavce": [
+     "Rodilo se doma s porodní bábou, kojenecká a dětská úmrtnost byla vysoká a epidemie cholery, tyfu a neštovic se vracely. Lékař bydlel ve městě (nejbližší ve Voticích či Benešově) a k lidem na vsi se volal jen ve vážných případech."
+    ]
+   },
+   {
+    "nadpis": "Jídlo a zábava",
+    "odstavce": [
+     "Jedlo se, co se urodilo: chléb pečený doma, kaše, brambory, zelí, luštěniny, mléčné pokrmy; maso hlavně o svátcích a po zabijačce.",
+     "Rok určovaly církevní svátky a práce: masopust, Velikonoce, pouť, posvícení, dožínky, Vánoce. Lidé se scházeli v hospodě, na návsi a v kostele."
+    ]
+   }
+  ],
+  "obrazky": [
+   {
+    "obdobi": "Hospodář na statku (1873–1908)",
+    "img": "doba_taborsko_engelmuller",
+    "popis": "Ferdinand Engelmüller: Táborsko (kolem 1902) – kraj jižně od Votic.",
+    "autor": "Ferdinand Engelmüller / Belvedere, Vídeň",
+    "licence": "CC BY-SA 4.0",
+    "zdroj": "https://www.europeana.eu/item/1320/https___id_kulturpool_at_981f10ed_8533_4e91_a33e_9f62383293ed_cho"
+   },
+   {
+    "obdobi": "Hospodář na statku (1873–1908)",
+    "img": "doba_zne_mlaticka",
+    "popis": "Žně s mlátičkou – při ní pomáhali i domkáři a chalupníci.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/470/https___www_esbirky_cz_detail_3472745"
+   },
+   {
+    "obdobi": "Hospodář na statku (1873–1908)",
+    "img": "doba_svatba_1908",
+    "popis": "Svatební fotografie venkovského řemeslníka z roku 1908 – roku Janovy svatby.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/470/https___www_esbirky_cz_detail_3471327"
+   }
+  ],
+  "pozn": "Body v rámečku „V kostce“ a události se štítkem „rodina“ jsou z matrik, „obec“ z dobových vlastivěd. Ostatní popisuje, jak obvykle žil člověk v podobném postavení na Voticku a Sedlčansku – dobový kontext, ne doložený osobní fakt.",
+  "zdroje": [
+   "Matriky Votice, Ouběnice a Bystřice (SOA Praha, eBadatelna): sňatky, křty a úmrtí citované v části „Zápisy“",
+   "Okres Votický: nástin statisticko-historický (1873) – Kramerius NK ČR",
+   "Adresář Chytil 1915 – Kramerius NK ČR"
+  ]
+ },
+ "27": {
+  "nadpis": "Doba, ve které žila",
+  "perex": {
+   "uvod": "Selka z Kobylí č. 8, matka Kateřiny Hovorkové. Pro Hanu prababička, pro vás praprababička.",
+   "body": [
+    "Narodila se v Kobylí č. 9 jako dcera rolníka Josefa Dvořáka a Marie rozené Vosátkové (?) z Hlohova č. 12; v roce 1881 byl její otec již zemřelý.",
+    "Provdala se za rolníka Jana Hovorku z Kobylí č. 8 a měla s ním nejméně dvě děti: Kateřinu (* 6. 3. 1881) a Jana, svědka na svatbě sestry v roce 1908.",
+    "Datum narození, svatby a úmrtí zatím nevíme."
+   ]
+  },
+  "uvod": "Josefa vyrostla na statku v sousedním domě a po svatbě přešla ze statku č. 9 na Hovorkův statek č. 8 – do téže vsi, ze které pocházela.",
+  "vladci": [
+   {
+    "obdobi": "1848–1916",
+    "text": "císař František Josef I."
+   }
+  ],
+  "udalosti": [
+   {
+    "rok": "1873",
+    "vek": null,
+    "nadpis": "Kobylí a okolí v roce 1873",
+    "text": "Vlastivěda „Okres Votický“ popisuje okolní vsi farnosti: Kobylí se 171 obyvateli ve 20 domech, Strženec s myslivnou a mlýnem, Tomice s velkým rybníkem. Kobylí a Hlivín patřily ke „čtvrti svobodnické“ – jejich sedláci nebyli poddaní vrchnosti.",
+    "mistni": true
+   },
+   {
+    "rok": "1880–1895",
+    "vek": null,
+    "nadpis": "Zemědělská krize",
+    "text": "Levné obilí z Ameriky a Ruska srazilo ceny; menší hospodáře tížily dluhy a přivydělávali si prací u sedláků nebo na velkostatku."
+   },
+   {
+    "rok": "1881",
+    "vek": null,
+    "nadpis": "Narozena dcera Kateřina",
+    "text": "6. března 1881 v Kobylí č. 8.",
+    "osobni": true
+   },
+   {
+    "rok": "1908",
+    "vek": null,
+    "nadpis": "Svatba dcery",
+    "text": "17. listopadu 1908 v Ouběnicích s Janem Spálenkou.",
+    "osobni": true
+   }
+  ],
+  "zivot": [
+   {
+    "nadpis": "Selka a hospodyně",
+    "odstavce": [
+     "Selka vedla dům a dvůr: vařila, pekla chleba, starala se o dobytek, drůbež, zahradu a děti; při žních pracovaly ženy na poli vedle mužů. Příjem z prodeje vajec, másla a drůbeže na trhu bývala často jediná hotovost v domě."
+    ]
+   },
+   {
+    "nadpis": "Zdraví a porody",
+    "odstavce": [
+     "Rodilo se doma s porodní bábou, kojenecká a dětská úmrtnost byla vysoká a epidemie cholery, tyfu a neštovic se vracely. Lékař bydlel ve městě (nejbližší ve Voticích či Benešově) a k lidem na vsi se volal jen ve vážných případech. U porodu dcery Kateřiny (1881) byla zkoušená bába Barbora Hofmann z Ouběnic č. 11."
+    ]
+   },
+   {
+    "nadpis": "Jídlo a zábava",
+    "odstavce": [
+     "Jedlo se, co se urodilo: chléb pečený doma, kaše, brambory, zelí, luštěniny, mléčné pokrmy; maso hlavně o svátcích a po zabijačce.",
+     "Rok určovaly církevní svátky a práce: masopust, Velikonoce, pouť, posvícení, dožínky, Vánoce. Lidé se scházeli v hospodě, na návsi a v kostele."
+    ]
+   }
+  ],
+  "obrazky": [
+   {
+    "obdobi": "Selka za Rakouska",
+    "img": "doba_taborsko_engelmuller",
+    "popis": "Ferdinand Engelmüller: Táborsko (kolem 1902) – kraj jižně od Votic.",
+    "autor": "Ferdinand Engelmüller / Belvedere, Vídeň",
+    "licence": "CC BY-SA 4.0",
+    "zdroj": "https://www.europeana.eu/item/1320/https___id_kulturpool_at_981f10ed_8533_4e91_a33e_9f62383293ed_cho"
+   },
+   {
+    "obdobi": "Selka za Rakouska",
+    "img": "doba_zne_mlaticka",
+    "popis": "Žně s mlátičkou – při ní pomáhali i domkáři a chalupníci.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/470/https___www_esbirky_cz_detail_3472745"
+   },
+   {
+    "obdobi": "Selka za Rakouska",
+    "img": "doba_svatba_1908",
+    "popis": "Svatební fotografie venkovského řemeslníka z roku 1908 – roku Janovy svatby.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/470/https___www_esbirky_cz_detail_3471327"
+   }
+  ],
+  "pozn": "Body v rámečku „V kostce“ a události se štítkem „rodina“ jsou z matrik, „obec“ z dobových vlastivěd. Ostatní popisuje, jak obvykle žila člověk v podobném postavení na Voticku a Sedlčansku – dobový kontext, ne doložený osobní fakt.",
+  "zdroje": [
+   "Matriky Votice, Ouběnice a Bystřice (SOA Praha, eBadatelna): sňatky, křty a úmrtí citované v části „Zápisy“",
+   "Okres Votický: nástin statisticko-historický (1873) – Kramerius NK ČR",
+   "Adresář Chytil 1915 – Kramerius NK ČR"
+  ]
+ },
+ "52": {
+  "nadpis": "Doba, ve které žil",
+  "perex": {
+   "uvod": "Rolník a výměnkář z Kobylí č. 8, děd Kateřiny Hovorkové. Pro Hanu prapradědeček, pro vás pra-pra-pradědeček.",
+   "body": [
+    "V křestním zápise Kateřiny Hovorkové (1881) je uveden jako Antonín Hovorka, výměnkář v Kobylí č. 8, otec Jana Hovorky.",
+    "Jeho manželkou byla Anna rozená Dvořáková z Kobylí č. 10.",
+    "Datum narození a úmrtí zatím nevíme; rodiče jsme zatím nenašli."
+   ]
+  },
+  "uvod": "Antonín Hovorka dožil v Kobylí na výminku – statek č. 8 předal synu Janovi.",
+  "vladci": [
+   {
+    "obdobi": "1848–1916",
+    "text": "císař František Josef I."
+   }
+  ],
+  "udalosti": [
+   {
+    "rok": "1873",
+    "vek": null,
+    "nadpis": "Kobylí a okolí v roce 1873",
+    "text": "Vlastivěda „Okres Votický“ popisuje okolní vsi farnosti: Kobylí se 171 obyvateli ve 20 domech, Strženec s myslivnou a mlýnem, Tomice s velkým rybníkem. Kobylí a Hlivín patřily ke „čtvrti svobodnické“ – jejich sedláci nebyli poddaní vrchnosti.",
+    "mistni": true
+   },
+   {
+    "rok": "1880–1895",
+    "vek": null,
+    "nadpis": "Zemědělská krize",
+    "text": "Levné obilí z Ameriky a Ruska srazilo ceny; menší hospodáře tížily dluhy a přivydělávali si prací u sedláků nebo na velkostatku."
+   },
+   {
+    "rok": "1881",
+    "vek": null,
+    "nadpis": "Narozena vnučka Kateřina",
+    "text": "6. března 1881 v Kobylí č. 8; Antonín je v zápise výměnkářem v témže domě.",
+    "osobni": true
+   }
+  ],
+  "zivot": [
+   {
+    "nadpis": "Rolník ve svobodnické vsi",
+    "odstavce": [
+     "Kobylí bylo podle matriky „býv. místem svobodnickým“ – tamní sedláci nebyli poddaní vrchnosti a hospodařili na vlastním. Podle Okresu Votického z roku 1873 mělo Kobylí 171 obyvatel ve 20 domech."
+    ]
+   },
+   {
+    "nadpis": "Výměnkář",
+    "odstavce": [
+     "Hospodář na stáří předal statek dědici a sám odešel na výminek: dostával byt, stravu a naturálie podle smlouvy a pomáhal v hospodářství, dokud mohl."
+    ]
+   },
+   {
+    "nadpis": "Zdraví",
+    "odstavce": [
+     "Rodilo se doma s porodní bábou, kojenecká a dětská úmrtnost byla vysoká a epidemie cholery, tyfu a neštovic se vracely. Lékař bydlel ve městě (nejbližší ve Voticích či Benešově) a k lidem na vsi se volal jen ve vážných případech."
+    ]
+   },
+   {
+    "nadpis": "Jídlo a zábava",
+    "odstavce": [
+     "Jedlo se, co se urodilo: chléb pečený doma, kaše, brambory, zelí, luštěniny, mléčné pokrmy; maso hlavně o svátcích a po zabijačce.",
+     "Rok určovaly církevní svátky a práce: masopust, Velikonoce, pouť, posvícení, dožínky, Vánoce. Lidé se scházeli v hospodě, na návsi a v kostele."
+    ]
+   }
+  ],
+  "obrazky": [
+   {
+    "obdobi": "Hospodář na statku",
+    "img": "doba_taborsko_engelmuller",
+    "popis": "Ferdinand Engelmüller: Táborsko (kolem 1902) – kraj jižně od Votic.",
+    "autor": "Ferdinand Engelmüller / Belvedere, Vídeň",
+    "licence": "CC BY-SA 4.0",
+    "zdroj": "https://www.europeana.eu/item/1320/https___id_kulturpool_at_981f10ed_8533_4e91_a33e_9f62383293ed_cho"
+   },
+   {
+    "obdobi": "Hospodář na statku",
+    "img": "doba_zne_mlaticka",
+    "popis": "Žně s mlátičkou – při ní pomáhali i domkáři a chalupníci.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/470/https___www_esbirky_cz_detail_3472745"
+   }
+  ],
+  "pozn": "Body v rámečku „V kostce“ a události se štítkem „rodina“ jsou z matrik, „obec“ z dobových vlastivěd. Ostatní popisuje, jak obvykle žil člověk v podobném postavení na Voticku a Sedlčansku – dobový kontext, ne doložený osobní fakt.",
+  "zdroje": [
+   "Matriky Votice, Ouběnice a Bystřice (SOA Praha, eBadatelna): sňatky, křty a úmrtí citované v části „Zápisy“",
+   "Okres Votický: nástin statisticko-historický (1873) – Kramerius NK ČR",
+   "Adresář Chytil 1915 – Kramerius NK ČR"
+  ]
+ },
+ "53": {
+  "nadpis": "Doba, ve které žila",
+  "perex": {
+   "uvod": "Žena z Kobylí, babička Kateřiny Hovorkové. Pro Hanu praprababička, pro vás pra-pra-prababička.",
+   "body": [
+    "V křestním zápise Kateřiny (1881) je uvedena jako Anna rozená Dvořáková z Kobylí č. 10, manželka výměnkáře Antonína Hovorky z Kobylí č. 8.",
+    "Syn Jan Hovorka hospodařil na statku č. 8; vnučka Kateřina se narodila 6. března 1881.",
+    "Datum narození, svatby a úmrtí zatím nevíme."
+   ]
+  },
+  "uvod": "Anna Dvořáková pocházela z Kobylí č. 10 – tedy z téže vsi i ze sousedního statku jako rodina její snachy.",
+  "vladci": [
+   {
+    "obdobi": "1848–1916",
+    "text": "císař František Josef I."
+   }
+  ],
+  "udalosti": [
+   {
+    "rok": "1873",
+    "vek": null,
+    "nadpis": "Kobylí a okolí v roce 1873",
+    "text": "Vlastivěda „Okres Votický“ popisuje okolní vsi farnosti: Kobylí se 171 obyvateli ve 20 domech, Strženec s myslivnou a mlýnem, Tomice s velkým rybníkem. Kobylí a Hlivín patřily ke „čtvrti svobodnické“ – jejich sedláci nebyli poddaní vrchnosti.",
+    "mistni": true
+   },
+   {
+    "rok": "1880–1895",
+    "vek": null,
+    "nadpis": "Zemědělská krize",
+    "text": "Levné obilí z Ameriky a Ruska srazilo ceny; menší hospodáře tížily dluhy a přivydělávali si prací u sedláků nebo na velkostatku."
+   },
+   {
+    "rok": "1881",
+    "vek": null,
+    "nadpis": "Narozena vnučka Kateřina",
+    "text": "6. března 1881 v Kobylí č. 8.",
+    "osobni": true
+   }
+  ],
+  "zivot": [
+   {
+    "nadpis": "Selka a hospodyně",
+    "odstavce": [
+     "Selka vedla dům a dvůr: vařila, pekla chleba, starala se o dobytek, drůbež, zahradu a děti; při žních pracovaly ženy na poli vedle mužů. Příjem z prodeje vajec, másla a drůbeže na trhu bývala často jediná hotovost v domě."
+    ]
+   },
+   {
+    "nadpis": "Výměnek",
+    "odstavce": [
+     "Hospodář na stáří předal statek dědici a sám odešel na výminek: dostával byt, stravu a naturálie podle smlouvy a pomáhal v hospodářství, dokud mohl."
+    ]
+   },
+   {
+    "nadpis": "Zdraví",
+    "odstavce": [
+     "Rodilo se doma s porodní bábou, kojenecká a dětská úmrtnost byla vysoká a epidemie cholery, tyfu a neštovic se vracely. Lékař bydlel ve městě (nejbližší ve Voticích či Benešově) a k lidem na vsi se volal jen ve vážných případech."
+    ]
+   },
+   {
+    "nadpis": "Jídlo a zábava",
+    "odstavce": [
+     "Jedlo se, co se urodilo: chléb pečený doma, kaše, brambory, zelí, luštěniny, mléčné pokrmy; maso hlavně o svátcích a po zabijačce.",
+     "Rok určovaly církevní svátky a práce: masopust, Velikonoce, pouť, posvícení, dožínky, Vánoce. Lidé se scházeli v hospodě, na návsi a v kostele."
+    ]
+   }
+  ],
+  "obrazky": [
+   {
+    "obdobi": "Selka za Rakouska",
+    "img": "doba_taborsko_engelmuller",
+    "popis": "Ferdinand Engelmüller: Táborsko (kolem 1902) – kraj jižně od Votic.",
+    "autor": "Ferdinand Engelmüller / Belvedere, Vídeň",
+    "licence": "CC BY-SA 4.0",
+    "zdroj": "https://www.europeana.eu/item/1320/https___id_kulturpool_at_981f10ed_8533_4e91_a33e_9f62383293ed_cho"
+   }
+  ],
+  "pozn": "Body v rámečku „V kostce“ a události se štítkem „rodina“ jsou z matrik, „obec“ z dobových vlastivěd. Ostatní popisuje, jak obvykle žila člověk v podobném postavení na Voticku a Sedlčansku – dobový kontext, ne doložený osobní fakt.",
+  "zdroje": [
+   "Matriky Votice, Ouběnice a Bystřice (SOA Praha, eBadatelna): sňatky, křty a úmrtí citované v části „Zápisy“",
+   "Okres Votický: nástin statisticko-historický (1873) – Kramerius NK ČR",
+   "Adresář Chytil 1915 – Kramerius NK ČR"
+  ]
+ },
+ "54": {
+  "nadpis": "Doba, ve které žil",
+  "perex": {
+   "uvod": "Rolník z Kobylí č. 9, děd Kateřiny Hovorkové z matčiny strany. Pro Hanu prapradědeček, pro vás pra-pra-pradědeček.",
+   "body": [
+    "V křestním zápise Kateřiny Hovorkové (1881) je uveden jako zesnulý Josef Dvořák, rolník v Kobylí č. 9, otec nevěsty Josefy a manžel Marie rozené Vosátkové (?) z Hlohova č. 12.",
+    "Zemřel tedy před 6. březnem 1881; datum narození, svatby a úmrtí zatím nevíme."
+   ]
+  },
+  "uvod": "Josef Dvořák je dosud jen jménem v zápise; jeho statek č. 9 v Kobylí sousedil s Hovorkovým č. 8 a Dvořákovým č. 10.",
+  "vladci": [
+   {
+    "obdobi": "1848–1916",
+    "text": "císař František Josef I."
+   }
+  ],
+  "udalosti": [
+   {
+    "rok": "1866",
+    "vek": null,
+    "nadpis": "Prusko-rakouská válka",
+    "text": "Pruská armáda v Čechách a s ní epidemie cholery."
+   },
+   {
+    "rok": "1869",
+    "vek": null,
+    "nadpis": "Nový školský zákon",
+    "text": "Od roku 1869 platila osmiletá povinná školní docházka (od 6 do 14 let)."
+   },
+   {
+    "rok": "1873",
+    "vek": null,
+    "nadpis": "Kobylí a okolí v roce 1873",
+    "text": "Vlastivěda „Okres Votický“ popisuje okolní vsi farnosti: Kobylí se 171 obyvateli ve 20 domech, Strženec s myslivnou a mlýnem, Tomice s velkým rybníkem. Kobylí a Hlivín patřily ke „čtvrti svobodnické“ – jejich sedláci nebyli poddaní vrchnosti.",
+    "mistni": true
+   },
+   {
+    "rok": "1880–1895",
+    "vek": null,
+    "nadpis": "Zemědělská krize",
+    "text": "Levné obilí z Ameriky a Ruska srazilo ceny; menší hospodáře tížily dluhy a přivydělávali si prací u sedláků nebo na velkostatku."
+   },
+   {
+    "rok": "před 1881",
+    "vek": null,
+    "nadpis": "Úmrtí",
+    "text": "V březnu 1881 je v křestním zápise vnučky Kateřiny uveden jako zemřelý.",
+    "osobni": true
+   }
+  ],
+  "zivot": [
+   {
+    "nadpis": "Rolník ve svobodnické vsi",
+    "odstavce": [
+     "Kobylí bylo podle matriky „býv. místem svobodnickým“ – tamní sedláci nebyli poddaní vrchnosti a hospodařili na vlastním. Podle Okresu Votického z roku 1873 mělo Kobylí 171 obyvatel ve 20 domech."
+    ]
+   },
+   {
+    "nadpis": "Zdraví",
+    "odstavce": [
+     "Rodilo se doma s porodní bábou, kojenecká a dětská úmrtnost byla vysoká a epidemie cholery, tyfu a neštovic se vracely. Lékař bydlel ve městě (nejbližší ve Voticích či Benešově) a k lidem na vsi se volal jen ve vážných případech."
+    ]
+   },
+   {
+    "nadpis": "Jídlo a zábava",
+    "odstavce": [
+     "Jedlo se, co se urodilo: chléb pečený doma, kaše, brambory, zelí, luštěniny, mléčné pokrmy; maso hlavně o svátcích a po zabijačce.",
+     "Rok určovaly církevní svátky a práce: masopust, Velikonoce, pouť, posvícení, dožínky, Vánoce. Lidé se scházeli v hospodě, na návsi a v kostele."
+    ]
+   }
+  ],
+  "obrazky": [
+   {
+    "obdobi": "Hospodář na statku",
+    "img": "doba_taborsko_engelmuller",
+    "popis": "Ferdinand Engelmüller: Táborsko (kolem 1902) – kraj jižně od Votic.",
+    "autor": "Ferdinand Engelmüller / Belvedere, Vídeň",
+    "licence": "CC BY-SA 4.0",
+    "zdroj": "https://www.europeana.eu/item/1320/https___id_kulturpool_at_981f10ed_8533_4e91_a33e_9f62383293ed_cho"
+   }
+  ],
+  "pozn": "Body v rámečku „V kostce“ a události se štítkem „rodina“ jsou z matrik, „obec“ z dobových vlastivěd. Ostatní popisuje, jak obvykle žil člověk v podobném postavení na Voticku a Sedlčansku – dobový kontext, ne doložený osobní fakt.",
+  "zdroje": [
+   "Matriky Votice, Ouběnice a Bystřice (SOA Praha, eBadatelna): sňatky, křty a úmrtí citované v části „Zápisy“",
+   "Okres Votický: nástin statisticko-historický (1873) – Kramerius NK ČR",
+   "Adresář Chytil 1915 – Kramerius NK ČR"
+  ]
+ },
+ "55": {
+  "nadpis": "Doba, ve které žila",
+  "perex": {
+   "uvod": "Žena z Hlohova, babička Kateřiny Hovorkové z matčiny strany. Pro Hanu praprababička, pro vás pra-pra-prababička.",
+   "body": [
+    "V křestním zápise Kateřiny Hovorkové (1881) je uvedena jako Marie, rozená Vosátková (?), z Hlohova č. 12, manželka zemřelého rolníka Josefa Dvořáka z Kobylí č. 9.",
+    "Příjmení čteme nejistě. V zápise stojí mezi kmotry také Kateřina Hovorková, rolnice z Hlohova č. 12, a Josef Vosátka (?) z Hlivína (?) č. 2 – jejich příbuzenství k Marii ale z matriky neplyne.",
+    "Datum narození, svatby a úmrtí zatím nevíme."
+   ]
+  },
+  "uvod": "O Marii Vosátkové (?) víme jen to, že pocházela z Hlohova a provdala se do sousedního Kobylí.",
+  "vladci": [
+   {
+    "obdobi": "1848–1916",
+    "text": "císař František Josef I."
+   }
+  ],
+  "udalosti": [
+   {
+    "rok": "1866",
+    "vek": null,
+    "nadpis": "Prusko-rakouská válka",
+    "text": "Pruská armáda v Čechách a s ní epidemie cholery."
+   },
+   {
+    "rok": "1869",
+    "vek": null,
+    "nadpis": "Nový školský zákon",
+    "text": "Od roku 1869 platila osmiletá povinná školní docházka (od 6 do 14 let)."
+   },
+   {
+    "rok": "1873",
+    "vek": null,
+    "nadpis": "Kobylí a okolí v roce 1873",
+    "text": "Vlastivěda „Okres Votický“ popisuje okolní vsi farnosti: Kobylí se 171 obyvateli ve 20 domech, Strženec s myslivnou a mlýnem, Tomice s velkým rybníkem. Kobylí a Hlivín patřily ke „čtvrti svobodnické“ – jejich sedláci nebyli poddaní vrchnosti.",
+    "mistni": true
+   },
+   {
+    "rok": "1880–1895",
+    "vek": null,
+    "nadpis": "Zemědělská krize",
+    "text": "Levné obilí z Ameriky a Ruska srazilo ceny; menší hospodáře tížily dluhy a přivydělávali si prací u sedláků nebo na velkostatku."
+   },
+   {
+    "rok": "1881",
+    "vek": null,
+    "nadpis": "Narozena vnučka Kateřina",
+    "text": "6. března 1881 v Kobylí č. 8.",
+    "osobni": true
+   }
+  ],
+  "zivot": [
+   {
+    "nadpis": "Selka a hospodyně",
+    "odstavce": [
+     "Selka vedla dům a dvůr: vařila, pekla chleba, starala se o dobytek, drůbež, zahradu a děti; při žních pracovaly ženy na poli vedle mužů. Příjem z prodeje vajec, másla a drůbeže na trhu bývala často jediná hotovost v domě."
+    ]
+   },
+   {
+    "nadpis": "Zdraví",
+    "odstavce": [
+     "Rodilo se doma s porodní bábou, kojenecká a dětská úmrtnost byla vysoká a epidemie cholery, tyfu a neštovic se vracely. Lékař bydlel ve městě (nejbližší ve Voticích či Benešově) a k lidem na vsi se volal jen ve vážných případech."
+    ]
+   },
+   {
+    "nadpis": "Jídlo a zábava",
+    "odstavce": [
+     "Jedlo se, co se urodilo: chléb pečený doma, kaše, brambory, zelí, luštěniny, mléčné pokrmy; maso hlavně o svátcích a po zabijačce.",
+     "Rok určovaly církevní svátky a práce: masopust, Velikonoce, pouť, posvícení, dožínky, Vánoce. Lidé se scházeli v hospodě, na návsi a v kostele."
+    ]
+   }
+  ],
+  "obrazky": [
+   {
+    "obdobi": "Selka za Rakouska",
+    "img": "doba_taborsko_engelmuller",
+    "popis": "Ferdinand Engelmüller: Táborsko (kolem 1902) – kraj jižně od Votic.",
+    "autor": "Ferdinand Engelmüller / Belvedere, Vídeň",
+    "licence": "CC BY-SA 4.0",
+    "zdroj": "https://www.europeana.eu/item/1320/https___id_kulturpool_at_981f10ed_8533_4e91_a33e_9f62383293ed_cho"
+   }
+  ],
+  "pozn": "Body v rámečku „V kostce“ a události se štítkem „rodina“ jsou z matrik, „obec“ z dobových vlastivěd. Ostatní popisuje, jak obvykle žila člověk v podobném postavení na Voticku a Sedlčansku – dobový kontext, ne doložený osobní fakt.",
+  "zdroje": [
+   "Matriky Votice, Ouběnice a Bystřice (SOA Praha, eBadatelna): sňatky, křty a úmrtí citované v části „Zápisy“",
+   "Okres Votický: nástin statisticko-historický (1873) – Kramerius NK ČR",
+   "Adresář Chytil 1915 – Kramerius NK ČR"
+  ]
+ },
+ "13": {
+  "nadpis": "Doba, ve které žila",
+  "perex": {
+   "uvod": "Dcera rolníka z Kobylí, která se provdala do Ouběnic; matka Václava Spálenky. Pro Hanu babička, pro vás prababička.",
+   "body": [
+    "Narodila se 6. března 1881 v Kobylí č. 8 (pokřtěna 8. března) jako dcera rolníka Jana Hovorky a Josefy rozené Dvořákové. Při porodu byla bába Barbora Hofmann z Ouběnic č. 11.",
+    "17. listopadu 1908 se v Ouběnicích provdala za domkáře Jana Spálenku (30 let) z Ouběnic č. 25; jí bylo 27. Svědkem byl její bratr Jan Hovorka.",
+    "Měla tři děti: Marii (* 4. 8. 1911, † 18. 4. 1912 na zápal plic), Jana (* 22. 8. 1913, † 21. 6. 1940 na zánět ledvin) a Václava (* 11. 11. 1916 – Hanin otec).",
+    "Manžel Jan zemřel 23. dubna 1931 v benešovské nemocnici; Kateřině bylo 50 let, synům 17 a 14.",
+    "Syn Václav se 17. října 1942 ve Voticích oženil s Antonií Vrzalovou. 28. listopadu 1948 se jim narodila Hana.",
+    "Zemřela 13. listopadu 1950 v Praze (dopsáno do oddacího zápisu z roku 1908), Haně byly dva roky."
+   ]
+  },
+  "uvod": "Kateřina zažila smrt manžela i dvou ze tří dětí; z Ouběnic se dožila Prahy, kde zemřela dva roky po narození vnučky Hany.",
+  "vladci": [
+   {
+    "obdobi": "1848–1916",
+    "text": "císař František Josef I."
+   },
+   {
+    "obdobi": "1916–1918",
+    "text": "císař Karel I."
+   },
+   {
+    "obdobi": "1918–1935",
+    "text": "prezident T. G. Masaryk"
+   },
+   {
+    "obdobi": "1935–1938",
+    "text": "prezident E. Beneš"
+   },
+   {
+    "obdobi": "1939–1945",
+    "text": "státní prezident E. Hácha (protektorát)"
+   },
+   {
+    "obdobi": "1945–1948",
+    "text": "prezident E. Beneš"
+   },
+   {
+    "obdobi": "1948–1953",
+    "text": "prezident K. Gottwald"
+   }
+  ],
+  "udalosti": [
+   {
+    "rok": "1873",
+    "vek": null,
+    "nadpis": "Kobylí a okolí v roce 1873",
+    "text": "Vlastivěda „Okres Votický“ popisuje okolní vsi farnosti: Kobylí se 171 obyvateli ve 20 domech, Strženec s myslivnou a mlýnem, Tomice s velkým rybníkem. Kobylí a Hlivín patřily ke „čtvrti svobodnické“ – jejich sedláci nebyli poddaní vrchnosti.",
+    "mistni": true
+   },
+   {
+    "rok": "1880–1895",
+    "vek": 0,
+    "nadpis": "Zemědělská krize",
+    "text": "Levné obilí z Ameriky a Ruska srazilo ceny; menší hospodáře tížily dluhy a přivydělávali si prací u sedláků nebo na velkostatku."
+   },
+   {
+    "rok": "1881",
+    "vek": 0,
+    "nadpis": "Narození",
+    "text": "6. března 1881 v Kobylí č. 8.",
+    "osobni": true
+   },
+   {
+    "rok": "1908",
+    "vek": 27,
+    "nadpis": "Svatba",
+    "text": "17. listopadu 1908 v Ouběnicích s Janem Spálenkou.",
+    "osobni": true
+   },
+   {
+    "rok": "1911–1916",
+    "vek": 30,
+    "nadpis": "Děti",
+    "text": "Marie (* 1911, † 1912), Jan (* 1913, † 1940), Václav (* 1916).",
+    "osobni": true
+   },
+   {
+    "rok": "1912",
+    "vek": 31,
+    "nadpis": "Ztráta dcery",
+    "text": "18. dubna 1912 zemřela osmiměsíční Marie na zápal plic.",
+    "osobni": true
+   },
+   {
+    "rok": "1914–1918",
+    "vek": 33,
+    "nadpis": "První světová válka",
+    "text": "Rakousko-uherská armáda povolávala muže zpočátku do 42 let, od roku 1915 do 50 let; na statcích chyběli muži i koně a povinně se odváděly dávky."
+   },
+   {
+    "rok": "1915",
+    "vek": 34,
+    "nadpis": "Obec Ouběnice",
+    "text": "Chytilův adresář: obec měla 1121 obyvatel v osmi osadách, samotné Ouběnice 270. Byla tu čtyřtřídní škola, pošta a telegraf, zastávka dráhy v Tomicích (trať Praha–Gmünd), spořitelní a záložní spolek, cementárna, lihovar ve dvoře Semtín a hostince – v Kobylí ho vedl Josef Hudera, svědek z Janovy svatby. Porodními bábami byly Marie Petrášková a Kateřina Šupková.",
+    "mistni": true
+   },
+   {
+    "rok": "1918",
+    "vek": 37,
+    "nadpis": "Vznik Československa",
+    "text": "28. října 1918 skončila monarchie a vzniklo Československo."
+   },
+   {
+    "rok": "1929–1933",
+    "vek": 48,
+    "nadpis": "Velká hospodářská krize",
+    "text": "Ceny zemědělských výrobků se propadly; malým hospodářům chyběly peníze na daně."
+   },
+   {
+    "rok": "1931",
+    "vek": 50,
+    "nadpis": "Ovdověla",
+    "text": "23. dubna 1931 zemřel manžel Jan v benešovské nemocnici.",
+    "osobni": true
+   },
+   {
+    "rok": "1938–1939",
+    "vek": 57,
+    "nadpis": "Mnichov a okupace",
+    "text": "Mobilizace v září 1938, Mnichovská dohoda a 15. března 1939 okupace."
+   },
+   {
+    "rok": "1939–1945",
+    "vek": 58,
+    "nadpis": "Protektorát",
+    "text": "Povinné dodávky, přídělový systém a pracovní povinnost."
+   },
+   {
+    "rok": "1940",
+    "vek": 59,
+    "nadpis": "Smrt syna Jana",
+    "text": "21. června 1940 zemřel v benešovské nemocnici ve věku 26 let.",
+    "osobni": true
+   },
+   {
+    "rok": "1942",
+    "vek": 61,
+    "nadpis": "Svatba syna Václava",
+    "text": "17. října 1942 ve Voticích s Antonií Vrzalovou.",
+    "osobni": true
+   },
+   {
+    "rok": "1945",
+    "vek": 64,
+    "nadpis": "Konec války",
+    "text": "V květnu 1945 skončila válka."
+   },
+   {
+    "rok": "1948",
+    "vek": 67,
+    "nadpis": "Narozena vnučka Hana",
+    "text": "28. listopadu 1948.",
+    "osobni": true
+   },
+   {
+    "rok": "1948",
+    "vek": 67,
+    "nadpis": "Únor 1948",
+    "text": "Převzetí moci komunisty; od roku 1949 následovala kolektivizace venkova."
+   },
+   {
+    "rok": "1950",
+    "vek": 69,
+    "nadpis": "Smrt",
+    "text": "13. listopadu 1950 v Praze.",
+    "osobni": true
+   }
+  ],
+  "zivot": [
+   {
+    "nadpis": "Domkářka v Ouběnicích",
+    "odstavce": [
+     "Selka vedla dům a dvůr: vařila, pekla chleba, starala se o dobytek, drůbež, zahradu a děti; při žních pracovaly ženy na poli vedle mužů. Příjem z prodeje vajec, másla a drůbeže na trhu bývala často jediná hotovost v domě. V domkářském hospodářství č. 25 v Ouběnicích šlo o dům s polem a dobytkem, kde manžel Jan pracoval i výdělečně."
+    ]
+   },
+   {
+    "nadpis": "Škola",
+    "odstavce": [
+     "Od roku 1869 platila osmiletá povinná docházka (od 6 do 14 let); vyučovalo se čtení, psaní, počty, náboženství a zeměpis a dívky se učily ruční práce. Kde Kateřina do školy chodila, v matrice není."
+    ]
+   },
+   {
+    "nadpis": "Zdraví",
+    "odstavce": [
+     "Kateřina zažila tři úmrtí v rodině: dcera zemřela na zápal plic (1912), manžel na zánět pobřišnice se sepsí (1931) a syn na zánět ledvin (1940). Antibiotika tehdy ještě neexistovala; penicilin se rozšířil až po válce."
+    ]
+   },
+   {
+    "nadpis": "Jídlo a zábava",
+    "odstavce": [
+     "Jedlo se, co se urodilo: chléb pečený doma, kaše, brambory, zelí, luštěniny, mléčné pokrmy; maso hlavně o svátcích a po zabijačce.",
+     "Rok určovaly církevní svátky a práce: masopust, Velikonoce, pouť, posvícení, dožínky, Vánoce. Lidé se scházeli v hospodě, na návsi a v kostele."
+    ]
+   }
+  ],
+  "obrazky": [
+   {
+    "obdobi": "Dětství a mládí (1881–1908)",
+    "img": "doba_skola_19stol",
+    "popis": "Školní třída v 19. století.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/470/https___www_esbirky_cz_detail_3475610"
+   },
+   {
+    "obdobi": "Rodina a válka (1908–1918)",
+    "img": "doba_svatba_1908",
+    "popis": "Svatební fotografie venkovského řemeslníka z roku 1908 – roku Janovy svatby.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/470/https___www_esbirky_cz_detail_3471327"
+   },
+   {
+    "obdobi": "Rodina a válka (1908–1918)",
+    "img": "doba_rodina_1915",
+    "popis": "Matka s dětmi a babičkou v roce 1915.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/470/https___www_esbirky_cz_detail_3501788"
+   },
+   {
+    "obdobi": "Ovdovělá matka (1931–1950)",
+    "img": "doba_vinohrady_sokol",
+    "popis": "Riegrovy sady na Vinohradech – Václavova pražská čtvrť.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/472/https___www_esbirky_cz_detail_18115020"
+   }
+  ],
+  "pozn": "Body v rámečku „V kostce“ a události se štítkem „rodina“ jsou z matrik, „obec“ z dobových vlastivěd. Ostatní popisuje, jak obvykle žila člověk v podobném postavení na Voticku a Sedlčansku – dobový kontext, ne doložený osobní fakt.",
+  "zdroje": [
+   "Matriky Votice, Ouběnice a Bystřice (SOA Praha, eBadatelna): sňatky, křty a úmrtí citované v části „Zápisy“",
+   "Okres Votický: nástin statisticko-historický (1873) – Kramerius NK ČR",
+   "Adresář Chytil 1915 – Kramerius NK ČR"
   ]
  }
 }

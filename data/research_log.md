@@ -178,3 +178,8 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
 ## Vojtěch Macháček × Kateřina Lupáčová (Kekulé 114, 115)
 - Rejstřík Votice 15 (7473) → O 1788–1827 sn. 46 (Pag. 45, sekce „Pro Semtín Velký“): 2. 10. 1798 Vojtěch Macháček, sedlák, č. 11, 20 let, svobodný × Kateřina, dc. Tomáše Lupáče z Mokřan č. 1(?), 17 let, svobodná (matka Kateřina, č. 5 – nejisté); svědci Jan Holub?, Jakub Víšek?; oddával kaplán Jan Simon. Záznam vot_snatek_vojtech_machacek_katerina_lupacova_1798.
 - Nedohledáno: křty Vojtěcha (~1778) a Kateřiny (~1781), úmrtí obou, další děti (Rosálie je „8. narozená“?).
+
+## Dokončení profilů větve Vrzalů a Spálenků (19 stránek)
+- Nové profily (doba.json): Vrzalové – Františka Lupáčová (29), Josef Lupáč (58), Kateřina Zoulová (59), Anna Laštovková (113); Spálenkové a jejich předkové – Josef Spálenka (24), Marie Medalová (25), Kateřina Hovorková (13), Jan Hovorka (26), Josefa Dvořáková (27), Josef Spálenka † před 1878 (48), Josefa Kocourová (49), Jan Medal (50), Anna Tišová (51), Antonín Hovorka (52), Anna Dvořáková (53), Josef Dvořák (54), Marie Vosátková (55), Matěj Tiš (102), Anna Kolářová (103). Vše jen z už nalezených zápisů, generátor pracovni/profily_gen.py.
+- Příbuzenské názvy se počítají z Kekulého čísla (pro Tomáše g−2, pro Hanu g−3 předpon „pra“); opraveno i u 57, 114, 115.
+- Otevřené: křty/úmrtí těchto lidí (Nadějkov? – Kocourovi, Střížovec, Tožice, Obrouhlice, Kobylí, Hlohov, Semtín č. 5, Křešice, Kaliště); sňatek Josef Lupáč × Kateřina Zoulová; úmrtí Josefa Spálenky † 7. 1. 1908 (fol. 296) nečteno.
