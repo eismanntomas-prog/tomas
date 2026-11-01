@@ -25,4 +25,4 @@ Co víme z vyprávění a rodinných dokumentů – kdo to řekl / odkud to je a
 - Babička Antonie Spálenková se narodila 23. dubna 1921.
 
 ## Doplnění (Tomáš, 2026-11-01)
-- Dědeček Václav Spálenka (* 1916) měl ještě sestru Liduši, která v dospělosti žila v Praze. (Rok narození a další údaje zatím neznáme; v dosud nalezených zápisech Spálenkových dětí z Ouběnic č. 25 – Marie 1911, Jan 1913, Václav 1916 – není, narodila se tedy nejspíš po roce 1916.)
+- Dědeček Václav Spálenka (* 1916) měl ještě sestru Ludmilu (OPRAVA: původně uvedeno „Liduše“, správně Ludmila), která v dospělosti žila v Praze. (Rok narození a další údaje zatím neznáme; v dosud nalezených zápisech Spálenkových dětí z Ouběnic č. 25 – Marie 1911, Jan 1913, Václav 1916 – není, narodila se tedy nejspíš po roce 1916.)
