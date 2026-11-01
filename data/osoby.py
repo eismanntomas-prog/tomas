@@ -96,7 +96,7 @@ LINES = {
 SIDE = [
     dict(k=12, n="Sourozenci Jana Spálenky", t="Děti Josefa Spálenky a Marie Medalové ze Střížovce č. 2 podle rejstříku narozených Ouběnice: Anna (* 1880), František (* 1882), Václav (* 1885), Josefa (* 1889), Bohumil (* 1891).", r=[]),
     dict(k=6, n="Marie Spálenková (1911–1912)", t="Starší sestra Václava, * 4. 8. 1911 v Ouběnicích č. 25, zemřela v 8 měsících na zápal plic.", r=["oub_umrti_marie_spalenkova_1912"]),
-    dict(k=6, n="Jan Spálenka (1913–1940)", t="Starší bratr Václava, * 22. 8. 1913 v Ouběnicích č. 25, úředník benešovské nemocnice; zemřel svobodný ve 26 letech na zánět ledvin.", r=["oub_umrti_jan_spalenka_1940"]),
+    dict(k=6, n="Jan Spálenka (1913–1940)", t="Starší bratr Václava, * 22. 8. 1913 v Ouběnicích č. 25, v benešovské nemocnici „úředník“ (možná „učedník“ – nejasné čtení rukopisu); zemřel svobodný ve 26 letech na zánět ledvin.", r=["oub_umrti_jan_spalenka_1940"]),
     dict(k=7, n="Sourozenci Antonie Vrzalové", t="Podle rejstříku narozených farnosti Votice: Božena (* 1910), Marie (* 1912), Anna (* 1914), Vojtěch (* 1917), Anežka (* 1925); u Boženy a Marie je číslo domu nejisté.", r=[]),
     dict(k=28, n="Sourozenci Vojtěcha Vrzala", t="Podle rejstříku narozených Votic 1843–1855 (Městečko č. 3): Václav (* 1846), Marie Dorota (* 1849), Josefa (* 1850), Marie (* 1852).", r=[]),
     dict(k=112, n="Hypotéza: původ Václava Vrzala (* asi 1782)", t="Kniha Votice 06 (Městečko a okolí 1771–1786) prošla celá; Václav Vrzal narozený 1777–1786 v ní není. Kandidáti: (1) Václav * 20. 11. 1776, syn Jakuba Vrzala, sedláka, a Veroniky roz. Batounkové? (dům č. 2) – v roce 1811 by mu bylo 34, ne 29; (2) syn Václava Vrzala a Doroty roz. Marvanové (děti v Městečku 1777–1783). Neověřeno.", r=[]),

@@ -198,3 +198,5 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
 
 ## Další info od rodiny (2026-11-01)
 - Václavovi sourozenci dle rodiny: Jan (medicína, slepé střevo – rozpor se zápisem: zánět ledvin), Josef (zedník), Ludmila (Praha). Josef a Ludmila nejsou v matrice 1911–1916 → narozeni nejspíš po 1916 (otec † 1931). Dohledat křty v Ouběnicích.
+
+- Oprava čtení: úmrtní zápis Jana Spálenky 1940 (Ouběnice fol. 54, sn. 57) – povolání „úředník“ vs. „učedník“ nejisté (háček nad 2. písmenem: ř/č). Ve všech profilech uvedeno obojí; rodinná tradice (studoval medicínu) by spíš seděla k nižšímu zaměstnanci/učni.
