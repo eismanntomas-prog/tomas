@@ -167,3 +167,5 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
   Spálenka Jan, chalupník Ouběnice 25 † 23. 4. 1931 Benešov nemocnice (fol. 50 = sn. 53; 53 l., zánět pobřišnice, sepse);
   Spálenka Jan * 22. 8. 1913, úředník benešovské nemocnice, svobodný † 21. 6. 1940 (fol. 54 = sn. 57; glomerulonefritis) = bratr Václava. Další: Spálenka Vincenc 91 l. † 10. 1. 1942 Ouběnice 10.
 - Chytil 1915 s. 404 Ouběnice: farář Bohumil Zahradník (spis. Boh. Brodský) = oddávající 1908; hostinský Jos. Hudera v Kobylí = svědek 1908; porodní báby Petrášková, Šupková.
+- Votice Zi 1871–1949 sn. 42: „1873 Vrzalová Rosálie Městečko 3, IV 36“, „1876 Vrzal Frant. Městečko, IV 72“ → Votice Z 1871–1907 (7491) str. 36 = sn. 38: † 10. 4. 1873 Rosalie Vrzalová, 59 l., manželka † Václava Vrzala, gruntovníka. Václav † před 4/1873.
+  Rejstřík Z 1848–1871 (7480, sn. 434–439) nemá písmeno V/W (stránky chybí) – úmrtí Václava nedohledáno.

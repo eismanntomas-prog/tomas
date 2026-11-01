@@ -1395,5 +1395,176 @@
    "Posvátná místa království Českého, Vikariát Votický (1912), s. 121–123 – Kramerius NK ČR",
    "Chytilův úplný adresář Království českého (1915), s. 404 – Kramerius NK ČR"
   ]
+ },
+ "56": {
+  "nadpis": "Doba, ve které žil",
+  "perex": {
+   "uvod": "Sedlák z Městečka č. 3 narozený za napoleonských válek, který většinu života robotoval na panském – a otec Vojtěcha. Pro vás pra-pra-pradědeček.",
+   "body": [
+    "Narodil se 2. června 1812 v Městečku č. 3 jako syn sedláka Václava Vrzala a Anny z Kaliště, necelých třináct měsíců po svatbě rodičů.",
+    "Oženil se ve 25 letech, 14. listopadu 1837 ve Voticích, s třiadvacetiletou Rosálií Macháčkovou z Velkého Semtína č. 11. Protože byla nezletilá, dal souhlas její otec Vojtěch Macháček. Svědkem byl mimo jiné František Vrzal, soused z Votic.",
+    "Měl nejméně pět dětí: prvorozeného Vojtěcha (* 1844), Václava (* 1846), Marii Dorotu (* 1849), Josefu (* 1850) a Marii (* 1852).",
+    "Při narození syna Vojtěcha v roce 1844 byl sedlákem na statku č. 3 a jeho otec Václav na výminku – tři generace Vrzalů pod jednou střechou.",
+    "Zemřel před dubnem 1873: v úmrtním zápisu jeho ženy Rosálie (10. 4. 1873, 59 let) je už uveden jako zesnulý gruntovník. Přesné datum zatím nevíme – rejstřík zemřelých 1848–1871 písmeno V neobsahuje."
+   ]
+  },
+  "uvod": "Václav prožil většinu života jako poddaný: robotoval na panském, odváděl dávky vrchnosti votického panství a teprve ve 36 letech, v roce 1848, se stal svobodným vlastníkem svého statku. Zažil napoleonské války v dětství, hladové roky 40. let a revoluci 1848.",
+  "vladci": [
+   {
+    "obdobi": "1812–1835",
+    "text": "císař František I. (do 1806 jako František II. císař Svaté říše římské)"
+   },
+   {
+    "obdobi": "1835–1848",
+    "text": "císař Ferdinand V. Dobrotivý"
+   },
+   {
+    "obdobi": "1848–asi 1870",
+    "text": "císař František Josef I."
+   }
+  ],
+  "udalosti": [
+   {
+    "rok": "1812",
+    "vek": 0,
+    "nadpis": "Narození",
+    "osobni": true,
+    "text": "2. června 1812 v Městečku č. 3 – v roce Napoleonova tažení do Ruska."
+   },
+   {
+    "rok": "1813",
+    "vek": 1,
+    "nadpis": "Válka v Čechách",
+    "text": "V srpnu 1813 se u Chlumce a Přestanova (severní Čechy) bojovalo s Napoleonovou armádou; kraji projížděla vojska a vybíraly se dávky."
+   },
+   {
+    "rok": "1817–1830",
+    "vek": 5,
+    "nadpis": "Škola za Metternicha",
+    "text": "Tereziánská triviální škola: čtení, psaní, počty a katechismus – v praxi pár zimních měsíců ročně. Vyučovalo se česky, s němčinou pro pokročilé."
+   },
+   {
+    "rok": "1831–1832",
+    "vek": 19,
+    "nadpis": "Cholera",
+    "text": "Do Čech poprvé dorazila asijská cholera a zabíjela po vesnicích celé rodiny."
+   },
+   {
+    "rok": "1837",
+    "vek": 25,
+    "nadpis": "Svatba",
+    "osobni": true,
+    "text": "14. listopadu 1837 ve Voticích s Rosálií Macháčkovou z Velkého Semtína."
+   },
+   {
+    "rok": "1844",
+    "vek": 32,
+    "nadpis": "Narozen syn Vojtěch",
+    "osobni": true,
+    "text": "12. července 1844; Václav je v zápisu uveden jako sedlák, jeho otec jako výminkář."
+   },
+   {
+    "rok": "1845–1847",
+    "vek": 33,
+    "nadpis": "Hladové roky",
+    "text": "Bramborová plíseň a neúrody přinesly drahotu a hlad."
+   },
+   {
+    "rok": "1848",
+    "vek": 36,
+    "nadpis": "Konec roboty",
+    "text": "7. září 1848 císař zrušil robotu a poddanství. Za půdu se pak vrchnosti platilo výkupné, splácené ještě desítky let."
+   },
+   {
+    "rok": "1850",
+    "vek": 38,
+    "nadpis": "Nové úřady",
+    "mistni": true,
+    "text": "Místo panství vznikl soudní okres Votice a obce dostaly samosprávu."
+   },
+   {
+    "rok": "1866",
+    "vek": 54,
+    "nadpis": "Prusko-rakouská válka",
+    "text": "Pruská armáda v Čechách a s ní epidemie cholery."
+   },
+   {
+    "rok": "1866",
+    "vek": 54,
+    "nadpis": "Přestavba kostela",
+    "mistni": true,
+    "text": "V Olbramovicích zbořili starou románskou apsidu kostela Všech svatých a loď rozšířili."
+   },
+   {
+    "rok": "1871",
+    "vek": 59,
+    "nadpis": "Železnice",
+    "mistni": true,
+    "text": "Začala jezdit dráha Praha–Tábor se stanicí Veselka u Městečka – pokud se Václav dožil, viděl první vlaky."
+   },
+   {
+    "rok": "před 1873",
+    "vek": null,
+    "nadpis": "Smrt",
+    "osobni": true,
+    "text": "Zemřel nejpozději počátkem roku 1873 – v dubnu 1873 je v zápisu manželky uveden jako zesnulý."
+   }
+  ],
+  "zivot": [
+   {
+    "nadpis": "Sedlák za roboty",
+    "odstavce": [
+     "Gruntovník (sedlák s celým nebo půl lánem) musel do roku 1848 odvádět robotu – zpravidla dva až tři dny v týdnu práce s potahem na panských polích votického panství – a k tomu platit dávky a desátky. Vlastní hospodářství se dělalo „ve zbylém čase“ a s pomocí čeledi.",
+     "Statek se dědil a starý hospodář šel na výminek; Václavův otec byl na výminku už v roce 1844."
+    ]
+   },
+   {
+    "nadpis": "Škola",
+    "odstavce": [
+     "Triviální škola první poloviny 19. století trvala šest let, ale venkovské děti chodily hlavně v zimě. Mnozí sedláci té doby se uměli jen podepsat."
+    ]
+   },
+   {
+    "nadpis": "Zdraví",
+    "odstavce": [
+     "Porody doma s porodní bábou, vysoká dětská úmrtnost, epidemie cholery (1831–1832, 1849, 1866) a tyfu. Lékař byl ve Voticích a k sedlákům chodil málokdy."
+    ]
+   },
+   {
+    "nadpis": "Povinnosti",
+    "odstavce": [
+     "Robota, desátky a dávky vrchnosti; po roce 1848 daně a výkupné. Vojenská služba byla v jeho mládí čtrnáctiletá a odvádělo se losem – dědic statku byl obvykle osvobozen."
+    ]
+   },
+   {
+    "nadpis": "Společný čas a zábava",
+    "odstavce": [
+     "Rok určovaly svátky a pouti; v hospodě se hrálo na dudy a housle, tancovaly se polky a sousedské. Na panství platila řada zákazů a hospody měly policejní hodinu."
+    ]
+   }
+  ],
+  "obrazky": [
+   {
+    "obdobi": "Sedlák za roboty (1837–1848)",
+    "img": "doba_barikada_1848",
+    "popis": "Barikáda v Praze v červnu 1848 – rok, kdy byla zrušena robota.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/472/https___www_esbirky_cz_detail_125410"
+   },
+   {
+    "obdobi": "Sedlák za roboty (1837–1848)",
+    "img": "doba_skola_19stol",
+    "popis": "Školní třída v 19. století.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/470/https___www_esbirky_cz_detail_3475610"
+   }
+  ],
+  "pozn": "Body v rámečku „V kostce“ a události se štítkem „rodina“ jsou z matrik, „obec“ z dobových vlastivěd. Ostatní popisuje, jak obvykle žil sedlák na Voticku v první polovině 19. století – dobový kontext, ne doložený osobní fakt.",
+  "zdroje": [
+   "Matriky Votice: N 1788–1813 (Votice 07), O 1828–1850 (Votice 16), N 1843–1856 (Votice 12), Z 1871–1907 (Votice 31) a rejstříky (SOA Praha, eBadatelna)",
+   "Okres Votický: nástin statisticko-historický (1873) – Kramerius NK ČR"
+  ]
  }
 }
