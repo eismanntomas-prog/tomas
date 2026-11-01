@@ -20,3 +20,5 @@ zapracuje do skillu, aby je měli i ostatní. Děkujeme!
 - 2026-10-31: dobové obrázky – Wikimedia Commons z cloudu vrací 429 (sdílená IP). Funguje Europeana API (wskey=api2demo, reusability=open) → eSbírky Národního muzea pod CC BY 4.0;
   obrázky stahovat přes edmPreview (api.europeana.eu/thumbnail, 400 px), přímé img.php z eSbírek vrací „File not found“. Nové pole data/doba.json → obrazky [{obdobi,img,popis,autor,licence,zdroj}], soubory v obrazky/.
 - 2026-10-31: `netlify deploy --prod` začal vracet „JSONHTTPError: Forbidden“ (zamčené produkční nasazení). Funguje: `netlify deploy --dir=dist` (koncept) → `api restoreSiteDeploy` (zveřejnit) → `api lockDeploy`.
+
+- Matricula (data.matricula-online.eu): seznam knih lze přečíst i bez přihlášení, ale otevření prohlížeče Playwrightem na obrázky skončilo zamítnutím oprávnění („obcházení ochrany před boty“). Skill by měl u Matriculy dát jen odkaz na knihu a požádat uživatele o ruční opis; automatické stahování obrázků nezkoušet.
