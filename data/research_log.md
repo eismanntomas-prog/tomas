@@ -200,3 +200,7 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
 - Václavovi sourozenci dle rodiny: Jan (medicína, slepé střevo – rozpor se zápisem: zánět ledvin), Josef (zedník), Ludmila (Praha). Josef a Ludmila nejsou v matrice 1911–1916 → narozeni nejspíš po 1916 (otec † 1931). Dohledat křty v Ouběnicích.
 
 - Oprava čtení: úmrtní zápis Jana Spálenky 1940 (Ouběnice fol. 54, sn. 57) – povolání „úředník“ vs. „učedník“ nejisté (háček nad 2. písmenem: ř/č). Ve všech profilech uvedeno obojí; rodinná tradice (studoval medicínu) by spíš seděla k nižšímu zaměstnanci/učni.
+
+## Další generace Vrzalů – pokus (2026-11-01)
+- Votice 06 (7396) obsahuje jen Městečko a Budy (křty 1771–1788), Semtín/Mokřany/Kaliště tam křty nejsou; křest Vojtěcha Macháčka (~1778, Semtín 11) a Kateřiny Lupáčové (~1781, Mokřany) by byl ve Votice 03 (7393, 564 sn., N 1749–1788, rejstřík jen 1749–53 a 1787–88) – bez rejstříku = čtení po stránkách, zatím neděláno. Křest Anny Laštovkové (~1791, Kaliště) → Votice 07 (7397) po vsích, neděláno.
+- Sňatek Josef Lupáč × Kateřina Zoulová (asi 1845–49): rejstřík oddaných Votice Oi 1827–1862 (7483, sn. 13, písmeno L): žádný Lupáč Josef × Zoulová (jsou Lupáč František×Kat. Vrzal, Matěj×Ant. Holoubek, Martin×Fr. Macháčková, Tomáš×Kat. Macháčková aj.; Zoulová – písmeno Z neprošlo). Nutno Z (Zoul…) a rejstřík 1851–1862 (7475 O+Oi); Kateřina z Křešic se mohla vdávat ve své farnosti.
