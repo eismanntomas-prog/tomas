@@ -192,3 +192,6 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
 - Nadějkov (okres Tábor, SOA Třeboň, kniha N 1840–1853 = id 5750, kniha je chronologická, sn. 16 = fol. 13): zápis 6./7. 3. 1842 je jiné dítě (Josef, otec Jakub Žigman?, chalupník z Nové Lhoty) – NENÍ Spálenka. Dobrovolnický rejstřík (id 5760) pro Nadějkov je prázdný. Spálenkovo „Nadějkov okr. Votice“ z úmrtního zápisu tedy nejspíš není obec Nadějkov u Tábora.
 - Votice 23 (7481): rejstřík narozených je složený z několika samostatných rejstříků (1814–1835 aj.), písmeno S neprošlo.
 - Další nápady: v Ouběnicích (Ni 10783) tam Střížovec 1842 nebyl; zkusit Bystřici/Tožice (okr. Benešov), úmrtní rejstřík manželky Marie Medalové (Ouběnice Zi 14933 index S, po 1908), sňatek Jana Hovorky × Josefy Dvořákové (Ouběnice Oi 10783/10785 ~1870–80).
+
+## Info od rodiny (2026-11-01): Václav Spálenka měl sestru Liduši (žila v dospělosti v Praze)
+- Zapsáno do udaje_od_rodiny.md, profilů Kateřiny Hovorkové, Jana a Václava Spálenkových. Liduše není mezi dětmi Jana × Kateřiny z Ouběnic č. 25 do 1916 (Marie 1911, Jan 1913, Václav 1916) → narozena nejspíš 1917–1931 (otec † 1931). Ke hledání: Ouběnice N po 1908 (eBadatelna 'matriky Ouběnice' právě pomalá), rejstřík Ni; případně Praha.
