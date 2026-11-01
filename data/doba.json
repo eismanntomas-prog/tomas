@@ -2634,14 +2634,14 @@
   "perex": {
    "uvod": "Domkář ze Střížovce č. 2, který se v roce 1871 oženil s dcerou kováře z Tožice. Pro Hanu pradědeček, pro vás prapradědeček.",
    "body": [
-    "Narodil se asi 1847 (při sňatku mu bylo 24 let); místo narození zatím nevíme. Jeho rodiče, Josef Spálenka a Josefa rozená Kocourová (?), pocházeli podle zápisu z Nadějkova (?).",
+    "Narodil se 6. března 1842 (podle zápisu o úmrtí mu bylo 65 let a 10 měsíců). Místo narození čteme jako „Nadějkov (?) č. 3, okres Votice“; křest zatím nenalezen. Jeho rodiče, Josef Spálenka a Josefa rozená Kocourová, měli podle zápisu o úmrtí domek ve Střížovci č. 2 a matka pocházela z Nadějkova č. 5.",
     "30. května 1871 se oženil s devatenáctiletou Marií Medalovou, dcerou kováře Jana Medala z Tožice č. 9. Zápis se vede v Bystřici pod domem nevěsty; protože byla nezletilá, souhlasil s manželstvím její otec Jan Medal.",
     "Žil jako domkář ve Střížovci č. 2. Narodilo se jim nejméně šest dětí: Jan (* 27. 2. 1878, Hanin děd), Anna (1880), František (1882), Václav (1885), Josefa (1889) a Bohumil (1891).",
     "Kmotrem syna Jana byl v roce 1878 Josef Medal, domkář v Ouběnicích č. 25 – v domě, kde později Jan hospodařil.",
-    "Zemřel 7. ledna 1908 ve Střížovci č. 2 (údaj z rejstříku zemřelých; samotný zápis zatím nečteme), deset měsíců před svatbou syna Jana (17. 11. 1908)."
+    "Zemřel 7. ledna 1908 ve Střížovci č. 2 ve věku 65 let a 10 měsíců; pohřeb byl 10. ledna v Ouběnicích. Syn Jan se oženil o deset měsíců později (17. 11. 1908). Příčina smrti je v zápisu nečitelná."
    ]
   },
-  "uvod": "Josef byl malý hospodář ze Střížovce. Narodil se těsně před zrušením roboty, vychoval šest dětí a zemřel necelý rok před svatbou syna, od něhož se rodina Spálenků dostala do Ouběnic.",
+  "uvod": "Josef byl malý hospodář ze Střížovce. Narodil se šest let před zrušením roboty, vychoval šest dětí a zemřel necelý rok před svatbou syna, od něhož se rodina Spálenků dostala do Ouběnic.",
   "vladci": [
    {
     "obdobi": "1835–1848",
@@ -2654,68 +2654,68 @@
   ],
   "udalosti": [
    {
-    "rok": "1845–1847",
+    "rok": "1842",
     "vek": 0,
+    "nadpis": "Narození",
+    "text": "6. března 1842, podle zápisu o úmrtí; místo čteme jako Nadějkov (?) č. 3.",
+    "osobni": true
+   },
+   {
+    "rok": "1845–1847",
+    "vek": 3,
     "nadpis": "Hladové roky",
     "text": "Bramborová plíseň a neúrody přinesly drahotu a hlad."
    },
    {
-    "rok": "asi 1847",
-    "vek": 0,
-    "nadpis": "Narození",
-    "text": "Podle věku při sňatku; přesné datum a místo zatím neznáme.",
-    "osobni": true
-   },
-   {
     "rok": "1848",
-    "vek": 1,
+    "vek": 6,
     "nadpis": "Konec roboty",
     "text": "7. září 1848 císař zrušil robotu a poddanství. Za půdu se pak vrchnosti platilo výkupné, splácené ještě desítky let."
    },
    {
     "rok": "1866",
-    "vek": 19,
+    "vek": 24,
     "nadpis": "Prusko-rakouská válka",
     "text": "Pruská armáda v Čechách a s ní epidemie cholery."
    },
    {
     "rok": "1869",
-    "vek": 22,
+    "vek": 27,
     "nadpis": "Nový školský zákon",
     "text": "Od roku 1869 platila osmiletá povinná školní docházka (od 6 do 14 let)."
    },
    {
     "rok": "1871",
-    "vek": 24,
+    "vek": 29,
     "nadpis": "Svatba",
     "text": "30. května 1871 s Marií Medalovou z Tožice č. 9.",
     "osobni": true
    },
    {
     "rok": "1878",
-    "vek": 31,
+    "vek": 36,
     "nadpis": "Narozen syn Jan",
     "text": "27. února 1878 ve Střížovci č. 2 – Hanin děd.",
     "osobni": true
    },
    {
     "rok": "1880–1891",
-    "vek": 33,
+    "vek": 38,
     "nadpis": "Další děti",
     "text": "Anna (1880), František (1882), Václav (1885), Josefa (1889), Bohumil (1891).",
     "osobni": true
    },
    {
     "rok": "1880–1895",
-    "vek": 33,
+    "vek": 38,
     "nadpis": "Zemědělská krize",
     "text": "Levné obilí z Ameriky a Ruska srazilo ceny; menší hospodáře tížily dluhy a přivydělávali si prací u sedláků nebo na velkostatku."
    },
    {
     "rok": "1908",
-    "vek": 61,
+    "vek": 65,
     "nadpis": "Smrt",
-    "text": "7. ledna 1908 ve Střížovci č. 2; 17. listopadu se ženil syn Jan.",
+    "text": "7. ledna 1908 ve Střížovci č. 2, pohřben 10. ledna v Ouběnicích; 17. listopadu se ženil syn Jan.",
     "osobni": true
    }
   ],
@@ -2729,7 +2729,7 @@
    {
     "nadpis": "Škola",
     "odstavce": [
-     "Do roku 1869 platil tereziánský školní řád: šestiletá docházka, v praxi hlavně v zimě, pod dohledem fary. Mnozí lidé té doby uměli číst a podepsat se, psaní a počty ovládali různě. Josef se narodil těsně před rokem 1848, jeho děti už chodily do školy podle zákona z roku 1869."
+     "Do roku 1869 platil tereziánský školní řád: šestiletá docházka, v praxi hlavně v zimě, pod dohledem fary. Mnozí lidé té doby uměli číst a podepsat se, psaní a počty ovládali různě. Josefovy děti už chodily do školy podle zákona z roku 1869."
     ]
    },
    {
@@ -2741,7 +2741,7 @@
    {
     "nadpis": "Povinnosti",
     "odstavce": [
-     "Daně z domu a pozemků, obecní přirážky, povinnosti k faře. Vojenská služba byla do roku 1868 dlouhá a losovalo se; Josefův ročník (asi 1847) byl odveden kolem roku 1867–68. Zda sloužil, nevíme."
+     "Daně z domu a pozemků, obecní přirážky, povinnosti k faře. Vojenská služba byla do roku 1868 dlouhá a losovalo se; Zda Josef sloužil, nevíme."
     ]
    },
    {
@@ -3279,11 +3279,11 @@
  "48": {
   "nadpis": "Doba, ve které žil",
   "perex": {
-   "uvod": "Domkář ze Střížovce, otec Josefa Spálenky (* asi 1847). Pro Hanu prapradědeček, pro vás pra-pra-pradědeček.",
+   "uvod": "Domkář ze Střížovce, otec Josefa Spálenky (* 1842). Pro Hanu prapradědeček, pro vás pra-pra-pradědeček.",
    "body": [
     "Je uveden jako Josef Spálenka, domkář ve Střížovci č. 2. V zápisu z roku 1871 stojí při jeho jménu „z Nadějkova (?) č. 3“; čtení je nejisté.",
     "Jeho manželkou byla Josefa rozená Kocourová (?), dcera chalupníka Matěje Kocoury z Nadějkova (?) č. 5.",
-    "Syn Josef se narodil asi 1847 a 30. května 1871 se oženil s Marií Medalovou z Tožice.",
+    "Syn Josef se narodil 6. března 1842 a 30. května 1871 se oženil s Marií Medalovou z Tožice.",
     "Zemřel před 27. únorem 1878 – v křestním zápise vnuka Jana je uveden jako zemřelý. Přesné datum a rodiče zatím neznáme."
    ]
   },
@@ -3300,10 +3300,10 @@
   ],
   "udalosti": [
    {
-    "rok": "asi 1847",
+    "rok": "1842",
     "vek": null,
     "nadpis": "Narození syna Josefa",
-    "text": "Podle jeho věku při sňatku 1871.",
+    "text": "6. března 1842.",
     "osobni": true
    },
    {
@@ -3383,7 +3383,7 @@
    "uvod": "Žena domkáře ze Střížovce, matka Josefa Spálenky. Pro Hanu praprababička, pro vás pra-pra-prababička.",
    "body": [
     "V zápisech z let 1871 a 1878 je uvedena jako Josefa, rozená Kocourová (?), dcera chalupníka Matěje Kocoury z Nadějkova (?) č. 5, manželka Josefa Spálenky, domkáře ve Střížovci č. 2.",
-    "Syn Josef se narodil asi 1847 a 30. května 1871 se oženil s Marií Medalovou.",
+    "Syn Josef se narodil 6. března 1842 a 30. května 1871 se oženil s Marií Medalovou.",
     "Příjmení i obec čteme nejistě; datum narození, svatby a úmrtí zatím nevíme."
    ]
   },
@@ -3400,10 +3400,10 @@
   ],
   "udalosti": [
    {
-    "rok": "asi 1847",
+    "rok": "1842",
     "vek": null,
     "nadpis": "Narození syna Josefa",
-    "text": "Podle jeho věku při sňatku 1871.",
+    "text": "6. března 1842.",
     "osobni": true
    },
    {
