@@ -2400,8 +2400,8 @@
   "perex": {
    "uvod": "Rodačka z Křešic, která se provdala na statek do Semtína, matka Františky Lupáčové. Pro Hanu praprababička, pro vás pra-pra-prababička.",
    "body": [
-    "Pocházela z Křešic; v zápisech z roku 1874 je uvedena jako Kateřina rozená Zoulová, manželka gruntovníka Josefa Lupáče ze Semtína č. 5. Narodila se asi 1826 (při sňatku jí bylo 17 let).",
-    "23. srpna 1843 se ve Vrchotových Janovicích provdala za Josefa Lupáče (24¾ roku). V zápisu je uvedena jako dcera Josefa Zoula, sedláka z Křešic č. 10; jméno její matky se z rukopisu nedá jistě přečíst.",
+    "Pocházela z Křešic; v zápisech z roku 1874 je uvedena jako Kateřina rozená Zoulová, manželka gruntovníka Josefa Lupáče ze Semtína č. 5. Narodila se 27. listopadu 1826 v Křešicích č. 10 jako dcera sedláka Josefa Zoula a Veroniky (její rodné příjmení nejde z rukopisu přečíst); při sňatku jí bylo téměř 17 let.",
+    "23. srpna 1843 se ve Vrchotových Janovicích provdala za Josefa Lupáče (24¾ roku). V zápisu je uvedena jako dcera Josefa Zoula, sedláka z Křešic č. 10; jméno její matky se v zápisu o sňatku nedá přečíst, v křestním zápise je to Veronika.",
     "Dcera Františka se narodila asi 1850 a 3. února 1874 se provdala za Vojtěcha Vrzala z Městečka.",
     "Datum úmrtí a další děti zatím nevíme."
    ]
@@ -2419,8 +2419,15 @@
   ],
   "udalosti": [
    {
+    "rok": "1826",
+    "vek": 0,
+    "nadpis": "Narození",
+    "text": "27. listopadu 1826 v Křešicích č. 10, dcera Josefa Zoula a Veroniky.",
+    "osobni": true
+   },
+   {
     "rok": "1843",
-    "vek": null,
+    "vek": 16,
     "nadpis": "Svatba",
     "text": "23. srpna 1843 ve Vrchotových Janovicích s Josefem Lupáčem.",
     "osobni": true
