@@ -780,7 +780,7 @@
     "Narodil se 11. listopadu 1916 v Ouběnicích č. 25, v chalupě, kterou jeho otec Jan převzal po Medalech (kmotr Josef Medal tu bydlel už v roce 1878).",
     "Byl třetím dítětem: sestra Marie (* 1911) zemřela v osmi měsících na zápal plic, ještě než se narodil; bratr Jan (* 1913) se stal úředníkem benešovské nemocnice.",
     "Ve 14 letech přišel o otce: Jan Spálenka zemřel 23. dubna 1931 v nemocnici v Benešově na zánět pobřišnice a otravu krve, bylo mu 53 let.",
-    "V roce 1940 zemřel ve 26 letech i bratr Jan – na zánět ledvin v téže nemocnici, kde pracoval. Václav tak zůstal matce Kateřině jediným žijícím synem; podle rodinné informace měl ještě sestru Ludmilu, která v dospělosti žila v Praze.",
+    "V roce 1940 zemřel ve 26 letech i bratr Jan – podle úmrtního zápisu na zánět ledvin v benešovské nemocnici, kde pracoval. Rodinná tradice říká, že Jan studoval v Praze medicínu a zemřel na slepé střevo; zápis uvádí jinou příčinu a rozpor zatím neumíme vysvětlit. Podle rodinné informace měl Václav ještě bratra Josefa (zedníka) a sestru Ludmilu, která v dospělosti žila v Praze; v zápisech z Ouběnic č. 25 do roku 1916 nejsou, narodili se nejspíš později.",
     "V roce 1942 pracoval jako obchodní příručí v koloniálním obchodě a bydlel v Praze XII – Vinohradech, v Koubkově ulici č. 16. Ohlášky měl i u sv. Ludmily na Vinohradech.",
     "17. října 1942 se ve Voticích oženil s Antonií Vrzalovou z Městečka; bylo mu 25 let a 11 měsíců. Svědkem byl kromě Františka Vrzala z Městečka i Václav Hlavsa(?), obchodník z Prahy (jméno čteno nejistě).",
     "Jeho matka Kateřina zemřela 13. listopadu 1950 v Praze (podle poznámky na okraji jejího oddacího zápisu)."
@@ -946,7 +946,7 @@
     "nadpis": "Povinnosti",
     "odstavce": [
      "Vojenská služba v československé armádě trvala ve 30. letech dva roky; Václavův ročník (1916) byl odveden kolem roku 1937. V protektorátu platila pracovní povinnost a přídělový systém.",
-     "Po smrti bratra Jana v roce 1940 byl Václav jediným žijícím synem ovdovělé matky; sestra Ludmila žila podle rodinné informace v dospělosti v Praze."
+     "Po smrti bratra Jana v roce 1940 byl Václav ze synů zachycených v matrice jediným žijícím; podle rodinné informace měl i bratra Josefa (zedníka) a sestru Ludmilu, která žila v dospělosti v Praze."
     ]
    },
    {
@@ -1270,7 +1270,7 @@
     "vek": 33,
     "nadpis": "Děti",
     "osobni": true,
-    "text": "Marie (* 4. 8. 1911, † 18. 4. 1912), Jan (* 22. 8. 1913), Václav (* 11. 11. 1916). Podle rodinné informace měli ještě dceru Ludmilu (narození zatím nenalezeno)."
+    "text": "Marie (* 4. 8. 1911, † 18. 4. 1912), Jan (* 22. 8. 1913), Václav (* 11. 11. 1916). Podle rodinné informace měli ještě dceru Ludmilu a syna Josefa (zedníka); jejich narození zatím nenalezena."
    },
    {
     "rok": "1912",
@@ -4036,7 +4036,7 @@
    "body": [
     "Narodila se 6. března 1881 v Kobylí č. 8 (pokřtěna 8. března) jako dcera rolníka Jana Hovorky a Josefy rozené Dvořákové. Při porodu byla bába Barbora Hofmann z Ouběnic č. 11.",
     "17. listopadu 1908 se v Ouběnicích provdala za domkáře Jana Spálenku (30 let) z Ouběnic č. 25; jí bylo 27. Svědkem byl její bratr Jan Hovorka.",
-    "Z matriky známe tři děti: Marii (* 4. 8. 1911, † 18. 4. 1912 na zápal plic), Jana (* 22. 8. 1913, † 21. 6. 1940 na zánět ledvin) a Václava (* 11. 11. 1916 – Hanin otec). Podle rodinné informace měli ještě dceru Ludmilu, která v dospělosti žila v Praze; její narození zatím nenalezeno.",
+    "Z matriky známe tři děti: Marii (* 4. 8. 1911, † 18. 4. 1912 na zápal plic), Jana (* 22. 8. 1913, † 21. 6. 1940 na zánět ledvin) a Václava (* 11. 11. 1916 – Hanin otec). Podle rodinné informace měli ještě dceru Ludmilu, která v dospělosti žila v Praze, a syna Josefa, zedníka; jejich narození zatím nenalezena. Rodinná tradice o synu Janovi říká, že studoval v Praze medicínu a zemřel na slepé střevo – úmrtní zápis uvádí zánět ledvin.",
     "Manžel Jan zemřel 23. dubna 1931 v benešovské nemocnici; Kateřině bylo 50 let, synům 17 a 14.",
     "Syn Václav se 17. října 1942 ve Voticích oženil s Antonií Vrzalovou. 28. listopadu 1948 se jim narodila Hana.",
     "Zemřela 13. listopadu 1950 v Praze (dopsáno do oddacího zápisu z roku 1908), Haně byly dva roky."
@@ -4163,7 +4163,7 @@
     "rok": "1940",
     "vek": 59,
     "nadpis": "Smrt syna Jana",
-    "text": "21. června 1940 zemřel v benešovské nemocnici ve věku 26 let.",
+    "text": "21. června 1940 zemřel v benešovské nemocnici ve věku 26 let (zápis: zánět ledvin; rodinná tradice: slepé střevo, studoval medicínu).",
     "osobni": true
    },
    {

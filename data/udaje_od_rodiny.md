@@ -26,3 +26,5 @@ Co víme z vyprávění a rodinných dokumentů – kdo to řekl / odkud to je a
 
 ## Doplnění (Tomáš, 2026-11-01)
 - Dědeček Václav Spálenka (* 1916) měl ještě sestru Ludmilu (OPRAVA: původně uvedeno „Liduše“, správně Ludmila), která v dospělosti žila v Praze. (Rok narození a další údaje zatím neznáme; v dosud nalezených zápisech Spálenkových dětí z Ouběnic č. 25 – Marie 1911, Jan 1913, Václav 1916 – není, narodila se tedy nejspíš po roce 1916.)
+- Bratr Jan (* 1913) prý studoval v Praze na doktora a zemřel na slepák (slepé střevo). POZOR – rozpor: úmrtní zápis (Ouběnice, 21. 6. 1940) uvádí zánět ledvin (glomerulonefritis) a Jana jako úředníka benešovské nemocnice, svobodného, 26 let. Rodinná verze vedena jako tradice, zápis je pramen.
+- Bratr Josef byl prý zedník (rok narození neznáme; v zápisech Ouběnice č. 25 do 1916 není).
