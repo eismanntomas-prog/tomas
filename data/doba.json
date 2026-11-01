@@ -1566,5 +1566,151 @@
    "Matriky Votice: N 1788–1813 (Votice 07), O 1828–1850 (Votice 16), N 1843–1856 (Votice 12), Z 1871–1907 (Votice 31) a rejstříky (SOA Praha, eBadatelna)",
    "Okres Votický: nástin statisticko-historický (1873) – Kramerius NK ČR"
   ]
+ },
+ "112": {
+  "nadpis": "Doba, ve které žil",
+  "perex": {
+   "uvod": "Nejstarší doložený Vrzal na statku č. 3 v Městečku – sedlák z doby roboty a napoleonských válek. Pro vás pra-pra-pra-pradědeček.",
+   "body": [
+    "Narodil se kolem roku 1782 – při svatbě v květnu 1811 mu bylo 29 let. Kde přesně a komu, zatím nevíme: v Městečku tehdy žilo několik rodin Vrzalů (viz hypotéza níže).",
+    "Oženil se 7. května 1811 ve Voticích jako svobodný sedlák z Městečka č. 3, poddaný panství Janovice. Nevěstou byla dvacetiletá Anna, dcera sedláka Matěje Laštovky (příjmení čteno nejistě) z Kaliště. Oddával kaplan Jan Antonín Šimon.",
+    "Svědkem mu byl František Vrzal, sedlák z Městečka – nejspíš bratr nebo jiný blízký příbuzný.",
+    "Necelých třináct měsíců po svatbě, 2. června 1812, se narodil syn Václav, pozdější hospodář statku.",
+    "Ještě v roce 1837, při svatbě syna, je uváděn jako sedlák z Městečka č. 3; v roce 1844, při křtu vnuka Vojtěcha, už jako výminkář – statek tedy předal synovi mezi lety 1837 a 1844.",
+    "Datum jeho smrti zatím nevíme: v rejstříku zemřelých Votic 1795–1847 je mnoho Václavů Vrzalů bez udání místa a rejstřík 1848–1871 písmeno V vůbec neobsahuje."
+   ]
+  },
+  "uvod": "Václav se narodil ještě za Josefa II., v době, kdy sedláci tři dny v týdnu robotovali na panském. Jeho mládí poznamenaly napoleonské války, státní bankrot roku 1811 a drahota. Na výminek odešel ještě jako poddaný – konce roboty v roce 1848 se možná nedožil.",
+  "vladci": [
+   {
+    "obdobi": "asi 1782–1790",
+    "text": "císař Josef II. – zrušil nevolnictví (1781), ale robota zůstala"
+   },
+   {
+    "obdobi": "1790–1792",
+    "text": "císař Leopold II."
+   },
+   {
+    "obdobi": "1792–1835",
+    "text": "císař František II./I."
+   },
+   {
+    "obdobi": "1835–1848",
+    "text": "císař Ferdinand V. Dobrotivý"
+   }
+  ],
+  "udalosti": [
+   {
+    "rok": "1781",
+    "vek": null,
+    "nadpis": "Zrušení nevolnictví",
+    "text": "Patent Josefa II. dovolil poddaným svobodně se ženit, stěhovat a posílat děti na řemesla bez svolení vrchnosti. Robota a dávky ale zůstaly."
+   },
+   {
+    "rok": "asi 1782",
+    "vek": 0,
+    "nadpis": "Narození",
+    "text": "Kolem roku 1782, nejspíš na Voticku. Přesné místo a rodiče zatím nevíme."
+   },
+   {
+    "rok": "1787–1790",
+    "vek": 5,
+    "nadpis": "Josefínská škola a reformy",
+    "text": "Za Josefa II. vznikaly triviální školy a zjednodušovaly se církevní obřady; kláštery se rušily."
+   },
+   {
+    "rok": "1805–1809",
+    "vek": 23,
+    "nadpis": "Napoleonské války",
+    "text": "Válka s Francií (Slavkov 1805, 1809) – odvody rekrutů, vojenské průvody a ubytování vojáků, dávky na armádu."
+   },
+   {
+    "rok": "1811",
+    "vek": 29,
+    "nadpis": "Svatba a státní bankrot",
+    "osobni": true,
+    "text": "7. května 1811 se oženil s Annou z Kaliště. V březnu téhož roku rakouský stát zbankrotoval – papírové peníze ztratily čtyři pětiny hodnoty a úspory sedláků se rozplynuly."
+   },
+   {
+    "rok": "1812",
+    "vek": 30,
+    "nadpis": "Narozen syn Václav",
+    "osobni": true,
+    "text": "2. června 1812 v Městečku č. 3."
+   },
+   {
+    "rok": "1813",
+    "vek": 31,
+    "nadpis": "Válka v Čechách",
+    "text": "Bitvy u Chlumce a Přestanova v severních Čechách; spojenecká vojska táhla přes zemi."
+   },
+   {
+    "rok": "1816–1817",
+    "vek": 34,
+    "nadpis": "Rok bez léta",
+    "text": "Po výbuchu sopky Tambora (1815) přišlo studené a deštivé léto, neúroda a hlad."
+   },
+   {
+    "rok": "1831–1832",
+    "vek": 49,
+    "nadpis": "Cholera",
+    "text": "První epidemie asijské cholery v Čechách."
+   },
+   {
+    "rok": "1837",
+    "vek": 55,
+    "nadpis": "Svatba syna",
+    "osobni": true,
+    "text": "14. listopadu 1837 se oženil syn Václav s Rosálií Macháčkovou; starý Václav je v zápisu uveden jako sedlák."
+   },
+   {
+    "rok": "1844",
+    "vek": 62,
+    "nadpis": "Na výminku",
+    "osobni": true,
+    "text": "Při křtu vnuka Vojtěcha (12. 7. 1844) je uveden jako výminkář na statku č. 3."
+   },
+   {
+    "rok": "1848",
+    "vek": 66,
+    "nadpis": "Konec roboty",
+    "text": "Pokud se dožil, zažil v září 1848 zrušení roboty a poddanství."
+   }
+  ],
+  "zivot": [
+   {
+    "nadpis": "Sedlák za Josefa II. a Františka I.",
+    "odstavce": [
+     "Sedlák s lánem nebo půllánem musel vrchnosti (votickému a janovickému panství hrabat z Vrtby) odvádět robotu – zpravidla tři dny v týdnu s potahem –, desátky faře a daně státu. Pole se obdělávala trojpolně: ozim, jař a úhor.",
+     "Brambory se na Voticku začaly ve větším pěstovat až v jeho mládí; zachraňovaly lidi v hladových letech."
+    ]
+   },
+   {
+    "nadpis": "Výminek",
+    "odstavce": [
+     "Když hospodář předal statek synovi, vymínil si ve smlouvě (zapsané v pozemkové knize panství) světnici, deputát obilí, mléka, dříví a péči do smrti. Václav na výminku žil se synovou rodinou – v roce 1844 tak byly na statku tři generace."
+    ]
+   },
+   {
+    "nadpis": "Zdraví a povinnosti",
+    "odstavce": [
+     "Neštovice, tyfus a od roku 1831 cholera; porody doma s porodní bábou. Vojenská služba byla doživotní, později čtrnáctiletá, a odvádělo se podle uvážení vrchnosti – synové sedláků byli často ušetřeni."
+    ]
+   }
+  ],
+  "obrazky": [
+   {
+    "obdobi": "Stáří (1837–1848)",
+    "img": "doba_barikada_1848",
+    "popis": "Barikáda v Praze v červnu 1848 – rok zrušení roboty.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/472/https___www_esbirky_cz_detail_125410"
+   }
+  ],
+  "pozn": "Body v rámečku „V kostce“ a události se štítkem „rodina“ jsou z matrik. Ostatní je dobový kontext – jak obvykle žil sedlák na Voticku na přelomu 18. a 19. století.",
+  "zdroje": [
+   "Matriky Votice: O 1788–1827 (Votice 15), N 1788–1813 (Votice 07), O 1828–1850 (Votice 16), N 1843–1856 (Votice 12); rejstřík Z 1795–1847 (Votice 26) – SOA Praha, eBadatelna"
+  ]
  }
 }

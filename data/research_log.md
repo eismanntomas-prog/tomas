@@ -169,3 +169,4 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
 - Chytil 1915 s. 404 Ouběnice: farář Bohumil Zahradník (spis. Boh. Brodský) = oddávající 1908; hostinský Jos. Hudera v Kobylí = svědek 1908; porodní báby Petrášková, Šupková.
 - Votice Zi 1871–1949 sn. 42: „1873 Vrzalová Rosálie Městečko 3, IV 36“, „1876 Vrzal Frant. Městečko, IV 72“ → Votice Z 1871–1907 (7491) str. 36 = sn. 38: † 10. 4. 1873 Rosalie Vrzalová, 59 l., manželka † Václava Vrzala, gruntovníka. Václav † před 4/1873.
   Rejstřík Z 1848–1871 (7480, sn. 434–439) nemá písmeno V/W (stránky chybí) – úmrtí Václava nedohledáno.
+- Úmrtí Václava Vrzala st. (* ~1782): rejstřík Z 1795–1847 (Votice 26 = 7484, W na sn. 42–45) má desítky Václavů Vrzalů bez místa; str. 888 (sn. 447 knihy 7479) = Vincenc Vrzal, Votice – jiný. Kalibrace 7479: sn. 440 = str. 874/875. Nedohledáno.
