@@ -187,3 +187,8 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
 ## Josef Spálenka (Kekulé 24) – úmrtní zápis nalezen
 - Ouběnice Z 1874–1948 (14933): zápisy končí u sn. ~269, rejstřík od sn. 270; fol. 296 = **sn. 209** (Strženec/Střížovec, rok 1908 – první zápis). Zápis: † 7. 1. 1908 (pohřeb 10. 1. Ouběnice) Josef Spálenka, domkář Střížovec 2, **65 let 10 měs., nar. 6. 3. 1842** (OPRAVA: ne asi 1847), syn Josefa Spálenky, domkáře Střížovec 2, a Josefy roz. Kocoura z Nadějkova č. 5; místo narození „Nadějkov? č. 3, okres Votice“. Příčina smrti nečitelná. Záznam oub_umrti_josef_spalenka_1908.
 - Nadějkov v eBadatelně = okres Tábor (obec Nadějkov) – s „okres Votice“ nesedí; křest 6. 3. 1842 zatím nenalezen (Ouběnice Ni rejstřík 10783 sn. 24–26 písmeno S jsem neprošla do konce; ve výčtu vsí Ouběnice Střížovec chybí).
+
+## Hledání křtu Josefa Spálenky (* 6. 3. 1842) – zatím neúspěšné
+- Nadějkov (okres Tábor, SOA Třeboň, kniha N 1840–1853 = id 5750, kniha je chronologická, sn. 16 = fol. 13): zápis 6./7. 3. 1842 je jiné dítě (Josef, otec Jakub Žigman?, chalupník z Nové Lhoty) – NENÍ Spálenka. Dobrovolnický rejstřík (id 5760) pro Nadějkov je prázdný. Spálenkovo „Nadějkov okr. Votice“ z úmrtního zápisu tedy nejspíš není obec Nadějkov u Tábora.
+- Votice 23 (7481): rejstřík narozených je složený z několika samostatných rejstříků (1814–1835 aj.), písmeno S neprošlo.
+- Další nápady: v Ouběnicích (Ni 10783) tam Střížovec 1842 nebyl; zkusit Bystřici/Tožice (okr. Benešov), úmrtní rejstřík manželky Marie Medalové (Ouběnice Zi 14933 index S, po 1908), sňatek Jana Hovorky × Josefy Dvořákové (Ouběnice Oi 10783/10785 ~1870–80).
