@@ -1868,5 +1868,213 @@
    "Matriky Votice: N 1814–1843 (Votice 11, sn. 414), O 1828–1850 (Votice 16), N 1843–1856 (Votice 12), Z 1871–1907 (Votice 31) a rejstříky (SOA Praha, eBadatelna)",
    "Okres Votický: nástin statisticko-historický (1873) – Kramerius NK ČR"
   ]
+ },
+ "114": {
+  "nadpis": "Doba, ve které žil",
+  "perex": {
+   "uvod": "Sedlák z Velkého Semtína č. 11, který se oženil ve dvaceti letech. Pro Hanu praprapradědeček, pro vás pra-pra-pra-pradědeček.",
+   "body": [
+    "Narodil se přibližně roku 1778 (při sňatku mu bylo 20 let); místo a datum narození zatím nevíme.",
+    "Oženil se 2. října 1798 ve Voticích s o tři roky mladší Kateřinou Lupáčovou, dcerou Tomáše Lupáče z Mokřan. V zápisu je uveden jako sedlák z Velkého Semtína č. 11; oddával kaplán Jan Simon.",
+    "Dcera Rosálie se jim narodila 8. dubna 1815 (zápis ji označuje jako osmou narozenou). V matrice jsem našla zatím jen ji; další děti nejsou prověřené.",
+    "V listopadu 1837 dal jako otec souhlas ke svatbě Rosálie s Václavem Vrzalem – žil tedy ještě, bylo mu asi 59 let.",
+    "Datum úmrtí zatím nevíme."
+   ]
+  },
+  "uvod": "Vojtěch prožil celý život jako poddaný votického panství. Do dospělosti vstoupil na konci 18. století, za napoleonských válek hospodařil na statku ve Velkém Semtíně, v roce 1848 se dočkal zrušení roboty.",
+  "vladci": [
+   {
+    "obdobi": "asi 1778–1790",
+    "text": "Marie Terezie, od roku 1780 Josef II."
+   },
+   {
+    "obdobi": "1792–1835",
+    "text": "císař František II./I."
+   },
+   {
+    "obdobi": "1835–1848",
+    "text": "císař Ferdinand V. Dobrotivý"
+   }
+  ],
+  "udalosti": [
+   {
+    "rok": "asi 1778",
+    "vek": 0,
+    "nadpis": "Narození",
+    "osobni": true,
+    "text": "Podle věku při sňatku; přesné datum ani místo zatím neznáme."
+   },
+   {
+    "rok": "1781",
+    "vek": 3,
+    "nadpis": "Zrušení nevolnictví",
+    "text": "Josef II. zrušil nevolnictví; poddaní se mohli stěhovat a vdávat či ženit bez dovolení vrchnosti, robota ale zůstala."
+   },
+   {
+    "rok": "1798",
+    "vek": 20,
+    "nadpis": "Svatba",
+    "osobni": true,
+    "text": "2. října 1798 ve Voticích s Kateřinou Lupáčovou z Mokřan."
+   },
+   {
+    "rok": "1800–1815",
+    "vek": 22,
+    "nadpis": "Napoleonské války",
+    "text": "Vojenské odvody, průchody vojsk a vysoké dávky; v roce 1805 se u Slavkova bojovalo s Napoleonem."
+   },
+   {
+    "rok": "1815",
+    "vek": 37,
+    "nadpis": "Narozena dcera Rosálie",
+    "osobni": true,
+    "text": "8. dubna 1815 ve Velkém Semtíně č. 11."
+   },
+   {
+    "rok": "1816",
+    "vek": 38,
+    "nadpis": "Rok bez léta",
+    "text": "Po výbuchu sopky Tambora následovaly neúrody a drahota."
+   },
+   {
+    "rok": "1831–1832",
+    "vek": 53,
+    "nadpis": "Cholera",
+    "text": "Do Čech poprvé dorazila asijská cholera."
+   },
+   {
+    "rok": "1837",
+    "vek": 59,
+    "nadpis": "Svatba dcery",
+    "osobni": true,
+    "text": "14. listopadu 1837 dal souhlas k sňatku dcery Rosálie s Václavem Vrzalem."
+   },
+   {
+    "rok": "1848",
+    "vek": 70,
+    "nadpis": "Konec roboty",
+    "text": "7. září 1848 byla zrušena robota a poddanství – pokud se Vojtěch dožil."
+   }
+  ],
+  "zivot": [
+   {
+    "nadpis": "Sedlák za roboty",
+    "odstavce": [
+     "Sedlák musel pro vrchnost robotovat s potahem několik dní v týdnu a platit dávky; vlastní pole obdělával ve zbylém čase. Statek se dědil a hospodáři na stáří zůstával výměnek."
+    ]
+   },
+   {
+    "nadpis": "Ženění v mládí",
+    "odstavce": [
+     "Že se Vojtěch oženil ve 20 a Kateřina vdala v 17, bylo na tehdejší vesnici běžné: dědic statku potřeboval hospodyni a ruce na práci. V matrice se tehdy zapisovalo věk, víra a stav snoubenců i svědci."
+    ]
+   },
+   {
+    "nadpis": "Škola a zdraví",
+    "odstavce": [
+     "Škola byla povinná od roku 1774 (Tereziánská reforma), na vsi ale děti chodily hlavně v zimě. Lékař bydlel ve Voticích a k sedlákům se chodilo málokdy; dětská úmrtnost byla vysoká."
+    ]
+   },
+   {
+    "nadpis": "Jídlo a zábava",
+    "odstavce": [
+     "Chléb, kaše, luštěniny, zelí a od konce 18. století stále víc brambor. Rok určovaly svátky, poutě a posvícení."
+    ]
+   }
+  ],
+  "obrazky": [
+   {
+    "obdobi": "Rok 1848 – konec roboty",
+    "img": "doba_barikada_1848",
+    "popis": "Barikáda v Praze v červnu 1848 – rok, kdy byla zrušena robota.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/472/https___www_esbirky_cz_detail_125410"
+   }
+  ],
+  "pozn": "Body v rámečku „V kostce“ a události se štítkem „rodina“ jsou z matrik, „obec“ z dobových vlastivěd. Ostatní popisuje, jak obvykle žil sedlák na Voticku kolem roku 1800 – dobový kontext, ne doložený osobní fakt.",
+  "zdroje": [
+   "Matriky Votice: O 1788–1827 (Votice 15, sn. 46 a rejstřík), N 1814–1843 (Votice 11, sn. 414), O 1828–1850 (Votice 16) a rejstříky (SOA Praha, eBadatelna)",
+   "Okres Votický: nástin statisticko-historický (1873) – Kramerius NK ČR"
+  ]
+ },
+ "115": {
+  "nadpis": "Doba, ve které žila",
+  "perex": {
+   "uvod": "Dcera sedláka z Mokřan, která se v 17 letech stala selkou ve Velkém Semtíně. Pro Hanu prapraprababička, pro vás pra-pra-pra-prababička.",
+   "body": [
+    "Narodila se přibližně roku 1781 (při sňatku jí bylo 17 let); místo a datum narození zatím nevíme.",
+    "Byla dcerou Tomáše Lupáče z Mokřan. V zápisu o sňatku je uvedena i její matka, jméno čteme nejistě, proto ho nepíšu.",
+    "Dne 2. října 1798 se ve Voticích provdala za dvacetiletého sedláka Vojtěcha Macháčka z Velkého Semtína č. 11.",
+    "Dcera Rosálie se jim narodila 8. dubna 1815, když Kateřině bylo asi 34 let. Další děti zatím nejsou prověřené.",
+    "Datum úmrtí zatím nevíme."
+   ]
+  },
+  "uvod": "Kateřina vyrostla v Mokřanech a jako sedmnáctiletá se odstěhovala na statek manžela do Velkého Semtína. Žila tam v době napoleonských válek a robot.",
+  "vladci": [
+   {
+    "obdobi": "asi 1781–1790",
+    "text": "Josef II."
+   },
+   {
+    "obdobi": "1792–1835",
+    "text": "císař František II./I."
+   }
+  ],
+  "udalosti": [
+   {
+    "rok": "asi 1781",
+    "vek": 0,
+    "nadpis": "Narození",
+    "osobni": true,
+    "text": "Podle věku při sňatku; přesné datum a místo zatím neznáme."
+   },
+   {
+    "rok": "1798",
+    "vek": 17,
+    "nadpis": "Svatba",
+    "osobni": true,
+    "text": "2. října 1798 ve Voticích s Vojtěchem Macháčkem."
+   },
+   {
+    "rok": "1800–1815",
+    "vek": 19,
+    "nadpis": "Napoleonské války",
+    "text": "Odvody, průchody vojsk a vysoké dávky."
+   },
+   {
+    "rok": "1815",
+    "vek": 34,
+    "nadpis": "Narozena dcera Rosálie",
+    "osobni": true,
+    "text": "8. dubna 1815 ve Velkém Semtíně č. 11."
+   },
+   {
+    "rok": "1816",
+    "vek": 35,
+    "nadpis": "Rok bez léta",
+    "text": "Neúroda a drahota po výbuchu sopky Tambora."
+   }
+  ],
+  "zivot": [
+   {
+    "nadpis": "Selka na statku",
+    "odstavce": [
+     "Selka vedla domácnost, starala se o dobytek, drůbež, zahradu, len a děti. Při žních pracovaly ženy na poli vedle mužů."
+    ]
+   },
+   {
+    "nadpis": "Porody a zdraví",
+    "odstavce": [
+     "Rodila se doma s porodní bábou; Rosálii při porodu pomáhala Terezie Tomášková. Dětská úmrtnost byla vysoká."
+    ]
+   }
+  ],
+  "obrazky": [],
+  "pozn": "Body v rámečku „V kostce“ a události se štítkem „rodina“ jsou z matrik, „obec“ z dobových vlastivěd. Ostatní popisuje, jak obvykle žila selka na Voticku kolem roku 1800 – dobový kontext, ne doložený osobní fakt.",
+  "zdroje": [
+   "Matriky Votice: O 1788–1827 (Votice 15, sn. 46 a rejstřík), N 1814–1843 (Votice 11, sn. 414), O 1828–1850 (Votice 16) a rejstříky (SOA Praha, eBadatelna)",
+   "Okres Votický: nástin statisticko-historický (1873) – Kramerius NK ČR"
+  ]
  }
 }

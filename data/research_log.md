@@ -174,3 +174,7 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
 ## Rosálie Macháčková (Kekulé 57) – křest nalezen
 - Rejstřík Votice 23 (7481, sn. 22): „Macháčková Rozarie … Pag. 410“ → kniha 7456 (Votice 11, N 1814–1843), sn. 414 = str. 410 „Semtín Velký, ves“: 9. 4. 1815 (nar. 8. 4.), č. 11, Rosálie, otec Vojtěch Macháček sedlák, matka Kateřina roz. Lupáčová z Mokřan (otec snad Tomáš; čtení nejisté), bába Terezie Tomášková. Záznam vot_krest_rosalie_machackova_1815. Věk 59 l. v úmrtním zápisu 1873 je zaokrouhlený (podle křtu 58).
 - Profil doba.json["57"] hotov, nasazeno.
+
+## Vojtěch Macháček × Kateřina Lupáčová (Kekulé 114, 115)
+- Rejstřík Votice 15 (7473) → O 1788–1827 sn. 46 (Pag. 45, sekce „Pro Semtín Velký“): 2. 10. 1798 Vojtěch Macháček, sedlák, č. 11, 20 let, svobodný × Kateřina, dc. Tomáše Lupáče z Mokřan č. 1(?), 17 let, svobodná (matka Kateřina, č. 5 – nejisté); svědci Jan Holub?, Jakub Víšek?; oddával kaplán Jan Simon. Záznam vot_snatek_vojtech_machacek_katerina_lupacova_1798.
+- Nedohledáno: křty Vojtěcha (~1778) a Kateřiny (~1781), úmrtí obou, další děti (Rosálie je „8. narozená“?).
