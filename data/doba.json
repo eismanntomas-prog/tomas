@@ -1712,5 +1712,161 @@
   "zdroje": [
    "Matriky Votice: O 1788–1827 (Votice 15), N 1788–1813 (Votice 07), O 1828–1850 (Votice 16), N 1843–1856 (Votice 12); rejstřík Z 1795–1847 (Votice 26) – SOA Praha, eBadatelna"
   ]
+ },
+ "57": {
+  "nadpis": "Doba, ve které žila",
+  "perex": {
+   "uvod": "Dcera sedláka z Velkého Semtína, provdaná do Městečka u Olbramovic, matka pěti dětí včetně Vojtěcha. Pro Hanu praprababička, pro vás pra-pra-prababička.",
+   "body": [
+    "Narodila se 8. dubna 1815 ve Velkém Semtíně č. 11 a byla pokřtěna následující den – v roce, kdy po Napoleonových válkách skončil dlouhý konflikt a Evropa se uklidňovala. Porodní babičkou byla Terezie Tomášková.",
+    "Rodiče: sedlák Vojtěch Macháček a Kateřina, rozená Lupáčová z Mokřan (čtení jména jejího otce v matrice je nejisté).",
+    "Vdávala se v 22 letech, 14. listopadu 1837 ve Voticích, za sedláka Václava Vrzala z Městečka č. 3. Jako nezletilá potřebovala souhlas otce Vojtěcha Macháčka.",
+    "Měla nejméně pět dětí: Vojtěcha (* 1844), Václava (* 1846), Marii Dorotu (* 1849), Josefu (* 1850) a Marii (* 1852). Vojtěch je Hanin pradědeček.",
+    "Zemřela 10. dubna 1873 v Městečku č. 3, měla být pohřbena v Olbramovicích. Zápis ji uvádí jako manželku zesnulého gruntovníka Václava Vrzala. Věk 59 let je v zápise zaokrouhlený – podle křtu jí bylo právě 58.",
+    "Svatbu syna Vojtěcha (1874) ani narození vnuka Tomáše Vrzala (prosinec 1874) už nezažila – zemřela v dubnu 1873."
+   ]
+  },
+  "uvod": "Rosálie žila celý dospělý život na statku v Městečku č. 3 jako selka. Narodila se na konci napoleonských válek, provdala se v době roboty, zažila její zrušení v roce 1848 a zemřela čtyři roky po tom, co do kraje přijela železnice.",
+  "vladci": [
+   {
+    "obdobi": "1815–1835",
+    "text": "císař František I."
+   },
+   {
+    "obdobi": "1835–1848",
+    "text": "císař Ferdinand V. Dobrotivý"
+   },
+   {
+    "obdobi": "1848–1873",
+    "text": "císař František Josef I."
+   }
+  ],
+  "udalosti": [
+   {
+    "rok": "1815",
+    "vek": 0,
+    "nadpis": "Narození",
+    "osobni": true,
+    "text": "8. dubna 1815 ve Velkém Semtíně č. 11, pokřtěna 9. 4."
+   },
+   {
+    "rok": "1815",
+    "vek": 0,
+    "nadpis": "Konec napoleonských válek",
+    "text": "Po Waterloo (červen 1815) skončily dvě desetiletí válek; rekruti a dávky byly břemenem i pro Voticko."
+   },
+   {
+    "rok": "1816",
+    "vek": 1,
+    "nadpis": "Rok bez léta",
+    "text": "Po výbuchu sopky Tambora byl rok 1816 chladný a deštivý; následovaly neúrody a drahota."
+   },
+   {
+    "rok": "1831–1832",
+    "vek": 16,
+    "nadpis": "Cholera",
+    "text": "Do Čech poprvé dorazila asijská cholera."
+   },
+   {
+    "rok": "1837",
+    "vek": 22,
+    "nadpis": "Svatba",
+    "osobni": true,
+    "text": "14. listopadu 1837 ve Voticích s Václavem Vrzalem z Městečka č. 3."
+   },
+   {
+    "rok": "1844",
+    "vek": 29,
+    "nadpis": "Narozen syn Vojtěch",
+    "osobni": true,
+    "text": "12. července 1844; Rosálie je v zápise uvedena jako dcera Vojtěcha Macháčka ze Semtína."
+   },
+   {
+    "rok": "1845–1847",
+    "vek": 30,
+    "nadpis": "Hladové roky",
+    "text": "Bramborová plíseň a neúrody přinesly drahotu a hlad."
+   },
+   {
+    "rok": "1848",
+    "vek": 33,
+    "nadpis": "Konec roboty",
+    "text": "7. září 1848 byla zrušena robota a poddanství."
+   },
+   {
+    "rok": "1850–1852",
+    "vek": 35,
+    "nadpis": "Narozeny dcery Josefa a Marie",
+    "osobni": true,
+    "text": "Josefa (* 1850) a Marie (* 1852)."
+   },
+   {
+    "rok": "1866",
+    "vek": 51,
+    "nadpis": "Prusko-rakouská válka",
+    "text": "Pruská armáda v Čechách a s ní epidemie cholery."
+   },
+   {
+    "rok": "1871",
+    "vek": 56,
+    "nadpis": "Železnice",
+    "mistni": true,
+    "text": "Začala jezdit dráha Praha–Tábor se stanicí Veselka u Městečka."
+   },
+   {
+    "rok": "1873",
+    "vek": 58,
+    "nadpis": "Úmrtí",
+    "osobni": true,
+    "text": "10. dubna 1873 v Městečku č. 3."
+   }
+  ],
+  "zivot": [
+   {
+    "nadpis": "Selka na statku",
+    "odstavce": [
+     "Selka vedla dům: vařila, pekla chleba, starala se o drůbež, dobytek, zahradu a len a po porodech i o děti. Za roboty se do práce na panském posílal i čeledín nebo manžel s potahem; ženy chodily na panské při žních a sklizni."
+    ]
+   },
+   {
+    "nadpis": "Škola",
+    "odstavce": [
+     "Venkovská děvčata chodila do triviální školy hlavně v zimě; číst se učila z modlitební knížky, psaní bylo vzácnější. Zda Rosálie psát uměla, z matrik nevíme."
+    ]
+   },
+   {
+    "nadpis": "Zdraví a porody",
+    "odstavce": [
+     "Rodila doma s pomocí porodní báby; děti často umíraly v prvních letech života. Lékař byl ve Voticích a k selkám se volal jen ve vážných případech."
+    ]
+   },
+   {
+    "nadpis": "Jídlo a domácnost",
+    "odstavce": [
+     "Chléb, kaše, brambory, zelí, luštěniny a mléčné pokrmy; maso hlavně o svátcích. V 19. století se i na Voticku brambory staly základní potravinou."
+    ]
+   },
+   {
+    "nadpis": "Svátky a zábava",
+    "odstavce": [
+     "Rok určovaly církevní svátky, poutě, posvícení a taneční zábavy v hospodě."
+    ]
+   }
+  ],
+  "obrazky": [
+   {
+    "obdobi": "Rok 1848 – konec roboty",
+    "img": "doba_barikada_1848",
+    "popis": "Barikáda v Praze v červnu 1848 – rok, kdy byla zrušena robota.",
+    "autor": "Národní muzeum (eSbírky)",
+    "licence": "CC BY 4.0",
+    "zdroj": "https://www.europeana.eu/item/472/https___www_esbirky_cz_detail_125410"
+   }
+  ],
+  "pozn": "Body v rámečku „V kostce“ a události se štítkem „rodina“ jsou z matrik, „obec“ z dobových vlastivěd. Ostatní popisuje, jak obvykle žila selka na Voticku v první polovině 19. století – dobový kontext, ne doložený osobní fakt.",
+  "zdroje": [
+   "Matriky Votice: N 1814–1843 (Votice 11, sn. 414), O 1828–1850 (Votice 16), N 1843–1856 (Votice 12), Z 1871–1907 (Votice 31) a rejstříky (SOA Praha, eBadatelna)",
+   "Okres Votický: nástin statisticko-historický (1873) – Kramerius NK ČR"
+  ]
  }
 }

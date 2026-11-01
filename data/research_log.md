@@ -170,3 +170,7 @@ Konvence: každý řádek = jedno hledání, i neúspěšné. Negativní výsled
 - Votice Zi 1871–1949 sn. 42: „1873 Vrzalová Rosálie Městečko 3, IV 36“, „1876 Vrzal Frant. Městečko, IV 72“ → Votice Z 1871–1907 (7491) str. 36 = sn. 38: † 10. 4. 1873 Rosalie Vrzalová, 59 l., manželka † Václava Vrzala, gruntovníka. Václav † před 4/1873.
   Rejstřík Z 1848–1871 (7480, sn. 434–439) nemá písmeno V/W (stránky chybí) – úmrtí Václava nedohledáno.
 - Úmrtí Václava Vrzala st. (* ~1782): rejstřík Z 1795–1847 (Votice 26 = 7484, W na sn. 42–45) má desítky Václavů Vrzalů bez místa; str. 888 (sn. 447 knihy 7479) = Vincenc Vrzal, Votice – jiný. Kalibrace 7479: sn. 440 = str. 874/875. Nedohledáno.
+
+## Rosálie Macháčková (Kekulé 57) – křest nalezen
+- Rejstřík Votice 23 (7481, sn. 22): „Macháčková Rozarie … Pag. 410“ → kniha 7456 (Votice 11, N 1814–1843), sn. 414 = str. 410 „Semtín Velký, ves“: 9. 4. 1815 (nar. 8. 4.), č. 11, Rosálie, otec Vojtěch Macháček sedlák, matka Kateřina roz. Lupáčová z Mokřan (otec snad Tomáš; čtení nejisté), bába Terezie Tomášková. Záznam vot_krest_rosalie_machackova_1815. Věk 59 l. v úmrtním zápisu 1873 je zaokrouhlený (podle křtu 58).
+- Profil doba.json["57"] hotov, nasazeno.
