@@ -14,7 +14,7 @@
  "uvod": {
   "nadpis": "Od podruhů, sedláků a kovářů k Praze",
   "odstavce": [
-   "Tátova strana: babička Vlasta se narodila v roce 1912 v Českých Budějovicích; její předci byli podruzi z Veselí nad Lužnicí, nádeníci od Budějovic, topič v tabákové továrně a pozlacovač z Horního Rakouska. Dědeček František Eismann byl bankovním úředníkem na Vinohradech.",
+   "Tátova strana: Eismannové byli učitelé ve Zdicích, Zvíkovci a Hudlicích u Berouna; zámečník František přišel kolem roku 1896 do Prahy a jeho syn František (1905–1988) byl bankovním úředníkem na Vinohradech. Babička Vlasta se narodila v roce 1912 v Českých Budějovicích; její předci byli podruzi z Veselí nad Lužnicí, nádeníci od Budějovic, topič v tabákové továrně a pozlacovač z Horního Rakouska.",
    "Mámina strana: dědeček Václav Spálenka pocházel z domkářů v Ouběnicích u Bystřice, babička Antonie Vrzalová ze sedláckého statku č. 3 v Městečku u Olbramovic, který Vrzalové drželi nejméně čtyři generace.",
    "U každého údaje je výřez původního zápisu z matriky s přepisem."
   ],
@@ -22,11 +22,15 @@
   "foto_popis": "Sňatek Stanislava Nového a Marie Cikánkové, České Budějovice 1911"
  },
  "pribeh": {
-  "menu": "",
-  "rod": 10,
-  "tlacitko": ""
+  "menu": "Příběh Eismannů",
+  "rod": 8,
+  "tlacitko": "Přečíst příběh Eismannů"
  },
  "zajimavosti_na_uvodu": [
+  {
+   "nadpis": "Rod učitelů z Hudlic",
+   "text": "Rodinná pověst o Hudlicích se potvrdila: prapradědeček Václav Eismann byl učitel a jeho žena Barbora dcerou hudlického učitele Jana Malese."
+  },
   {
    "nadpis": "Nejstarší doložený předek",
    "text": "Matěj Cikánek, narozený 23. února 1823 ve Veselí nad Lužnicí jako nemanželský syn podruhyně Marie."
