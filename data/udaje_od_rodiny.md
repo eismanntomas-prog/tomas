@@ -28,3 +28,6 @@ Co víme z vyprávění a rodinných dokumentů – kdo to řekl / odkud to je a
 - Dědeček Václav Spálenka (* 1916) měl ještě sestru Ludmilu (OPRAVA: původně uvedeno „Liduše“, správně Ludmila), která v dospělosti žila v Praze. (Rok narození a další údaje zatím neznáme; v dosud nalezených zápisech Spálenkových dětí z Ouběnic č. 25 – Marie 1911, Jan 1913, Václav 1916 – není, narodila se tedy nejspíš po roce 1916.)
 - Bratr Jan (* 1913) prý studoval v Praze na doktora a zemřel na slepák (slepé střevo). POZOR – rozpor: úmrtní zápis (Ouběnice, 21. 6. 1940) uvádí zánět ledvin (glomerulonefritis) a Jana jako úředníka benešovské nemocnice, svobodného, 26 let. Rodinná verze vedena jako tradice, zápis je pramen.
 - Bratr Josef byl prý zedník (rok narození neznáme; v zápisech Ouběnice č. 25 do 1916 není).
+
+## Fotografie rodinného hrobu (Tomáš, 2026-11-03), Vinohradský hřbitov 48/219
+- RODINA EISMANNOVA: Anna Eismannová 12. 12. 1874 – 25. 7. 1945; František Eismann 29. 11. 1873 – 7. 3. 1951; arch. František Růt 19. 2. 1888 – 8. 4. 1959; Vlasta Eismannová 26. 1. 1912 – 16. 5. 2013; Bc. Alena Rýgrová 24. 3. 1969 – 9. 3. 2021; Jana Prágrová 16. 5. 1941 – 5. 2. 2024. Urna: Fr. Eismann 27. 2. 1905 – 20. 10. 1988.

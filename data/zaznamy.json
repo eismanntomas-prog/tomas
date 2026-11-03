@@ -348,5 +348,35 @@
   "nazev": "Křest Kateřiny Zoulové",
   "shrnuti": "Vrchotovy Janovice, ves Křešice, fol. 93: Kateřina, dcera Josefa Zoula, sedláka z Křešic č. 10, a Veroniky (příjmení čteme nejistě). Bába Magdalena Kramářová(?). Zapsal František Rychlý(?), kurát.",
   "odkaz": "https://ebadatelna.soapraha.cz/d/7849/88"
+ },
+ {
+  "klic": "vin_krest_frantisek_eismann_1905",
+  "svazek": "ahmp_VIN_N10",
+  "snimek": 416,
+  "druh": "N",
+  "datum": "27. 2. 1905",
+  "nazev": "Křest Františka Eismanna (dědeček)",
+  "shrnuti": "Král. Vinohrady čp. 949, č. 129: František Antonín, * 27. 2. 1905, pokřtěn 5. 3. 1905 u sv. Ludmily. Otec František Eismann, zámečnický pomocník, * 29. 1. 1873 v Cheznovicích č. 73 (okr. Hořovice), syn Václava Eismanna, učitele na obecné škole, a Barbory roz. Malesové z Hudlic; matka Anna roz. Růžková, * 12. 12. 1874 v Českém Brodě č. 131, dcera Václava Růžka, mistra krejčovského, a Kateřiny roz. Vlčkové? ze Lhotějna? č. 131. Rodiče oddáni 6. 10. 1896 tamtéž.",
+  "odkaz": "https://katalog.ahmp.cz/pragapublica/permalink?xid=1BB3C54C91AE45148290C2D6240E036A&scan=416"
+ },
+ {
+  "klic": "hrob_vinohrady_48_219",
+  "svazek": "foto_rodina",
+  "snimek": 0,
+  "druh": "H",
+  "datum": "2026",
+  "nazev": "Náhrobek Rodina Eismannova, Vinohradský hřbitov 48/219",
+  "shrnuti": "Anna Eismannová 12. 12. 1874 – 25. 7. 1945; František Eismann 29. 11. 1873 – 7. 3. 1951; arch. František Růt 19. 2. 1888 – 8. 4. 1959; Vlasta Eismannová 26. 1. 1912 – 16. 5. 2013; Bc. Alena Rýgrová 24. 3. 1969 – 9. 3. 2021; Jana Prágrová 16. 5. 1941 – 5. 2. 2024; urna Fr. Eismann 27. 2. 1905 – 20. 10. 1988. Foto Tomáš Eismann, 2026.",
+  "odkaz": ""
+ },
+ {
+  "klic": "pol_frantisek_eismann_1873",
+  "svazek": "na_prihlasky",
+  "snimek": 782,
+  "druh": "P",
+  "datum": "1896–1903",
+  "nazev": "Policejní přihláška Františka Eismanna (* 1873)",
+  "shrnuti": "Franz Eismann, zámečník (Schlosser), * 1873, domovská obec Zvíkovec, okr. Rokycany; manželka Anna roz. Růžková * 1874; děti Marie * 1896, Paulína * 1898. Přihlášen 1896–1902 (Libeň, Nové Vysočany čp. 166), od 1902 Král. Vinohrady čp. 874, od 23. 1. 1903 čp. 949.",
+  "odkaz": "https://digi.nacr.cz/prihlasky2/index.php?action=link&ref=czarch:CZ-100000010:874&karton=3&folium=782"
  }
 ]

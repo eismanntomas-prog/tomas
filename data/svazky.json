@@ -222,5 +222,26 @@
   "popis": "Babice, Braštice, Číhavka, Křešice, Lhotka, Mrvice, Podolí, Radotín, Rudoltice, Slavkov, Velká Lhota, Voleveč, Voračice, Vrchotovy Janovice, Zárybničí",
   "snimku": 179,
   "url": "https://ebadatelna.soapraha.cz/pages/MatrikaPage/matrikaId/7849"
+ },
+ "ahmp_VIN_N10": {
+  "archiv": "Archiv hl. m. Prahy – Sbírka matrik",
+  "portal": "katalog.ahmp.cz",
+  "svazek": "Král. Vinohrady, sv. Ludmila, N10 (1903–1905)",
+  "popis": "",
+  "url": "https://katalog.ahmp.cz/pragapublica/permalink?xid=1BB3C54C91AE45148290C2D6240E036A"
+ },
+ "foto_rodina": {
+  "archiv": "Rodinné foto",
+  "portal": "",
+  "svazek": "Fotografie od rodiny",
+  "popis": "",
+  "url": ""
+ },
+ "na_prihlasky": {
+  "archiv": "Národní archiv – Policejní ředitelství Praha I, konskripce",
+  "portal": "digi.nacr.cz",
+  "svazek": "Pražské policejní přihlášky 1850–1914",
+  "popis": "",
+  "url": "https://digi.nacr.cz/prihlasky2/"
  }
 }
